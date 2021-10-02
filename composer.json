@@ -1,7 +1,6 @@
 {
   "require": {
     "craftcms/cms": "^3.6.4",
-    "twbs/bootstrap": "^5.1",
     "vlucas/phpdotenv": "^3.4.0"
   },
   "require-dev": {
