@@ -1,0 +1,22 @@
+dateModified: 1630961618
+email:
+  fromEmail: sethwlang@protonmail.com
+  fromName: 'The Writing Desk'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    a5dbc24b-4a32-4345-a01d-47f9cc3c8192: 'The Writing Desk' # The Writing Desk
+    c22ec2ae-d3f5-4306-9694-8fec63efff76: Common # Common
+    fc474573-a921-4c7d-8f8c-3a597b3d2624: 'The Writing Desk' # The Writing Desk
+system:
+  edition: solo
+  live: true
+  name: 'The Writing Desk'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
