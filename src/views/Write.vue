@@ -5,12 +5,13 @@
       <div >
         <img src="@/assets/images/typing.jpg" width="80%"/>
       </div>
-      <div class="grid-cols-1 text-2xl">
-        <p>I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p><br/>
+      <div class="grid-cols-1 text-3xl">
+        <p>I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p>
         <p>Whether you need clear, compelling copy, a persuasive proposal, or assistance writing your book, I can’t wait to jump in.</p>
       </div>
     </div>
     <br/>
+    <div class="bg-twd-blue-secondary-light">
     <h2>Copywriting</h2>
 
     <p>You already know that good writing is essential to your business—you need copy that converts, emails that get
@@ -28,13 +29,14 @@
 
     <p>Your business matters—and so does your copy. Let’s get started.</p>
 
-    <button class="bg-twd-blue-primary pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5">Contact Bailey</button>
+    <button class="bg-twd-grey-primary-light text-white pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5">Contact Bailey</button>
 
     <p><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
       subject matter are key points that keep us wanting to work with her. —Sara Blackstock, East Hartford, CT.</i></p>
     <br/>
-
+</div>
 <div class="grid grid-cols-2">
+
   <div>
     <h2>Proposal Writing</h2>
     <p>Requests for proposal can be time-consuming, technical, and overwhelming. That’s part of why I enjoy writing
@@ -54,7 +56,7 @@
     <p>Just <a href="#">contact me</a> to set up a time to discuss your business and proposal needs.</p>
     <button class="bg-twd-blue-primary pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5">Contact Bailey</button>
   </div>
-  <div class="pb-5 pl-5"><img src="@/assets/images/writing2.jpg" width="600px"/></div>
+  <div class="pb-5 pl-28 pt-10"><img src="@/assets/images/writing2.jpg" width="600px"/></div>
 </div>
 
 
@@ -63,6 +65,7 @@
       to work with and I will definitely tap her in the future for more projects involving written content."—Wayne J.,
       Blooming Beds</i></p>
     <br/>
+    <div class="bg-twd-blue-secondary-light">
     <h2>Ghostwriting</h2>
 
     <p>Publishing an eBook can be a great way to drive interest in your business or tell a story you’re passionate
@@ -80,9 +83,10 @@
 
     <p>I have a limited number of ghostwriting slots, so don’t wait!</p>
 
-    <button class="bg-twd-blue-primary pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5">Contact Bailey</button>
+    <button class="bg-twd-grey-primary-light text-white pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5">Contact Bailey</button>
 
     <p><i>“I like working with Bailey because she’s boring—in a good way. She is reliable, and delivers exactly what she
       says, when she says she’ll deliver it.” —Brad C., Clark Asset Management</i></p><br/>
+    </div>
   </div>
 </template>
