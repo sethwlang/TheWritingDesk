@@ -46,15 +46,16 @@
     <div class="flex mb-14 mt-14">
       <transition-group class="flex overflow-hidden pr-6" tag="div">
         <div v-for="slide in slides"
-            class=' p-10 h-44 transition duration-700 ease-in-out w-1/3 text-center bg-twd-blue-primary rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1'
+            class=' p-10 h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1'
+             :class="{'bg-twd-blue-primary' : isEven(slide.id), 'bg-twd-grey-primary-light text-white': !isEven(slide.id)}"
             :key="slide.id">
           <p v-html="slide.quote "></p>
         </div>
       </transition-group>
-      <div class='flex'>
+      <!--<div class='flex'>
         <button class='carousel-controls__button' @click="previous">prev</button>
         <button class='carousel-controls__button' @click="next">next</button>
-      </div>
+      </div>-->
     </div>
 
     <script async type="application/javascript" data-uid="12d0a0d491"
@@ -94,6 +95,13 @@ export default {
     previous() {
       const last = this.slides.pop()
       this.slides = [last].concat(this.slides)
+    },
+    isEven(id){
+      let remainder = id % 2;
+      if(remainder == 0){
+        return true;
+      }
+      return false;
     }
   }
 }
