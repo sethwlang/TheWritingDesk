@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ansi-regex": ">=5.0.1",
-    "core-js": "^3.19.2",
+    "core-js": "^3.20.1",
     "json-schema": "^0.4.0",
     "nth-check": ">=2.0.1",
     "vue": "^2.6.11",
