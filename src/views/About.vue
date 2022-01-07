@@ -34,34 +34,19 @@
         You’ll find everything you need in my<router-link to="/edit">editing packages</router-link>.
         </li>
 
-        <li>Is it time to work with a writer for your email campaign, proposals, or a book?<br>
-          Check out my <router-link to="/write">writing offerings</router-link> —I’m excited to help you out!
-        </li>
-      </ul>
-    </section>
-
-    <section>
-
-      <h2>Here’s what it’s like to work with me!</h2>
-
-      <div class="flex mb-14 mt-14 about-me-testimonials fade-reveal">
-        <transition-group class="flex overflow-hidden pr-6" tag="div">
-          <div v-for="slide in slides"
-              class="p-10 h-44 transition duration-700 ease-in-out w-1/3 text-center bg-twd-blue-primary rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1 testimonial-slide"
-              :key="slide.id">
-            <p v-html="slide.quote" class="no-split"></p>
-          </div>
-        </transition-group>
-        <div class='flex'>
-          <button class='carousel-controls__button' @click="previous">prev</button>
-          <button class='carousel-controls__button' @click="next">next</button>
+    <div class="flex mb-14 mt-14">
+      <transition-group class="flex overflow-hidden pr-6" tag="div">
+        <div v-for="slide in slides"
+            class=' p-10 h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1'
+             :class="{'bg-twd-blue-primary' : isEven(slide.id), 'bg-twd-grey-primary-light text-white': !isEven(slide.id)}"
+            :key="slide.id">
+          <p v-html="slide.quote "></p>
         </div>
-      </div>
-
-    <div class="form-wrapper fade-reveal">
-        <script async type="application/javascript" data-uid="12d0a0d491"
-            src="https://expert-painter-8086.ck.page/12d0a0d491/index.js">
-        </script>
+      </transition-group>
+      <!--<div class='flex'>
+        <button class='carousel-controls__button' @click="previous">prev</button>
+        <button class='carousel-controls__button' @click="next">next</button>
+      </div>-->
     </div>
 
     </section>
@@ -101,6 +86,13 @@ export default {
     previous() {
       const last = this.slides.pop()
       this.slides = [last].concat(this.slides)
+    },
+    isEven(id){
+      let remainder = id % 2;
+      if(remainder == 0){
+        return true;
+      }
+      return false;
     }
   }
 }
