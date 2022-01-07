@@ -1,8 +1,8 @@
 <template>
-  <nav class="flex items-center justify-between flex-wrap bg-twd-blue-secondary-dark p-6">
-    <div class="flex items-center flex-shrink-0 text-white mr-6">
+  <nav class="flex items-center justify-between flex-wrap bg-twd-blue-secondary-dark">
+    <div class="flex items-center flex-shrink-0 text-white mr-6 logo">
       <router-link to="/" >
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300"
+        <svg class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300"
            height="auto" viewBox="0 0 3184.3317972350223 1558.5253456221196">
         <g transform="scale(9.216589861751151) translate(10, 10)">
           <defs id="SvgjsDefs1027"></defs>
@@ -42,6 +42,61 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+  nav {
+    padding:24px 6vw;
+    //background:rgba(162, 214, 224,0.88);
+    background:rgba(200,231,237,0.8);
+    background:rgba(200,231,237,1);
+    //backdrop-filter:blur(8px);
+    position:fixed;
+    width:100vw;
+    z-index:100;
+    height:136px;
+    top:0;
+    transition:0.6s;
+    transition-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
 
+    &.scrolled {
+      &.hide {
+        transform:translateY(-136px);
+      }
+      &:not(.hide) {
+        box-shadow:0px 0px 24px rgba(2,2,2,0.12);
+      }
+    }
+    .logo {
+      svg {
+        width:180px;
+        height:auto;
+      }
+    }
+    a {
+      font-size:20px;
+      letter-spacing:0px;
+      margin-right:64px;
+      font-weight:800;
+
+      &:last-of-type {
+        margin-right:0;
+      }
+    }
+
+    &.dark {
+      background:#21626D;
+      svg {
+        path, rect {
+          fill:#fff;
+        }
+      }
+      a {
+        color:#fff;
+        font-weight:600;
+        &:not(.router-link-exact-active):not(:hover) {
+          opacity:0.55;
+        }
+      }
+    }
+
+  }
 </style>

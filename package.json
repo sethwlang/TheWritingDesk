@@ -10,8 +10,12 @@
   "dependencies": {
     "ansi-regex": ">=5.0.1",
     "core-js": "^3.19.2",
+    "gsap": "^3.9.0",
+    "jquery": "^3.6.0",
     "json-schema": "^0.4.0",
     "nth-check": ">=2.0.1",
+    "prefetch-image": "^1.1.1",
+    "splitting": "^1.0.6",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
@@ -25,6 +29,8 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "postcss": "^7.0.39",
+    "sass": "^1.45.0",
+    "sass-loader": "^10.2.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vue-router": "^3.5.3",
     "vue-template-compiler": "^2.6.11"

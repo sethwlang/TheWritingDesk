@@ -1,0 +1,22 @@
+nav {
+
+    .logo {
+        svg {
+            path, rect {
+                fill:#000;
+            }
+        }
+    }
+    a {
+        @include smooth;
+        &:hover {
+            //color:$primary-dark;
+            opacity:1;
+        }
+
+        &:not(.router-link-exact-active):not(:hover) {
+            opacity:0.75;
+        }
+    }
+    
+}

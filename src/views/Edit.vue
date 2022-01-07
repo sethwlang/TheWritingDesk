@@ -1,19 +1,22 @@
 <template>
-  <div class="edit ml-28 mr-28">
-    <h1>Editing Services</h1>
-    <div class="grid grid-cols-2 flex items-center">
-      <div>
-        <img src="@/assets/images/writing.jpg" width="80%"/>
+  <div class="edit">
+
+    
+
+    <div class="flex columns header">
+      <div class="image">
+        <!--<img src="@/assets/images/writing.jpg"/>-->
+        <img class="fade-reveal" src="../assets/images/writing.jpg" />
       </div>
-      <div class="grid-cols-1 text-3xl">
+      <div class="flex vertical center">
+        <h1>Editing Services</h1>
         <p>Nothing will bring me more joy than helping you get your writing from draft to done! I provide editing and
           accountability services for every stage of a project, from developmental edits to proofreading.</p>
-
         <p>I can’t wait to learn about your project! </p>
       </div>
     </div>
-    <br/>
-    <div class="bg-twd-blue-secondary-light pl-5 pr-5">
+
+    <section class="bg-primary-light">
       <h2>Developmental Editing</h2>
       <p>You’ve completed a draft of your book. Now what?</p>
 
@@ -29,43 +32,57 @@
         observations and recommendations. We’ll also meet twice—at the start of the project and after I’ve provided my
         comments—so I can answer all your questions.</p><br/>
 
-      <p>I have a limited number of slots available for developmental editing, so don’t wait! Contact me [link] to
+      <p>I have a limited number of slots available for developmental editing, so don’t wait! Contact me to
         schedule a free 15-minute consultation.</p><br/>
 
-      <router-link class="bg-twd-grey-primary-light text-white pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5" to="/contact">Contact Bailey</router-link><br/><br/>
+      <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
 
-      <p><i>“I cannot express how happy I am with the end result. I would not hesitate to work with you again.” —Rey,
+      <p class="quote fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with you again.” —Rey,
         Novelist and Poet.</i></p><br/>
-    </div>
-    <div>
-      <h2>Line Editing, Copy Editing, and Proofreading</h2>
-      <div class="grid grid-cols-2">
-        <div><img src="@/assets/images/writing3.jpg" width="80%"/></div>
-        <div class="grid-cols-1 text-3xl pr-5">
-          <p>Developmental editing helps you identify big-picture items for revision, but doesn’t focus on style,
-          technical
-          considerations, or typos. However, your work also deserves the TLC of line editing, copy editing, and
-          proofreading.</p><br/>
-        <p>Spell check and grammar check are useful tools, but they’re still no match for a human editor who understands
-          context—as well as how, when, and why to break the rules.</p><br/>
+    </section>
 
-        <p>I offer the following editing services for manuscripts, website copy, marketing collateral, and any other
-          writing projects you’re working on:</p><br/>
+
+      
+    <section class="flex columns editing-proofreading">
+      <div><img class="fade-reveal" src="../assets/images/writing3.jpg"/></div>
+      <div class="content">
+        <h2>Line Editing, Copy Editing, and Proofreading</h2>
+        <p>
+        Developmental editing helps you identify big-picture items for revision, but doesn’t focus on style,
+        technical
+        considerations, or typos. However, your work also deserves the TLC of line editing, copy editing, and
+        proofreading.
+        </p>
+
+        <p>
+        Spell check and grammar check are useful tools, but they’re still no match for a human editor who understands
+        context—as well as how, when, and why to break the rules.
+        </p>
+
+        <p>
+        I offer the following editing services for manuscripts, website copy, marketing collateral, and any other
+        writing projects you’re working on:
+        </p>
+
         <h3>Line Editing</h3>
 
-        <p>While line editing, I focus on content, style, and language use. Line editing helps identify overused
-          phrases,
-          inconsistencies in style, and other issues to ensure your project is readable and accessible.</p><br/>
+        <p>
+        While line editing, I focus on content, style, and language use. Line editing helps identify overused phrases,
+        inconsistencies in style, and other issues to ensure your project is readable and accessible.
+        </p>
 
         <h3>Copy Editing</h3>
 
-        <p>Copy editing emphasizes technical considerations like grammar, spelling, punctuation, and sentence structure.
-          If you’re using an in-house style guide or APA, MLA, or Chicago style, I’ll make sure your project adheres to
-          those guidelines.</p><br/>
-        </div>
+        <p>
+        Copy editing emphasizes technical considerations like grammar, spelling, punctuation, and sentence structure.
+        If you’re using an in-house style guide or APA, MLA, or Chicago style, I’ll make sure your project adheres to
+        those guidelines.
+        </p>
+
       </div>
-      <br/>
-      <div class="bg-twd-blue-secondary-light pl-5 pr-5">
+    </section>
+
+    <section class="bg-primary-light">
       <h3>Proofreading</h3>
 
       <p>Proofreading is the last edit before a project is published—this is where I check the document for any typos,
@@ -82,14 +99,14 @@
         explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
 
       <p>The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
-        saves time, money, and embarrassment. Contact me [link] to get started!</p><br/>
+        saves time, money, and embarrassment. Contact me to get started!</p><br/>
 
-        <router-link class="bg-twd-grey-primary-light text-white pt-2 pb-2 pl-5 pr-5 rounded-full mt-5 mb-5" to="/contact">Contact Bailey</router-link><br/><br/>
+        <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
 
-      <p><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
+      <p class="quote fade-reveal"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
         quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
         amazing find"—Mish S., Cookbook Author.</i></p><br/>
-      </div>
-    </div>
+    </section>
+
   </div>
 </template>
