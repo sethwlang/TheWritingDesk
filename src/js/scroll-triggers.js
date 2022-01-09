@@ -9,7 +9,7 @@ export function revealSplitTexts() {
     revealSplitTexts.forEach((revealSplitTexts) => {
       gsap.from(revealSplitTexts, {
         scrollTrigger: {
-          start: 'top 88%',
+          start: 'top 92%',
           end: 'bottom -25%',
           trigger: revealSplitTexts,
           toggleClass: 'reveal',
@@ -17,15 +17,6 @@ export function revealSplitTexts() {
           once:true,
         }
       });
-
-      //if ($(this).hasClass('lines')) {
-      //  var word = $(this).find('.word');
-      //  word.forEach(() => {
-      //    $(this).addEventListener("animationend", function () {
-      //      $(this).contents().unwrap();
-      //    });
-      //  });
-      //}
 
     });
 
@@ -37,12 +28,11 @@ export function fadeInReveal() {
   fadeRevealElements.forEach((fadeRevealElements) => {
     gsap.from(fadeRevealElements, {
       scrollTrigger: {
-        start: 'top 88%',
+        start: 'top 92%',
         end: 'bottom -25%',
         trigger: fadeRevealElements,
         toggleClass: 'active',
-        //markers: true,
-        once:false
+        once:true
       }
     });
   });

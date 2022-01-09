@@ -34,8 +34,8 @@
 
       <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
 
-      <p class="quote fade-reveal"><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
-        subject matter are key points that keep us wanting to work with her. —Sara Blackstock, East Hartford, CT.</i></p>
+      <p class="quote white-bg fade-reveal"><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
+        subject matter are key points that keep us wanting to work with her.<br>—Sara Blackstock, East Hartford, CT.</i></p>
   </section>
 
   <section class="flex columns">

@@ -21,7 +21,7 @@
 
     <div class="flex flex-wrap writing-services fade-reveal">
       <h1 class="">Writing Services</h1>
-      <div class="w-full ">
+      <div class="w-full services-panel">
         <ul class="flex mb-0 list-none flex-wrap flex-row">
           <li class="-mb-px last:mr-0 text-center">
             <a class="text-xl font-bold px-5 py-3 block leading-normal" v-on:click="toggleTabs(1)"

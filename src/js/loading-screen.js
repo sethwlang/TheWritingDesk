@@ -34,7 +34,6 @@ export function loadingSplash() {
               setTimeout(function(){
                 $('#loading-splash').remove();
                 //$('body').removeClass('loaded');
-                $('.cursor-element').css('opacity','1');
                 $('.splitting .char').removeClass('reveal-char');
               }, 500);
             });

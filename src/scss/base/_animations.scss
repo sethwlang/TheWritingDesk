@@ -87,7 +87,8 @@
     }
     @for $i from 1 through 32 {
         &:nth-child(#{$i}) {
-            animation-delay:calc(0.44s * $i)!important;
+            animation-delay:calc(0.24s * $i)!important;
+            transition-delay:calc(0.24s * $i)!important;
         }
     }
 

@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex items-center justify-between flex-wrap bg-twd-blue-secondary-dark">
+  <nav class="flex items-center justify-between flex-wrap">
     <div class="flex items-center flex-shrink-0 text-white mr-6 logo">
       <router-link to="/" >
         <svg class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300"
@@ -25,30 +25,66 @@
       </svg>
       </router-link>
     </div>
-    <div class="">
-        <router-link to="/" class="mr-5 text-2xl">Home</router-link>
-        <router-link to="/write" class="mr-5 text-2xl">Writing</router-link>
+    <div class="nav-links" :class="{mobilemenu: mobileMenu, active: mobileMenuActive}">
+      <router-link to="/" class="mr-5 text-2xl">Home</router-link>
+      <router-link to="/write" class="mr-5 text-2xl">Writing</router-link>
       <router-link to="/edit" class="mr-5 text-2xl">Editing</router-link>
       <router-link to="/unstuck" class="mr-5 text-2xl">Accountability</router-link>
       <router-link to="/about" class="mr-5 text-2xl">About</router-link>
       <router-link to="/contact" class="mr-5 text-2xl">Contact</router-link>
+    </div>
+    <div class="mobile-menu-toggle" v-if="mobileMenu" :class="{active: mobileMenuActive}">
+      <a @click="toggleMobileMenu();">
+        <span></span>
+        <span></span>
+        <span></span>
+      </a>
     </div>
   </nav>
 </template>
 
 <script>
 export default {
-  name: "TopNav"
+  name: "TopNav",
+  data() { return {
+    mobileMenu:false,
+    mobileMenuActive:false,
+  }},
+  mounted() {
+    window.addEventListener('load', () => {
+        this.determineMobileMenu();
+    })
+    this.windowWidth = window.document.body.clientWidth;
+    console.log('window width is '+this.windowWidth+'px');
+  },
+  methods: {
+    onResize() {
+      setTimeout(() => {
+        this.mobilemenuActive = false;
+        this.determineMobileMenu();
+      }, 200);
+    },
+    determineMobileMenu() {
+      if (this.windowWidth < 991) {
+        this.mobileMenu = true;
+      }
+    },
+    toggleMobileMenu() {
+      console.log('toggle mobilemenu triggered');
+      this.mobilemenuActive = !this.mobilemenuActive;
+      if (this.mobilemenuActive == true) {
+        console.log('menu opened!');
+      } else {
+        console.log('menu closed!');
+      }
+    }
+  }
 }
 </script>
 
 <style scoped lang="scss">
   nav {
     padding:24px 6vw;
-    //background:rgba(162, 214, 224,0.88);
-    background:rgba(200,231,237,0.8);
-    background:rgba(200,231,237,1);
-    //backdrop-filter:blur(8px);
     position:fixed;
     width:100vw;
     z-index:100;
@@ -57,6 +93,10 @@ export default {
     transition:0.6s;
     transition-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
 
+    @media (max-width:991px) {
+      padding:16px;
+      height:72px;
+    }
     &.scrolled {
       &.hide {
         transform:translateY(-136px);
@@ -69,6 +109,10 @@ export default {
       svg {
         width:180px;
         height:auto;
+        @media (max-width:991px) {
+          width:92px;
+          transform:translateY(-4px);
+        }
       }
     }
     a {

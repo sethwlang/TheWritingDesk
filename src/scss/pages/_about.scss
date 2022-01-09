@@ -9,7 +9,21 @@
     }
 
     .about-me-testimonials {
+        width:1600px;
+        max-width:calc(100% - 32px);
+        margin-left:auto;
+        margin-right:auto;
+        @media (max-width:1200px) {
+            flex-direction:column;
+        }
         .testimonial-slide {
+            padding:16px;
+            display:flex;
+            flex-direction:column;
+            justify-content:center;
+            p {
+                font-size:16px;
+            }
             span {
                 display:block;
                 font-size:14px;
@@ -25,7 +39,7 @@
         margin-left:auto;
         margin-right:auto;
         //margin-top:80px;
-        background:$primary-light;
+        background:rgba(255,255,255,0);
         padding:32px;
         li {
             font-size:20px;

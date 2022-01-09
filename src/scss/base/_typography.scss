@@ -46,6 +46,9 @@ body {
         font-size:64px;
         margin:40px auto;
         margin-top:0;
+        @media (max-width:991px) {
+            margin:24px auto 16px;
+        }
         @media (max-width:768px) {
             font-size:28px;
         }
@@ -67,6 +70,9 @@ body {
         cursor:default;
         line-height:1.1;
         letter-spacing:-2px;
+        @media (max-width:768px) {
+            letter-spacing:0px;
+        }
     }
     h3 {
         font-size:32px;
@@ -85,7 +91,10 @@ body {
         text-align:center;
         @include smooth;
         width:680px;
-        max-width:100%;
+        max-width:calc(100% - 32px);
+        @media (max-width:768px) {
+            font-size:16px;
+        }
         span {
             font-size:inherit;
             font-weight:inherit;
@@ -93,8 +102,8 @@ body {
         }
         a {
             text-decoration:none!important;
-            color:$primary-dark;
-            font-weight:600;
+            color:darken($primary-dark, 10%);
+            font-weight:500;
             @include smooth;
             &:hover {
                 filter:brightness(1.1);

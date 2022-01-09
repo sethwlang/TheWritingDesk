@@ -27,20 +27,20 @@
     <section class="insights">
       <ul class="fade-reveal">
         <li>Do you need help setting and achieving manageable writing goals?<br>
-        My <router-link to="/unstuck">Accountability Program</router-link> is designed with you in mind.
+          My <router-link to="/unstuck">Accountability Program</router-link> is designed with you in mind.
         </li>
-
         <li>Are you looking for expert insight on a book, marketing campaign, or short story?<br>
         You’ll find everything you need in my<router-link to="/edit">editing packages</router-link>.
         </li>
-
-    <div class="flex mb-14 mt-14">
+      </ul>
+    </section>
+    <div class="flex mb-14 mt-14 about-me-testimonials">
       <transition-group class="flex overflow-hidden pr-6" tag="div">
         <div v-for="slide in slides"
-            class=' p-10 h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1'
+            class="h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1 testimonial-slide"
              :class="{'bg-twd-blue-primary' : isEven(slide.id), 'bg-twd-grey-primary-light text-white': !isEven(slide.id)}"
             :key="slide.id">
-          <p v-html="slide.quote "></p>
+          <p v-html="slide.quote" class="no-split"></p>
         </div>
       </transition-group>
       <!--<div class='flex'>
@@ -49,7 +49,7 @@
       </div>-->
     </div>
 
-    </section>
+
 
   </div>
 </template>
