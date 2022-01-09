@@ -46,6 +46,9 @@
 <script>
 export default {
   name: "TopNav",
+  created() {
+      window.addEventListener("resize", this.onResize);
+  },
   data() { return {
     mobileMenu:false,
     mobileMenuActive:false,
@@ -60,13 +63,18 @@ export default {
   methods: {
     onResize() {
       setTimeout(() => {
+        this.windowWidth = window.document.body.clientWidth;
         this.mobilemenuActive = false;
         this.determineMobileMenu();
-      }, 200);
+      }, 250);
     },
     determineMobileMenu() {
       if (this.windowWidth < 991) {
         this.mobileMenu = true;
+        console.log('mobile screensize detected!');
+      } else {
+        this.mobileMenu = false;
+        console.log('desktop screensize detected!');
       }
     },
     toggleMobileMenu() {
@@ -74,8 +82,10 @@ export default {
       this.mobilemenuActive = !this.mobilemenuActive;
       if (this.mobilemenuActive == true) {
         console.log('menu opened!');
+        console.log(this.mobilemenuActive);
       } else {
         console.log('menu closed!');
+        console.log(this.mobilemenuActive);
       }
     }
   }

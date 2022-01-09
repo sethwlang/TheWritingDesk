@@ -20,6 +20,30 @@ nav {
                 opacity:0.75;
             }
         }
+
+        &.mobilemenu {
+            position:absolute;
+            left:0;
+            right:0;
+            top:100%;
+            height:calc(100vh - 72px);
+            padding:16px;
+            display:flex;
+            flex-direction:column;
+            background:$primary;
+            opacity:0;
+            pointer-events:none;
+            @include smooth;
+
+            a {
+                align-self:flex-start;
+                margin-bottom:24px;
+            }
+            &.active {
+                opacity:1;
+                pointer-events:auto;
+            }
+        }
     }
     
     .mobile-menu-toggle {
