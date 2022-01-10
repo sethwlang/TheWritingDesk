@@ -85,10 +85,12 @@
         opacity:1;
         transition-delay:0.4s;
     }
-    @for $i from 1 through 32 {
-        &:nth-child(#{$i}) {
-            animation-delay:calc(0.24s * $i)!important;
-            transition-delay:calc(0.24s * $i)!important;
+    &.primary-button {
+        @for $i from 1 through 32 {
+            &:nth-child(#{$i}) {
+                animation-delay:calc(0.24s * $i)!important;
+                transition-delay:calc(0.24s * $i)!important;
+            }
         }
     }
 

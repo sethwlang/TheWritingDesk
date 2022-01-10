@@ -150,7 +150,7 @@ body {
         @for $i from 1 through 32 {
             &:nth-child(#{$i}) {
                 span.word {
-                    animation-delay:calc(0.072s * var(--line-index) + (0.26s * $i))!important;
+                    animation-delay:calc(0.068s * var(--line-index) + (0.2s * $i))!important;
                 }
             }
         }
@@ -160,7 +160,7 @@ body {
             &:nth-child(#{$x}) {
                 span.char {
                     &:before {
-                        animation-delay:calc(0.032s * var(--char-index) + (0.26s * $x))!important;
+                        animation-delay:calc(0.032s * var(--char-index) + (0.2s * $x))!important;
                     }
                 }
             }

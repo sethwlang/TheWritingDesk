@@ -36,7 +36,7 @@
       about the program and set up an initial free consultation!
       </p>
 
-      <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
+      <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
     </div>
 
     <p class="quote fade-reveal"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions

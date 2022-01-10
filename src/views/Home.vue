@@ -108,7 +108,7 @@
             <span class="fade-reveal">—Rey</span>
           </div>
           <div class="">
-            <p>
+            <p style="width:516px;">
             Bailey is easy to work with, detail-oriented, and she will take your writing project, or any project, as
             seriously as you do. But she will also make it fun for you. I have no idea why I thought writing has to be a
             solitary experience we muddle through on our own, when it is only enhanced by working with someone who is

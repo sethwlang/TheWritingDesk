@@ -34,7 +34,7 @@
         </li>
       </ul>
     </section>
-    <div class="flex mb-14 mt-14 about-me-testimonials">
+    <div class="flex mb-14 mt-14 about-me-testimonials fade-reveal">
       <transition-group class="flex overflow-hidden pr-6" tag="div">
         <div v-for="slide in slides"
             class="h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1 testimonial-slide"
