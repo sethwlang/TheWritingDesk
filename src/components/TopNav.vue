@@ -26,12 +26,12 @@
       </router-link>
     </div>
     <div class="nav-links" :class="{mobilemenu: mobileMenu, active: mobileMenuActive}">
-      <router-link to="/" class="mr-5 text-2xl">Home</router-link>
-      <router-link to="/write" class="mr-5 text-2xl">Writing</router-link>
-      <router-link to="/edit" class="mr-5 text-2xl">Editing</router-link>
-      <router-link to="/unstuck" class="mr-5 text-2xl">Accountability</router-link>
-      <router-link to="/about" class="mr-5 text-2xl">About</router-link>
-      <router-link to="/contact" class="mr-5 text-2xl">Contact</router-link>
+      <router-link to="/" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Home</router-link>
+      <router-link to="/write" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Writing</router-link>
+      <router-link to="/edit" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Editing</router-link>
+      <router-link to="/unstuck" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Accountability</router-link>
+      <router-link to="/about" class="mr-5 text-2xl" @click.native="closeMobileMenu();">About</router-link>
+      <router-link to="/contact" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Contact</router-link>
     </div>
     <div class="mobile-menu-toggle" v-if="mobileMenu" :class="{active: mobileMenuActive}">
       <a @click="toggleMobileMenu();">
@@ -64,7 +64,7 @@ export default {
     onResize() {
       setTimeout(() => {
         this.windowWidth = window.document.body.clientWidth;
-        this.mobilemenuActive = false;
+        this.mobileMenuActive = false;
         this.determineMobileMenu();
       }, 250);
     },
@@ -79,14 +79,11 @@ export default {
     },
     toggleMobileMenu() {
       console.log('toggle mobilemenu triggered');
-      this.mobilemenuActive = !this.mobilemenuActive;
-      if (this.mobilemenuActive == true) {
-        console.log('menu opened!');
-        console.log(this.mobilemenuActive);
-      } else {
-        console.log('menu closed!');
-        console.log(this.mobilemenuActive);
-      }
+      this.mobileMenuActive = !this.mobileMenuActive;
+    },
+    closeMobileMenu() {
+      console.log('close mobilemenu triggered');
+      this.mobileMenuActive = false;
     }
   }
 }
@@ -100,7 +97,7 @@ export default {
     z-index:100;
     height:136px;
     top:0;
-    transition:0.6s;
+    transition:all 0.6s, width 0s, height 0s;
     transition-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
 
     @media (max-width:991px) {
@@ -130,7 +127,14 @@ export default {
       letter-spacing:0px;
       margin-right:64px;
       font-weight:800;
-
+      @media (min-width:992px) and (max-width:1368px) {
+        margin-right:38px;
+        font-size:18px;
+      }
+      @media (max-width:480px) {
+        font-size:10vw;
+        margin-bottom:4vh;
+      }
       &:last-of-type {
         margin-right:0;
       }

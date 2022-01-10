@@ -19,6 +19,7 @@
         background:linear-gradient(170deg, #a2d6e0 0%, #246d7a 100%);
         z-index:1;
         @include smooth;
+        pointer-events:none;
     }
     &:hover {
         filter:brightness(1.1);

@@ -34,6 +34,9 @@
     opacity:0;
     transition:filter 0.24s ease;
     mix-blend-mode:difference;
+    @media (max-width:991px) {
+        opacity:0!important;
+    }
     &.active {
         //filter:invert(1);
 
@@ -57,8 +60,6 @@
         pointer-events:none;
         width:32px;
         height:32px;
-        background:$primary;
-        background:#FFF;
         background:#000;
         border-radius:100%;
         z-index:10;
@@ -78,8 +79,8 @@
             transition:all 1s, opacity 1.24s, width 0.6s, height 0.6s, left 0s, top 0s;
             + span {
                 //background:$primary-inverted;
-                background:#331d40;
-                border:1px solid #331d40;
+                background:#401f1d;
+                border:1px solid #401f1d;
                 border-width:0;
                 opacity:1;
                 transform:scale(1) translateX(-50%) translateY(-50%);

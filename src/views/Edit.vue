@@ -37,7 +37,7 @@
 
       <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
 
-      <p class="quote fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with you again.” —Rey,
+      <p class="quote white-bg fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with you again.” —Rey,
         Novelist and Poet.</i></p><br/>
     </section>
 
@@ -103,7 +103,7 @@
 
         <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
 
-      <p class="quote fade-reveal"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
+      <p class="quote white-bg fade-reveal"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
         quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
         amazing find"—Mish S., Cookbook Author.</i></p><br/>
     </section>

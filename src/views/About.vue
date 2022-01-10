@@ -19,7 +19,7 @@
         <p>Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
           Whether you’re trying to launch new website copy or finish your book, finding the right words can be hard.</p>
 
-        <p>Finding the right support doesn’t have to be! Here at The Writing Desk, I offer a range of services that can
+        <p style="width:574px;max-width:100%;">Finding the right support doesn’t have to be! Here at The Writing Desk, I offer a range of services that can
           help you get your writing from a vague idea to a finished product.</p>
       </div>
     </div>
@@ -53,6 +53,8 @@
 
   </div>
 </template>
+
+
 <script>
 export default {
   data() {

@@ -24,18 +24,20 @@
       </div>
     </div>
 
-    <p>
-    You’ll also get worksheets for each meeting, which means you’ll finish this program with progress on your project
-    and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
-    track.
-    </p>
+    <div class="extended">
+      <p>
+      You’ll also get worksheets for each meeting, which means you’ll finish this program with progress on your project
+      and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
+      track.
+      </p>
 
-    <p>
-    You’ve waited long enough to finish your book. It’s time to take the next step. Contact me to learn more
-    about the program and set up an initial free consultation!
-    </p>
+      <p>
+      You’ve waited long enough to finish your book. It’s time to take the next step. Contact me to learn more
+      about the program and set up an initial free consultation!
+      </p>
 
-    <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
+      <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
+    </div>
 
     <p class="quote fade-reveal"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions
       knowing that I am not the only one engaged in them, that someone else also cares and is there for support, should

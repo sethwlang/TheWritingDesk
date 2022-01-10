@@ -51,6 +51,7 @@ body {
         }
         @media (max-width:768px) {
             font-size:28px;
+            margin:16px auto 4px;
         }
         @media (max-width:400px) {
             font-size:24px;
@@ -61,6 +62,7 @@ body {
         margin:32px auto;
         @media (max-width:768px) {
             font-size:22px;
+            margin:16px auto;
         }
         @media (max-width:400px) {
             font-size:20px;
@@ -144,6 +146,26 @@ body {
     .word, .char {
         display:inline;
     }
+    &.lines {
+        @for $i from 1 through 32 {
+            &:nth-child(#{$i}) {
+                span.word {
+                    animation-delay:calc(0.072s * var(--line-index) + (0.26s * $i))!important;
+                }
+            }
+        }
+    }
+    &.chars {
+        @for $x from 1 through 32 {
+            &:nth-child(#{$x}) {
+                span.char {
+                    &:before {
+                        animation-delay:calc(0.032s * var(--char-index) + (0.26s * $x))!important;
+                    }
+                }
+            }
+        } 
+    }
 }
 span {
     &.char {
@@ -166,32 +188,23 @@ span {
         }
     }
 
-    span.char {
-        &:before {
-            animation-delay:calc(0.032s * var(--char-index) + 0.2s)!important;
-        }
-    }
+    //span.char {
+    //    &:before {
+    //        animation-delay:calc(0.032s * var(--char-index) + 0.2s)!important;
+    //    }
+    //}
 
 }
 
 .lines {
     span.word {
         opacity:0;
-        //animation-delay:calc(0.06s * var(--line-index) + 0.32s)!important;
     }
     &.reveal { //added via scrolltrigger
         span.word {
             animation:zFadeIn 0.6s;
             animation-fill-mode:forwards;
             animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        }
-    }
-
-    @for $i from 1 through 32 {
-        &:nth-of-type(#{$i}) {
-            span.word {
-                animation-delay:calc(0.072s * var(--line-index) + (0.26s * $i))!important;
-            }
         }
     }
 }
@@ -217,54 +230,6 @@ span {
     }
     span.word {
         opacity:0;
-    }
-    .split-line-1 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2s;
-    }
-    .split-line-2 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.1s;
-    }
-    .split-line-3 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.2s;
-    }
-    .split-line-4 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.3s;
-    }
-    .split-line-5 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.4s;
-    }
-    .split-line-6 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.5s;
-    }
-    .split-line-7 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.6s;
-    }
-    .split-line-8 {
-        animation:zFadeIn 1.4s;
-        animation-fill-mode:forwards;
-        animation-timing-function:cubic-bezier(.785, 0.135, 0.15, 0.86);
-        animation-delay:2.7s;
     }
 }
 

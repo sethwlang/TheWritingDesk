@@ -1,6 +1,6 @@
 <template>
   <div id="home" class="home">
-    <div class="grid grid-cols-2 bg-twd-blue-secondary-light header">
+    <div class="flex columns bg-twd-blue-secondary-light header">
       <div class="company-description">
         <div class="text-content">
           <h1>Welcome to<br> The Writing Desk!</h1>
@@ -122,6 +122,7 @@
     </div>
   </div>
 </template>
+
 <script>
 export default {
   name: "home",

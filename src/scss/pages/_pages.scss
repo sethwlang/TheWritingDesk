@@ -39,6 +39,7 @@ nav {
         padding:4vw;
         @media (max-width:480px) {
           padding:16px;
+          padding-bottom:4vw;
         }
       }
       &.image {
@@ -64,14 +65,14 @@ nav {
 .quote {
   position:relative;
   @media (max-width:768px) {
-    padding-top:48px;
+    padding-top:48px!important;
   }
   &:before {
     position:absolute;
     content:'';
     height:120px;
     width:120px;
-    left:-52px;
+    left:-74px;
     top:50%;
     transform:translateY(-50%) scale(0.8);
     background-image:url('../assets/images/quote-primary.png');
@@ -80,8 +81,8 @@ nav {
     pointer-events:none;
     @media (max-width:768px) {
       left:50%;
-      top:-52px;
-      transform:translateX(-50%) scale(0.72);
+      top:-54px;
+      transform:translateX(-50%) scale(0.68);
     }
   }
 }

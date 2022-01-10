@@ -1,26 +1,43 @@
 #home {
-    padding-top:136px;
+
     .header {
         height:calc(100vh - 136px);
         //padding-top:136px;
+        @media (max-width:991px) {
+            height:auto;
+            min-height:calc(100vh - 136px);
+        }
         > div {
             height:100%;
+            @media (max-width:991px) {
+                height:auto;
+            }
         }
         .image {
             background-color:#222;
             background-size:cover;
             background-position:23% center;
+            @media (max-width:991px) {
+                order:1;
+                height:38vh;
+            }
         }
     }
     .company-description {
         display:flex;
         flex-direction:column;
         justify-content:center;
+        @media (max-width:991px) {
+            order:2;
+        }
         .text-content {
             width:724px;
             max-width:100%;
             margin-left:auto;
             margin-right:auto;
+            @media (max-width:991px) {
+                padding-bottom:4vh;
+            }
         }
     }
     .writing-services {
@@ -29,6 +46,9 @@
         margin:16vh auto;
         @media (max-width:991px) {
             margin:120px auto;
+        }
+        @media (max-width:768px) {
+            margin:4vh auto;
         }
         .services-panel {
             max-width:calc(100% - 32px);
@@ -52,9 +72,13 @@
                 user-select:none;
                 letter-spacing:-1px;
                 @include smooth;
+                @media (max-width:768px) {
+                    font-size:14px;
+                }
                 &.active {
                     background:darken($primary-dark, 5%);
                     color:#fff;
+                    text-shadow:0px 0px 4px rgba(2,2,2,0.3);
                 }
                 &:not(.active):hover {
                     cursor:pointer;
@@ -68,7 +92,9 @@
 
         .services-descriptions {
             padding:48px;
-
+            @media (max-width:768px) {
+                padding:16px 24px;
+            }
             p {
                 margin-top:0;
             }
@@ -114,9 +140,19 @@
             }
         }
         #signup {
+            @media (max-width:991px) {
+                width:calc(100% - 32px);
+                margin-left:auto;
+                margin-right:auto;
+            }
             h2 {
                 white-space:nowrap;
                 font-size:46px;
+                @media (max-width:991px) {
+                    width:272px;
+                    font-size:28px;
+                    white-space:normal;
+                }
             }
             .formkit-form {
                 box-shadow:0px 2px 32px rgba(105,113,119,0.2);
