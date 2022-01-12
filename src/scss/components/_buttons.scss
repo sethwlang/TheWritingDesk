@@ -6,7 +6,8 @@
     display:block;
     color:#fff;
     margin:40px auto;
-    @include smooth;
+    //@include smooth;
+    @include medium;
     overflow:hidden;
     position:relative;
     &:before {

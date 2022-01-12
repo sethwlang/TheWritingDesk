@@ -127,13 +127,20 @@ export default {
       letter-spacing:0px;
       margin-right:64px;
       font-weight:800;
+      display:inline-block;
+      align-self:flex-start;
       @media (min-width:992px) and (max-width:1368px) {
         margin-right:38px;
         font-size:18px;
       }
+      @media (max-width:991px) {
+        font-size:6.6vw;
+        margin-bottom:3vh!important;
+        line-height:1.0;
+      }
       @media (max-width:480px) {
         font-size:10vw;
-        margin-bottom:4vh;
+        margin-bottom:4vh!important;
       }
       &:last-of-type {
         margin-right:0;

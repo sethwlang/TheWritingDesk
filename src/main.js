@@ -42,14 +42,12 @@ $(document).ready(function() {
 
   window.addEventListener('load', () => {
 
-
-
     document.addEventListener("scroll", scrollEvent); 
 
     var prevScrollPosition = 0;
     function scrollEvent() {
       var currentScrollPosition = $(document).scrollTop();
-      if (currentScrollPosition > 136) {
+      if (currentScrollPosition > 136 && !$('.nav-links').hasClass('active')) {
         $('nav').addClass('scrolled');
         if (prevScrollPosition < currentScrollPosition) {
           $('nav').addClass('hide');
@@ -92,6 +90,7 @@ function onLoadFunction() {
     setTimeout(function(){ // Todo: ensure this fires after vue-router dom load
       revealSplitTexts();
       fadeInReveal();
+      cursorCheck();
     }, 200);
   });
   $('.logo a').click(function(){
@@ -100,6 +99,7 @@ function onLoadFunction() {
       setTimeout(function(){ // Todo: ensure this fires after vue-router dom load
         revealSplitTexts();
         fadeInReveal();
+        cursorCheck();
       }, 200);
   });
 
@@ -113,9 +113,14 @@ $(window).resize(function() {
   var fireResizeFunctions;
   clearTimeout(fireResizeFunctions);
   fireResizeFunctions = setTimeout(resizeFunctions, 140);
+
+  $('nav').addClass('resizing');
   function resizeFunctions() {
     //smoothScroll();
     viewportSize();
     viewportType();
+    setTimeout(function(){
+      $('nav').removeClass('resizing');
+    }, 400);
   }
 });

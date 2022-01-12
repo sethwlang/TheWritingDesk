@@ -74,9 +74,9 @@
       <p>Publishing an eBook can be a great way to drive interest in your business or tell a story you’re passionate
         about. Writing the book itself, however, can be a bit more challenging. That’s where I come in.</p>
 
-      <p>Whether you have a draft, an outline, or a list of ideas on a sticky note, I can help you write your book.</p>
+      <p style="width:570px;">Whether you have a draft, an outline, or a list of ideas on a sticky note, I can help you write your book.</p>
 
-      <p>My background in writing includes everything from academic research to lead magnet eBooks and beyond. You also
+      <p style="width:624px;">My background in writing includes everything from academic research to lead magnet eBooks and beyond. You also
         get the support that comes from my experience with research and managing large writing projects. Ghostwriting is a
         collaborative process, and you can have as much or as little engagement with the writing process as you want.</p>
 

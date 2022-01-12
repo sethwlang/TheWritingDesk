@@ -2,10 +2,9 @@
 
     .header {
         height:calc(100vh - 136px);
-        //padding-top:136px;
         @media (max-width:991px) {
             height:auto;
-            min-height:calc(100vh - 136px);
+            min-height:0;
         }
         > div {
             height:100%;
@@ -36,6 +35,7 @@
             margin-left:auto;
             margin-right:auto;
             @media (max-width:991px) {
+                padding-top:4vh;
                 padding-bottom:4vh;
             }
         }

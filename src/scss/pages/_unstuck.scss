@@ -1,4 +1,13 @@
 .unstuck {
+    .header {
+        .image {
+            img {
+                @media (max-width:991px) {
+                    top:27%;
+                }
+            }
+        }
+    }
     .content {
         p {
             width:600px;

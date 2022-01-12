@@ -8,7 +8,7 @@
         <!--<img src="@/assets/images/writing.jpg"/>-->
         <img class="fade-reveal" src="../assets/images/writing.jpg" />
       </div>
-      <div class="flex vertical center">
+      <div class="flex vertical center content">
         <h1>Editing Services</h1>
         <p>Nothing will bring me more joy than helping you get your writing from draft to done! I provide editing and
           accountability services for every stage of a project, from developmental edits to proofreading.</p>
@@ -35,10 +35,12 @@
       <p>I have a limited number of slots available for developmental editing, so don’t wait! Contact me to
         schedule a free 15-minute consultation.</p><br/>
 
-      <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
+      <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
 
       <p class="quote white-bg fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with you again.” —Rey,
-        Novelist and Poet.</i></p><br/>
+        Novelist and Poet.</i></p>
+
+
     </section>
 
 
@@ -54,7 +56,7 @@
         proofreading.
         </p>
 
-        <p>
+        <p style="width:712px;">
         Spell check and grammar check are useful tools, but they’re still no match for a human editor who understands
         context—as well as how, when, and why to break the rules.
         </p>
@@ -89,16 +91,16 @@
         extra spaces, or formatting issues. When your project is ready to spread its wings and fly, proofreading will
         help clear the runway.</p><br/>
 
-      <p>You can purchase editing services individually or as a discounted bundle of all 3 services.</p><br/>
+      <p style="width:716px;">You can purchase editing services individually or as a discounted bundle of all 3 services.</p><br/>
 
       <p>While developmental editing is only available for completed manuscripts, I’m happy to provide line edits and
         copy edits for partially completed documents. On a tight timeline? I can still help! There is a fee for rush
         edits.</p><br/>
 
-      <p>At the end of the editing process, you’ll receive an edited copy of your document, along with a summary
+      <p style="width:754px;">At the end of the editing process, you’ll receive an edited copy of your document, along with a summary
         explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
 
-      <p>The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
+      <p style="width:700px;">The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
         saves time, money, and embarrassment. Contact me to get started!</p><br/>
 
         <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>

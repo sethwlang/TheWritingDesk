@@ -1,5 +1,10 @@
 nav {
     background:$primary;
+    &.resizing {
+        *, *:before, *:after {
+            transition:0s!important;
+        }
+    }
     .logo {
         svg {
             path, rect {
@@ -10,14 +15,12 @@ nav {
     .nav-links {
         a {
             @include smooth;
-            &:hover {
-                opacity:1;
-            }
-    
-            &:not(.router-link-exact-active):not(:hover) {
-                opacity:0.72;
-                @media (max-width:991px) {
-                    opacity:0.56;
+            @media (min-width:992px) {
+                &:not(.router-link-exact-active):not(:hover) {
+                    opacity:0.72;
+                }
+                &:hover {
+                    opacity:1;
                 }
             }
         }
@@ -39,10 +42,27 @@ nav {
             a {
                 align-self:flex-start;
                 margin-bottom:24px;
+                opacity:0;
             }
             &.active {
                 opacity:1;
                 pointer-events:auto;
+                
+                a {
+                    opacity:0.56;
+                    transition: opacity 0.8s ease-in-out;
+                    &.router-link-exact-active {
+                        opacity:1!important;
+                    }
+                    @for $i from 1 through 10 {
+                        &:nth-of-type(#{$i}) {
+                            transition-delay:(0.08s * $i)!important;
+                        }
+                    }
+                    &:hover {
+                        opacity:1;
+                    }
+                }
             }
         }
     }
@@ -52,6 +72,7 @@ nav {
         flex-direction:column;
         display:inline-block;
         cursor:pointer;
+        transform:translateX(-4px) translateY(-2px);
         a {
             display:block;
         }

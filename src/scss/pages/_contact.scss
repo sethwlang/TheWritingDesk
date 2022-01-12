@@ -53,5 +53,10 @@
         cursor:pointer;
         float:right;
         border:2px solid darken($primary-dark, 10%);
+        @include smooth;
+        &:hover {
+            filter:brightness(1.1);
+            transform:scale(1.06);
+        }
     }
 }
