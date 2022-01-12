@@ -5,6 +5,16 @@ nav {
             transition:0s!important;
         }
     }
+    .standard-logo {
+        @media (max-width:992px) {
+            display:none;
+        }
+    }
+    .horizontal-logo {
+        @media (min-width:992px) {
+            display:none;
+        }
+    }
     .logo {
         svg {
             path, rect {
@@ -31,7 +41,7 @@ nav {
             right:0;
             top:100%;
             height:calc(100vh - 72px);
-            padding:16px;
+            padding:6vw 8vw;
             display:flex;
             flex-direction:column;
             background:$primary;
@@ -72,7 +82,7 @@ nav {
         flex-direction:column;
         display:inline-block;
         cursor:pointer;
-        transform:translateX(-4px) translateY(-2px);
+        transform:translateX(-4px) translateY(2px);
         a {
             display:block;
         }
