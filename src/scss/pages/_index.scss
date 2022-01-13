@@ -30,7 +30,7 @@
             order:2;
         }
         .text-content {
-            width:724px;
+            width:624px;
             max-width:100%;
             margin-left:auto;
             margin-right:auto;
@@ -49,6 +49,11 @@
         }
         @media (max-width:768px) {
             margin:4vh auto;
+        }
+        h1 {
+            margin-left:auto;
+            margin-right:auto;
+            text-align:center;
         }
         .services-panel {
             max-width:calc(100% - 32px);
@@ -82,7 +87,6 @@
                 }
                 &:not(.active):hover {
                     cursor:pointer;
-                    //color:rgba(0,0,0,0.9);
                 }
                 &:not(.active):hover {
                     filter:brightness(1.04);
@@ -97,9 +101,11 @@
             }
             p {
                 margin-top:0;
+                text-align:center;
             }
             .primary-button {
                 margin-top:16px;
+                margin-bottom:0;
             }
         }
     }
@@ -218,6 +224,8 @@
             p {
                 font-size:16px;
                 text-align:center;
+                margin-left:auto!important;
+                margin-right:auto!important;
             }
             > span {
                 font-weight:800;

@@ -9,7 +9,7 @@ export function revealSplitTexts() {
     revealSplitTexts.forEach((revealSplitTexts) => {
       gsap.from(revealSplitTexts, {
         scrollTrigger: {
-          start: 'top 92%',
+          start: 'top 94%',
           end: 'bottom -25%',
           trigger: revealSplitTexts,
           toggleClass: 'reveal',
@@ -28,7 +28,7 @@ export function fadeInReveal() {
   fadeRevealElements.forEach((fadeRevealElements) => {
     gsap.from(fadeRevealElements, {
       scrollTrigger: {
-        start: 'top 92%',
+        start: 'top 94%',
         end: 'bottom -25%',
         trigger: fadeRevealElements,
         toggleClass: 'active',

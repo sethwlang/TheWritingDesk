@@ -43,7 +43,7 @@
           </li>
         </ul>
         <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 rounded bg-twd-blue-secondary-light services-descriptions">
-          <div class="px-4 py-5 flex-auto">
+          <div class="px-4 py-5 flex vertical center">
             <div class="tab-content tab-space">
               <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                 <div class="flex items-center justify-center bg-twd-blue-secondary-light">

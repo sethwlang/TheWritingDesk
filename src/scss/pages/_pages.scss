@@ -81,9 +81,9 @@ nav {
   &:before {
     position:absolute;
     content:'';
-    height:120px;
-    width:120px;
-    left:-74px;
+    height:100px;
+    width:100px;
+    left:-42px;
     top:50%;
     transform:translateY(-50%) scale(0.8);
     background-image:url('../assets/images/quote-primary.png');

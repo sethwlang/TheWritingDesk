@@ -21,13 +21,14 @@
 .materials-pack {
     border-radius:24px;
     background:$primary-dark;
-    background:linear-gradient(170deg, $primary-dark 0%, #246d7a 100%);
+    background:linear-gradient(170deg, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.4) 100%);
     padding:64px;
     margin-top:64px;
     width:840px;
     max-width:calc(100% - 32px);
     margin-left:auto;
     margin-right:auto;
+    box-shadow:0px 0px 24px rgba(162,214,224,0.32);
     @media (max-width:991px) {
         padding:32px;
         margin-top:32px;
@@ -40,17 +41,18 @@
         margin-top:0;
     }
     h2, p {
-        color:#fff;
-
+        //color:#fff;
+        text-align:center;
+        margin-left:auto!important;
+        margin-right:auto!important;
         a {
-            color:#fff;
+            //color:#fff;
         }
     }
 
     .primary-button {
         width:350px;
         max-width:100%;
-        filter:hue-rotate(180deg);
         margin-top:40px;
 
         span {

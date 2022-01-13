@@ -7,6 +7,14 @@
         margin-bottom:32px;
     }
 
+    .text-content {
+        width:680px;
+        margin-bottom:64px;
+        h1, p {
+            text-align:center;
+            width:680px;
+        }
+    }
     img {
         width:1152px;
         max-width:calc(100% - 32px);

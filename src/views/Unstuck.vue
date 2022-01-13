@@ -6,25 +6,28 @@
         <img src="../assets/images/coffeeShop.jpg"/>
       </div>
       <div class="flex vertical center content">
-        <h1>Accountability Program</h1>
-        <p>
-        If you’re like a lot of writers, finding (or making) time to write without external accountability feels
-        impossible—it’s too easy to put off the writing until a someday that never comes. However, the American
-        Society of Training and Development found that accountability appointments can increase your odds of success
-        by up to 95%!
-        </p>
+        <div class="text-content">
+          <h1>Accountability Program</h1>
+          <p>
+          If you’re like a lot of writers, finding (or making) time to write without external accountability feels
+          impossible—it’s too easy to put off the writing until a someday that never comes. However, the American
+          Society of Training and Development found that accountability appointments can increase your odds of success
+          by up to 95%!
+          </p>
 
-        <p>That’s where the Accountability Program comes in.</p>
+          <p>That’s where the Accountability Program comes in.</p>
 
-        <p>
-        The program consists of a series of meetings where we set goals, review your progress, and analyze
-        challenges. You get regular, one-on-one access to a highly trained writing educator—that’s me!—to keep you on
-        track and celebrate your progress.
-        </p>
+          <p>
+          The program consists of a series of meetings where we set goals, review your progress, and analyze
+          challenges. You get regular, one-on-one access to a highly trained writing educator—that’s me!—to keep you on
+          track and celebrate your progress.
+          </p>
+        </div>
+
       </div>
     </div>
 
-    <div class="extended">
+    <div class="extended text-content">
       <p>
       You’ll also get worksheets for each meeting, which means you’ll finish this program with progress on your project
       and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on

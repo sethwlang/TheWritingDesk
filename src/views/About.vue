@@ -6,21 +6,23 @@
         <img class="fade-reveal" src="../assets/images/AboutMe.jpg" />
       </div>
       <div class="flex vertical center content">
-        <h1>Hi! I’m Bailey Lang</h1>
-        <p>Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
-          in rhetoric and writing. Before I knew it, I’d <a href="#">written a book</a>, left my corporate job, and
-          started a PhD program in rhetoric and writing studies.</p>
+        <div class="text-content">
+          <h1>Hi! I’m Bailey Lang</h1>
+          <p>Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
+            in rhetoric and writing. Before I knew it, I’d <a href="#">written a book</a>, left my corporate job, and
+            started a PhD program in rhetoric and writing studies.</p>
 
-        <p>By the time I finished my dissertation, I realized helping other writers—my undergraduate students, business
-          owners, academics, novelists, and more—is what truly lights me up inside.</p>
+          <p>By the time I finished my dissertation, I realized helping other writers—my undergraduate students, business
+            owners, academics, novelists, and more—is what truly lights me up inside.</p>
 
-        <p><b>Now, I help writers and businesses tell stories that matter.</b></p>
+          <p><b>Now, I help writers and businesses tell stories that matter.</b></p>
 
-        <p>Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
-          Whether you’re trying to launch new website copy or finish your book, finding the right words can be hard.</p>
+          <p>Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
+            Whether you’re trying to launch new website copy or finish your book, finding the right words can be hard.</p>
 
-        <p style="width:574px;max-width:100%;">Finding the right support doesn’t have to be! Here at The Writing Desk, I offer a range of services that can
-          help you get your writing from a vague idea to a finished product.</p>
+          <p style="width:574px;max-width:100%;">Finding the right support doesn’t have to be! Here at The Writing Desk, I offer a range of services that can
+            help you get your writing from a vague idea to a finished product.</p>
+        </div>
       </div>
     </div>
 
@@ -34,7 +36,23 @@
         </li>
       </ul>
     </section>
-    <div class="flex mb-14 mt-14 about-me-testimonials fade-reveal">
+    <div class="about-me-testimonials fade-reveal">
+    <div>
+      <p class="quote white-bg">
+      “Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, Childrens writer. Accountability Program.</strong>
+      </p>
+    </div>
+    <div>
+      <p class="quote white-bg">
+        “Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT. Copywriting.</strong>
+      </p>
+    </div>
+    <div>
+      <p class="quote white-bg">
+        “Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum White Press, LLC. Copy editing.</strong>
+      </p>
+    </div>
+    <!--
       <transition-group class="flex overflow-hidden pr-6" tag="div">
         <div v-for="slide in slides"
             class="h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1 testimonial-slide"
@@ -43,6 +61,7 @@
           <p v-html="slide.quote" class="no-split"></p>
         </div>
       </transition-group>
+      -->
       <!--<div class='flex'>
         <button class='carousel-controls__button' @click="previous">prev</button>
         <button class='carousel-controls__button' @click="next">next</button>
