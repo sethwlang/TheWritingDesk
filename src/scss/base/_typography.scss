@@ -120,9 +120,34 @@ body {
 .text-content {
     //width:680px;
     width:608px;
-    max-width:100%;
+    max-width:calc(100% - 32px)!important;
     margin-left:auto;
     margin-right:auto;
+}
+
+.quote {
+    position:relative;
+    @media (max-width:768px) {
+      padding-top:48px!important;
+    }
+    &:before {
+      position:absolute;
+      content:'';
+      height:100px;
+      width:100px;
+      left:-42px;
+      top:50%;
+      transform:translateY(-50%) scale(0.8);
+      background-image:url('../assets/images/quote-primary.png');
+      background-position:center center;
+      background-size:cover;
+      pointer-events:none;
+      @media (max-width:768px) {
+        left:50%;
+        top:-38px;
+        transform:translateX(-50%) scale(0.68);
+      }
+    }
 }
 
 .splitting {
@@ -227,7 +252,7 @@ p.quote {
         background:#fff;
     }
     strong {
-        display:inline-block;
+        display:block;
         margin-top:16px;
     }
 }

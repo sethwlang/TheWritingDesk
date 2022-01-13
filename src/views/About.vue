@@ -32,7 +32,7 @@
           My <router-link to="/unstuck">Accountability Program</router-link> is designed with you in mind.
         </li>
         <li>Are you looking for expert insight on a book, marketing campaign, or short story?<br>
-        You’ll find everything you need in my<router-link to="/edit">editing packages</router-link>.
+        You’ll find everything you need in my <router-link to="/edit">editing packages</router-link>.
         </li>
       </ul>
     </section>

@@ -36,11 +36,19 @@
         }
         > div {
             width:calc(33.333% - 16px);
+            @media (max-width:1200px) {
+                width:100%;
+            }
         }
         .quote {
+            background:rgba(255,255,255,0.24);
             box-shadow:0px 0px 24px rgba(162,214,224,0.32);
             font-size:16px;
             min-height:233.36px;
+            margin-bottom:0!important;
+            @media (max-width:1200px) {
+                min-height:0;
+            }
         }
     }
 
@@ -52,10 +60,19 @@
         //margin-top:80px;
         background:rgba(255,255,255,0);
         padding:32px;
+        @media (max-width:991px) {
+            padding:16px;
+        }
         li {
             font-size:20px;
             margin:16px 0;
             text-align:center;
+            @media (max-width:991px) {
+                text-align:left;
+            }
+            @media (max-width:768px) {
+                font-size:16px;
+            }
             &:nth-of-type(1) {
                 margin-top:0;
             }
@@ -68,6 +85,12 @@
     section.insights {
         padding-top:104px;
         padding-bottom:0;
+        @media (max-width:991px) {
+            padding-top:64px;
+        }
+        @media (max-width:480px) {
+            padding-top:40px;
+        }
     }
     form {
         margin-left:auto;

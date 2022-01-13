@@ -43,7 +43,7 @@
           </li>
         </ul>
         <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 rounded bg-twd-blue-secondary-light services-descriptions">
-          <div class="px-4 py-5 flex vertical center">
+          <div class="py-5 flex vertical center">
             <div class="tab-content tab-space">
               <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                 <div class="flex items-center justify-center bg-twd-blue-secondary-light">
@@ -89,32 +89,32 @@
       </div>
       <div class="testimonials">
         <div id="testimonies">
-          <div class="">
-            <p>
-            “Bailey has been an key part of refining our website copy, creating several key product announcements, and
-            creating concise user-help guides”.
+          <div>
+            <p class="quote white-bg fade-reveal">
+              “Bailey has been an key part of refining our website copy, creating several key product announcements, and
+              creating concise user-help guides.”
+              <strong>
+              — Sara Blackstock - East Hartford, CT
+              </strong>
             </p>
-            <span class="fade-reveal">
-            — Sara Blackstock - East Hartford, CT
-            </span>
           </div>
-          <div class="">
-            <p>
-            Bailey is the consummate professional. She provided clear, concise, and informative feedback to my work. When
-            you are writing a large and meandering novel such as mine, it takes a keen and sensitive eye to catch all the
-            discrepancies and an avid lover of words to really grasp the heart of your intention. Bailey did all this and
-            more.”
+          <div>
+            <p class="quote white-bg fade-reveal">
+              “Bailey is the consummate professional. She provided clear, concise, and informative feedback to my work. When
+              you are writing a large and meandering novel such as mine, it takes a keen and sensitive eye to catch all the
+              discrepancies and an avid lover of words to really grasp the heart of your intention. Bailey did all this and
+              more.”
+              <strong>—Rey</strong>
             </p>
-            <span class="fade-reveal">—Rey</span>
           </div>
-          <div class="">
-            <p style="width:516px;">
-            Bailey is easy to work with, detail-oriented, and she will take your writing project, or any project, as
-            seriously as you do. But she will also make it fun for you. I have no idea why I thought writing has to be a
-            solitary experience we muddle through on our own, when it is only enhanced by working with someone who is
-            trained to help you and who has also been there and gets it.” 
+          <div>
+            <p class="quote white-bg fade-reveal">
+              “Bailey is easy to work with, detail-oriented, and she will take your writing project, or any project, as
+              seriously as you do. But she will also make it fun for you. I have no idea why I thought writing has to be a
+              solitary experience we muddle through on our own, when it is only enhanced by working with someone who is
+              trained to help you and who has also been there and gets it.” 
+              <strong>—Milena Velez, Chapin, SC</strong>
             </p>
-            <span class="fade-reveal">—Milena Velez, Chapin, SC</span>
           </div>
         </div>
       </div>
