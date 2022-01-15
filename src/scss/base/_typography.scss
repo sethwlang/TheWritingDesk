@@ -59,7 +59,12 @@ body {
             font-size:18px;
         }
     }
-
+ul {
+    font-size:18px;
+    @media (max-width:768px) {
+        font-size:16px;
+    }
+}
     p {
         font-size:18px;
         margin:12px;
@@ -250,6 +255,7 @@ p.quote {
     }
     &.white-bg {
         background:#fff;
+        box-shadow:0px 0px 24px rgba(162,214,224,0.32);
     }
     strong {
         display:block;

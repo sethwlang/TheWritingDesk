@@ -1,6 +1,6 @@
 <template>
     <footer class="footer font-extrabold flex items-center justify-center">
-        <span style="font-weight:500; margin-right:12px;">© Copyright 2021</span> The Writing Desk
+        <span style="font-weight:500; margin-right:12px;">© Copyright 2022</span>The Writing Desk, LLC
     </footer>
 </template>
 

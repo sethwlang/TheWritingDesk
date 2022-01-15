@@ -2,7 +2,8 @@
   <div class="contact">
   <div class="text-content">
     <h1>Get In Touch</h1>
-    <p>Hi there! Have a project you'd like to discuss with me? I'd love to hear from you!<br> Fill out the following form and I'll be in touch within 24 business hours.</p>
+    <p>Hi there! Have a project you'd like to discuss with me? I'd love to hear from you!</p>
+    <p>Fill out the following form and I'll be in touch within 24 business hours.</p>
   </div>
     <div>
       <img src="@/assets/images/Contact2.jpg" width="60%" class="ml-auto mr-auto fade-reveal"/>
