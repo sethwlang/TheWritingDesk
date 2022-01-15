@@ -4,12 +4,12 @@
       <div class="company-description">
         <div class="text-content">
           <h1>Welcome to<br> The Writing Desk!</h1>
-          <p> I’m Bailey Lang, founder of The Writing Desk. I write for businesses of all sizes, and provide one-on-one
-            editing services for my fellow writers.</p>
-          <p>The Writing Desk exists to help you make a difference with your writing.</p>
+          <p> I’m Bailey Lang, founder of The Writing Desk. I write copy businesses of all sizes, and provide one-on-one
+            editing services and accountability for my fellow writers.</p>
+          <h3>The Writing Desk exists to help you make a difference with your writing.</h3>
           <p>I’m excited you’re here! If you’re here, it’s probably because you’re struggling to find the right words for
             something that matters to you. I’d love to help.</p>
-          <p>Maybe you’re a small business hoping to land a new contract that will propel you to the next stage of growth,
+          <p>Maybe you’re a small business hoping to land new business that will propel you to the next stage of growth,
             or you know your website copy needs refreshed.
             Maybe you’ve written the story you always wanted to share with the world, and you’re not sure what comes
             next.</p>
@@ -20,7 +20,7 @@
     </div>
 
     <div class="flex flex-wrap writing-services fade-reveal">
-      <h1 class="">Writing Services</h1>
+      <h1 class="">What I Do</h1>
       <div class="w-full services-panel">
         <ul class="flex mb-0 list-none flex-wrap flex-row">
           <li class="-mb-px last:mr-0 text-center">
@@ -48,8 +48,7 @@
               <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                 <div class="flex items-center justify-center bg-twd-blue-secondary-light">
                   <p>
-                  I offer copywriting, grant and proposal writing, and ghostwriting services for companies and
-                  individuals.
+                  Your search for a copywriter is at an end! I specialize in writing for education, finance, and technology businesses.
                   </p>
                 </div>
                 <router-link class="primary-button fade-reveal" to="/write">
@@ -59,8 +58,7 @@
               <div v-bind:class="{'hidden': openTab !== 2, 'block': openTab === 2}">
                 <div class="flex items-center justify-center">
                   <p>
-                  Ready to take your writing to the next level? I provide developmental editing, copyediting,
-                  accountability partnerships, and more.
+                  It's time to take your writing to the next level! I provide developmental editing, copy editing, and more.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/edit">
@@ -70,7 +68,7 @@
               <div v-bind:class="{'hidden': openTab !== 3, 'block': openTab === 3}">
                 <div class="flex items-center justify-center">
                   <p>
-                  Looking for additional support in setting—and reaching—your writing goals? My accountability program is for you.
+                  If you need additional support in setting—and reaching—your writing goals, look no further! My accountability program is for you.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/unstuck">
@@ -91,10 +89,10 @@
         <div id="testimonies">
           <div>
             <p class="quote white-bg fade-reveal">
-              “Bailey has been an key part of refining our website copy, creating several key product announcements, and
+              “Bailey has been a key part of refining our website copy, creating several key product announcements, and
               creating concise user-help guides.”
               <strong>
-              — Sara Blackstock - East Hartford, CT
+              — Sara Blackstock - East Hartford, CT. Virtual Reality Training Software Company. 
               </strong>
             </p>
           </div>
@@ -104,16 +102,16 @@
               you are writing a large and meandering novel such as mine, it takes a keen and sensitive eye to catch all the
               discrepancies and an avid lover of words to really grasp the heart of your intention. Bailey did all this and
               more.”
-              <strong>—Rey</strong>
+              <strong>—Rey, Science Fiction Author.</strong>
             </p>
           </div>
           <div>
             <p class="quote white-bg fade-reveal">
               “Bailey is easy to work with, detail-oriented, and she will take your writing project, or any project, as
-              seriously as you do. But she will also make it fun for you. I have no idea why I thought writing has to be a
+              seriously as you do. I have no idea why I thought writing has to be a
               solitary experience we muddle through on our own, when it is only enhanced by working with someone who is
               trained to help you and who has also been there and gets it.” 
-              <strong>—Milena Velez, Chapin, SC</strong>
+              <strong>—Milena Velez, Chapin, SC. YA and Children’s Author.</strong>
             </p>
           </div>
         </div>

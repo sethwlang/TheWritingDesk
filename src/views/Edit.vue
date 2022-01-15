@@ -1,8 +1,5 @@
 <template>
   <div class="edit">
-
-    
-
     <div class="flex columns header">
       <div class="image">
         <!--<img src="@/assets/images/writing.jpg"/>-->
@@ -11,9 +8,10 @@
       <div class="flex vertical center content">
         <div class="text-content">
           <h1>Editing Services</h1>
-          <p>Nothing will bring me more joy than helping you get your writing from draft to done! I provide editing and
-            accountability services for every stage of a project, from developmental edits to proofreading.</p>
-          <p>I can’t wait to learn about your project! </p>
+          <p>When you’re ready to take your writing from draft to done,
+            I’ll be here to help you develop your best ideas—and avoid going to print with any pesky typos still hanging around.</p>
+            <p>Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
+            <p>Read on to learn about everything from developmental editing to proofreading.</p> 
         </div>
       </div>
     </div>
@@ -22,26 +20,33 @@
       <div class="text-content">
         <h2>Developmental Editing</h2>
         <p>You’ve completed a draft of your book. Now what?</p>
+        <p>Now it’s time to think about developmental editing. </p>
+        <p>Developmental editing provides insight into big-picture items like pacing, dialogue, and structure for finished manuscripts.</p> 
+        <p>When working with me on develpmental edits, you'll get a professional editorial perspective on your manuscript, along with specific, actionable feedback.</p>
 
-        <p>Developmental editing provides insight into big-picture items like pacing, dialogue, and structure. You get a
-          professional editorial perspective on your manuscript, along with specific, actionable feedback.</p><br/>
+        <p>You’ve put an incredible amount of work into finishing your draft, and it’s ready for some expert insight.</p> 
+        <p> I bring more than a decade of writing and editing experience to the table. I provide developmental edits for
+          writers working on:</p>
+          <ul class="list-disc ml-5">
+            <li class="indent-1">Fiction—especially science fiction, fantasy, and romance</li>
+            <li>Nonfiction—with an emphasis on business, leadership, and self-help</li>
+            <li>Academic monographs and articles—particularly in the humanities</li>
+            </ul>
 
-        <p>You’ve put an incredible amount of work into finishing your draft, and it’s ready for some expert insight. I
-          bring more than a decade of writing and editing experience to the table, and provide developmental edits for
-          fiction, nonfiction, and academic writers.</p><br/>
-
-        <p>Developmental editing is an investment in your growth as a writer and in the worth of your writing. You’ll
-          receive two documents from me: your manuscript with my in-line comments. and a summary document with my central
-          observations and recommendations. We’ll also meet twice—at the start of the project and after I’ve provided my
-          comments—so I can answer all your questions.</p><br/>
-
-        <p>I have a limited number of slots available for developmental editing, so don’t wait! Contact me to
+        <p>Developmental editing is an investment in your growth as a writer and in the worth of your writing.</p>
+        <p> You’ll receive two documents from me:</p>
+        <ul class="list-disc ml-5">
+        <li>A copy of your manuscript with my in-line comments</li>
+        <li>A summary document with my central observations and recommendations</li>
+        </ul>
+        <p>We’ll also meet twice—once at the start of the project and once after I’ve provided my comments—so I can answer all your questions.</p>
+        <p>I have a limited number of slots available for developmental editing, so don’t wait! <a href="https://calendly.com/the-writing-desk/15min"  target="_blank">Contact me</a> to
           schedule a free 15-minute consultation.</p><br/>
 
         <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
 
-        <p class="quote white-bg fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with you again.”
-        <strong>—Rey, Novelist and Poet.</strong></i></p>
+        <p class="quote white-bg fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with Bailey again.”
+        <strong>—Rey, Science Fiction Author.</strong></i></p>
       </div>
     </section>
 
@@ -70,8 +75,6 @@
 
       </div>
     </section>
-
-    <section class="bg-primary-light">
       <div class="text-content">
 
         <h3>Line Editing</h3>
@@ -91,15 +94,10 @@
 
         <h3>Proofreading</h3>
 
-        <p>Proofreading is the last edit before a project is published—this is where I check the document for any typos,
-          extra spaces, or formatting issues. When your project is ready to spread its wings and fly, proofreading will
-          help clear the runway.</p><br/>
+        <p>Proofreading is the last edit before a project is published—this is where I'll check your work for any typos,
+          extra spaces, or formatting issues. When your project is ready to spread its wings and fly, proofreading clears the runway.</p><br/>
 
-        <p>You can purchase editing services individually or as a discounted bundle of all 3 services.</p><br/>
-
-        <p>While developmental editing is only available for completed manuscripts, I’m happy to provide line edits and
-          copy edits for partially completed documents. On a tight timeline? I can still help! There is a fee for rush
-          edits.</p><br/>
+        <p>You can purchase any editing services individually, or get a discount when bundling all three.</p><br/>
 
         <p>At the end of the editing process, you’ll receive an edited copy of your document, along with a summary
           explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
@@ -113,7 +111,7 @@
           quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
           amazing find"<br/><strong>—Mish S., Cookbook Author.</strong></i></p>
       </div>
-    </section>
+  
 
   </div>
 </template>

@@ -3,7 +3,7 @@
 
     <div class="flex columns header">
       <div class="image">
-        <img src="../assets/images/coffeeShop.jpg"/>
+        <img src="../assets/images/coffeeshop.jpg"/>
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
@@ -11,25 +11,29 @@
           <p>
           If you’re like a lot of writers, finding (or making) time to write without external accountability feels
           impossible—it’s too easy to put off the writing until a someday that never comes. However, the American
-          Society of Training and Development found that accountability appointments can increase your odds of success
-          by up to 95%!
+          Society of Training and Development found that accountability appointments increase your odds of success
+          by <span class="italic">up to 95%!</span>
           </p>
 
-          <p>That’s where the Accountability Program comes in.</p>
+          <p>That’s why I created the Accountability Program.</p>
 
           <p>
-          The program consists of a series of meetings where we set goals, review your progress, and analyze
-          challenges. You get regular, one-on-one access to a highly trained writing educator—that’s me!—to keep you on
-          track and celebrate your progress.
-          </p>
+          The Accountability Program consists of a series of meetings where we:</p> 
+          <ul class="list-disc ml-5">
+            <li>Set realistic, achievable goals</li>
+            <li>Build research-driven writing habits</li>
+            <li>Analyze and overcome challenges, and</li>
+            <li>Review your progress.</li>
+          </ul>
+          <p>You get regular, one-on-one access to a highly trained writing educator—that’s me!—to keep you on track and celebrate each milestone you reach.</p>
         </div>
 
       </div>
     </div>
     <section>
-      <div class="extended text-content">
+      <div class="text-content">
         <p>
-        You’ll also get worksheets for each meeting, which means you’ll finish this program with progress on your project
+        You also get worksheets for each meeting, which means you’ll finish this program with progress on your project
         and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
         track.
         </p>
@@ -45,7 +49,7 @@
     <p class="quote fade-reveal"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions
       knowing that I am not the only one engaged in them, that someone else also cares and is there for support, should
       I need it. I started a daily writing streak that is now 40 days and going strong, and I went from 31K words to
-      over 63K words.”<strong>—Milena Velez, Chapin, SC. Children’s Writer.</strong></i></p>
+      over 63K words.”<strong>—Milena Velez, Chapin, SC. YA and Children’s Author.</strong></i></p>
     
     <div class="materials-pack">
       <h2 class="text-center">Accountability Materials Pack</h2>
