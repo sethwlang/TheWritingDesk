@@ -17,7 +17,13 @@
     "prefetch-image": "^1.1.1",
     "splitting": "^1.0.6",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "follow-redirects": ">=1.14.7",
+    "node-forge": ">=1.0.0",
+    "glob-parent": ">=5.1.2",
+    "postcss": ">=8.2.13"
+
+
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
