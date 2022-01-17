@@ -68,7 +68,7 @@
 
         <p>I have a limited number of ghostwriting slots, so don’t wait!</p>
 
-        <a href="https://calendly.com/the-writing-desk/30min" target="_blank" class="primary-button fade-reveal" ><span>Contact Bailey</span></a>
+        <a href="https://calendly.com/the-writing-desk/30min" class="primary-button" ><span>Contact Bailey</span></a>
       </div>
     </div>
     </section>

@@ -245,6 +245,7 @@ span {
 
 p.quote {
     padding:64px;
+    font-style: italic;
     margin:64px auto 100px;
     margin-left:auto!important;
     margin-right:auto!important;
@@ -259,6 +260,7 @@ p.quote {
     }
     strong {
         display:block;
-        margin-top:16px;
+        margin-top:10px;
+        font-style: normal;
     }
 }

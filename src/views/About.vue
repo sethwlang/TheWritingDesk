@@ -39,37 +39,12 @@
         </li>
       </ul>
     </section>
-    <div class="about-me-testimonials fade-reveal">
-    <div>
-      <p class="quote white-bg">
-      “Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, YA and Childrens Author. Accountability Program.</strong>
-      </p>
+   
+    <VueSlickCarousel v-bind="settings" class="carousel">
+    <div v-for="slide in slides" :key="slide.quote">
+      <p class="quote white-bg" v-html="slide.quote"></p>
     </div>
-    <div>
-      <p class="quote white-bg">
-        “Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT. Copywriting.</strong>
-      </p>
-    </div>
-    <div>
-      <p class="quote white-bg">
-        “Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum White Press, LLC. Copy editing.</strong>
-      </p>
-    </div>
-    <!--
-      <transition-group class="flex overflow-hidden pr-6" tag="div">
-        <div v-for="slide in slides"
-            class="h-44 transition duration-700 ease-in-out w-1/3 text-center rounded-r-2xl rounded-tl-2xl flex-none mr-1 ml-1 testimonial-slide"
-             :class="{'bg-twd-blue-primary' : isEven(slide.id), 'bg-twd-grey-primary-light text-white': !isEven(slide.id)}"
-            :key="slide.id">
-          <p v-html="slide.quote" class="no-split"></p>
-        </div>
-      </transition-group>
-      -->
-      <!--<div class='flex'>
-        <button class='carousel-controls__button' @click="previous">prev</button>
-        <button class='carousel-controls__button' @click="next">next</button>
-      </div>-->
-    </div>
+    </VueSlickCarousel>
     <div class="flex columns">
       <p>I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </p>
       <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
@@ -81,34 +56,49 @@
 
 
 <script>
+import VueSlickCarousel from 'vue-slick-carousel'
+import 'vue-slick-carousel/dist/vue-slick-carousel.css';
+import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
 export default {
   data() {
     return {
       slides: [
         {
-          quote: '“Bailey provided me with invaluable tips and tricks that I now use with every session.”<span>—Milena Velez, SC, YA and Children’s Author. Accountability Program.</span>',
-          id: 1
+          quote: '“Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, YA and Children’s Author. Accountability Program.</strong>'
         },
         {
-          quote: '“Bailey is fast, professional, and talented.”<span>—Sara Blackstock, East Hartford, CT. Copywriting.</span>',
-          id: 2
+          quote: '“Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT. Copywriting.</strong>'
         },
         {
-          quote: 'Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<span>—Plum' +
-              '      White Press, LLC. Copy editing.</span>',
-          id: 3
+          quote: 'Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum' +
+              '      White Press, LLC. Copy editing.</strong>'
         },
         {
-          quote: '“Bailey was friendly and easy to work with. It was a joy!”<span>—CCrystal B., Romance Author. Proofreading.</span>',
-          id: 4
+          quote: '“Bailey was friendly and easy to work with. It was a joy!”<strong>—Crystal B., Romance Author. Proofreading.</strong>'
         },
         {
-          quote: '"I cannot express how happy I am with the end result."—Rey, Science Fiction Author. Developmental editing.</span>',
-          id: 5
+          quote: '"I cannot express how happy I am with the end result."<strong>—Rey, Science Fiction Author. Developmental editing.</strong>'
         }
-      ]
+      ],
+       settings: {
+          arrows: false,
+          autoplay: true,
+          speed: 2000,
+          autoplaySpeed: 5000,
+          slidesToShow: 2,
+          responsive: [
+          {
+            "breakpoint": 1024,
+            "settings": {
+            "slidesToShow": 1,
+        
+        }
+    }],
+
+        },
     }
   },
+  components: { VueSlickCarousel },
   methods: {
     next() {
       const first = this.slides.shift()

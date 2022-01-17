@@ -43,7 +43,7 @@
         <p>I have a limited number of slots available for developmental editing, so don’t wait! <a href="https://calendly.com/the-writing-desk/15min"  target="_blank">Contact me</a> to
           schedule a free 15-minute consultation.</p><br/>
 
-        <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
+        <a href="https://calendly.com/the-writing-desk/15min" class="primary-button" ><span>Contact Bailey</span></a>
 
         <p class="quote white-bg fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with Bailey again.”
         <strong>—Rey, Science Fiction Author.</strong></i></p>
