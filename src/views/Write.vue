@@ -8,11 +8,11 @@
         </div>
         <div class="flex vertical center content">
           <div class="text-content">
-            <h1>Writing Services</h1>
-            <p>I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p>
-            <p>I specialize in copywriting for education, finance, and technology organizations, including universities, workforce training 
+            <h1 class="handwriting">Writing Services</h1>
+            <p class="split-lines">I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p>
+            <p class="split-lines">I specialize in copywriting for education, finance, and technology organizations, including universities, workforce training 
               companies, wealth management firms, personal finance coaches, and software development companies.</p>
-            <p>Whether you need clear, compelling copy, a persuasive proposal, or assistance writing an article or book, I can’t wait to jump in.</p>
+            <p class="split-lines">Whether you need clear, compelling copy, a persuasive proposal, or assistance writing an article or book, I can’t wait to jump in.</p>
             
           </div>
         </div>
@@ -21,7 +21,7 @@
 
     <section class="bg-primary-light content">
       <div class="text-content">
-        <h2>Copywriting</h2>
+        <h2 class="handwriting">Copywriting</h2>
 
         <p>You already know that good writing is essential to your business—you need copy that converts, emails that get
           opened, and content that speaks directly to your audience. I’d love to work with you on developing marketing
@@ -37,7 +37,7 @@
 
         <p>Your business matters—and so does your copy. Let’s get started.</p>
 
-        <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
+        <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
 
         <p class="quote white-bg fade-reveal"><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
           subject matter are key points that keep us wanting to work with her.<br>
@@ -52,7 +52,7 @@
     </div>
     <div>
       <div class="text-content">
-        <h2>Ghostwriting</h2>
+        <h2 class="handwriting">Ghostwriting</h2>
 
         <p>Publishing an article, white paper, or eBook can be a great way to drive interest in your business or tell a story you’re passionate
           about. Writing itself, however, can be a bit more challenging. That’s where I come in.</p>

@@ -3,29 +3,29 @@
 
     <div class="flex columns header">
       <div class="image">
-        <img src="../assets/images/coffeeshop.jpg"/>
+        <img src="../assets/images/coffeeShop.jpg"/>
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
           <h1>Accountability Program</h1>
-          <p>
+          <p class="split-lines">
           If you’re like a lot of writers, finding (or making) time to write without external accountability feels
           impossible—it’s too easy to put off the writing until a someday that never comes. However, the American
           Society of Training and Development found that accountability appointments increase your odds of success
           by <span class="italic">up to 95%!</span>
           </p>
 
-          <p>That’s why I created the Accountability Program.</p>
+          <p class="split-lines">That’s why I created the Accountability Program.</p>
 
-          <p>
+          <p class="split-lines">
           The Accountability Program consists of a series of meetings where we:</p> 
-          <ul class="list-disc ml-5">
+          <ul class="list-disc ml-5 split-lines">
             <li>Set realistic, achievable goals</li>
             <li>Build research-driven writing habits</li>
             <li>Analyze and overcome challenges, and</li>
             <li>Review your progress.</li>
           </ul>
-          <p>You get regular, one-on-one access to a highly trained writing educator—that’s me!—to keep you on track and celebrate each milestone you reach.</p>
+          <p class="split-lines">You get regular, one-on-one access to a highly trained writing educator—that’s me!—to keep you on track and celebrate each milestone you reach.</p>
         </div>
 
       </div>
@@ -43,7 +43,7 @@
         about the program and set up an initial free consultation!
         </p>
 
-        <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link>
+        <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
       </div>
     </section>
     <p class="quote fade-reveal"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions

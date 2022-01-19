@@ -104,4 +104,27 @@
         }
     }
 
+    .slick-slider {
+        width:1500px;
+        max-width:100%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .form-area {
+        .content {
+            p {
+                margin-left:auto;
+                margin-right:0;
+                @media (max-width:991px) {
+                    margin-right:auto;
+                }
+            }
+        }
+        form {
+            margin-left:0;
+            @media (max-width:991px) {
+                margin-left:auto;
+            }
+        }
+    }
 }

@@ -15,6 +15,16 @@ body {
         max-width:100%;
         margin-left:0;
         margin-right:0;
+
+        &.handwriting {
+            font-family: 'Klee One', cursive!important;
+            span, span:before, span:after {
+                font-family: 'Klee One', cursive!important;
+            }
+            span.char {
+                padding:4px 1px;
+            }
+        }
     }
     h1 {
         font-size:64px;
@@ -53,10 +63,28 @@ body {
     h3 {
         font-size:32px;
         @media (max-width:768px) {
-            font-size:20px;
+            font-size:22px;
         }
         @media (max-width:400px) {
+            font-size:20px;
+        }
+    }
+    h4 {
+        font-size:26px;
+        @media (max-width:768px) {
             font-size:18px;
+        }
+        @media (max-width:400px) {
+            font-size:16px;
+        }
+    }
+    h5 {
+        font-size:20px;
+        @media (max-width:768px) {
+            font-size:16px;
+        }
+        @media (max-width:400px) {
+            font-size:14px;
         }
     }
 ul {
@@ -86,7 +114,7 @@ ul {
         }
         a {
             text-decoration:none!important;
-            color:darken($primary-dark, 10%);
+            color:darken($primary-dark, 20%);
             font-weight:500;
             @include smooth;
             &:hover {

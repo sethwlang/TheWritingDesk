@@ -7,7 +7,7 @@ export default function splitText() {
 
     Splitting({
         /* target: String selector, Element, Array of Elements, or NodeList */
-        target: "[data-splitting], h1, h2, h3",
+        target: "[data-splitting], h1, .split-chars",
         /* by: String of the plugin name */
         by: "chars",
         /* key: Optional String to prefix the CSS variables */
@@ -15,7 +15,7 @@ export default function splitText() {
     });
 
     Splitting({
-        target: "p:not(.no-split)",
+        target: ".split-lines",
         by: "lines",
     });
 

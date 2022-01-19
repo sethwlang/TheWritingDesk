@@ -8,26 +8,26 @@
       <div class="flex vertical center content">
         <div class="text-content">
           <h1>Hi! I’m Bailey Lang</h1>
-          <p>Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
+          <p class="split-lines">Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
             in rhetoric and writing. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/" target="_blank">written a book</a>, left my corporate job, and
             started a PhD program in rhetoric and writing studies.</p>
 
-          <p>By the time I finished my dissertation, I realized helping other writers—ndergraduate students, academics, novelists, 
+          <p class="split-lines">By the time I finished my dissertation, I realized helping other writers—ndergraduate students, academics, novelists, 
             and businesses—is what I'm meant to do.</p>
 
-          <p><b>Now, I help writers and businesses tell stories that matter.</b></p>
+          <p class="split-lines"><b>Now, I help writers and businesses tell stories that matter.</b></p>
 
-          <p>Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
+          <p class="split-lines">Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
             Whether you’re trying to launch new website copy or finish your book, finding the right words can be a challenge.</p>
 
-          <p style="width:574px;max-width:100%;">Finding the right support doesn’t have to be!</p>
-          <p>Here at The Writing Desk, I offer services that will
+          <p class="split-lines" style="width:574px;max-width:100%;">Finding the right support doesn’t have to be!</p>
+          <p class="split-lines">Here at The Writing Desk, I offer services that will
             help you take your writing from vague idea to finished product.</p>
         </div>
       </div>
     </div>
     <section class="insights">
-      <ul class="fade-reveal list-disc ml-5">
+      <ul class="list-disc ml-5">
         <li>
           Is it time to work with a writer for your email campaign, proposals, or a book? Check out my <router-link to="/write">writing offerings</router-link>—I’m excited to help you out! 
         </li>
@@ -46,8 +46,12 @@
     </div>
     </VueSlickCarousel>
     <div class="flex columns">
-      <p>I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </p>
-      <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
+      <div class="content">
+        <p>I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </p>
+      </div>
+      <div>
+        <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
+      </div>
     </div>
 
 
@@ -70,7 +74,7 @@ export default {
           quote: '“Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT. Copywriting.</strong>'
         },
         {
-          quote: 'Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum' +
+          quote: '“Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum' +
               '      White Press, LLC. Copy editing.</strong>'
         },
         {

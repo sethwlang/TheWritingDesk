@@ -8,10 +8,10 @@
       <div class="flex vertical center content">
         <div class="text-content">
           <h1>Editing Services</h1>
-          <p>When you’re ready to take your writing from draft to done,
+          <p class="split-lines">When you’re ready to take your writing from draft to done,
             I’ll be here to help you develop your best ideas—and avoid going to print with any pesky typos still hanging around.</p>
-            <p>Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
-            <p>Read on to learn about everything from developmental editing to proofreading.</p> 
+            <p class="split-lines">Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
+            <p class="split-lines">Read on to learn about everything from developmental editing to proofreading.</p> 
         </div>
       </div>
     </div>
@@ -58,16 +58,13 @@
         <h2>Line Editing, Copy Editing,<br> and Proofreading</h2>
         <p>
         Developmental editing helps you identify big-picture items for revision, but doesn’t focus on style,
-        technical
-        considerations, or typos. However, your work also deserves the TLC of line editing, copy editing, and
+        technical considerations, or typos. However, your work also deserves the TLC of line editing, copy editing, and
         proofreading.
         </p>
-
         <p>
         Spell check and grammar check are useful tools, but they’re still no match for a human editor who understands
         context—as well as how, when, and why to break the rules.
         </p>
-
         <p>
         I offer the following editing services for manuscripts, website copy, marketing collateral, and any other
         writing projects you’re working on:
@@ -75,43 +72,96 @@
 
       </div>
     </section>
-      <div class="text-content">
+      <div>
+        <div class="tab-panel">
+          <ul class="flex mb-0 list-none flex-wrap flex-row">
+            <li class="-mb-px last:mr-0 text-center">
+              <a class="text-xl font-bold px-5 py-3 block leading-normal" v-on:click="toggleTabs(1)"
+                v-bind:class="{'active': openTab === 1}">
+                Line Editing
+              </a>
+            </li>
+            <li class="-mb-px last:mr-0 text-center">
+              <a class="text-xl font-bold px-5 py-3 block leading-normal" v-on:click="toggleTabs(2)"
+                v-bind:class="{'active': openTab === 2}">
+                Copy Editing
+              </a>
+            </li>
+            <li class="-mb-px last:mr-0 text-center">
+              <a class="text-xl font-bold px-5 py-3 block leading-normal" v-on:click="toggleTabs(3)"
+                v-bind:class="{'active': openTab === 3}">
+                Proofreading
+              </a>
+            </li>
+          </ul>
+          <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 rounded bg-twd-blue-secondary-light panel-content">
+            <div class="py-5 flex vertical center">
+              <div class="tab-content tab-space">
+                <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
+                  <div class="flex vertical items-center justify-center bg-twd-blue-secondary-light">
+                    <h3>Line Editing</h3>
+                    <p>
+                    While line editing, I focus on content, style, and language use. Line editing helps identify overused phrases,
+                    inconsistencies in style, and other issues to ensure your project is readable and accessible.
+                    </p>
+                  </div>
+                </div>
+                <div v-bind:class="{'hidden': openTab !== 2, 'block': openTab === 2}">
+                  <div class="flex vertical items-center justify-center">
+                    <h3>Copy Editing</h3>
+                    <p>
+                    Copy editing emphasizes technical considerations like grammar, spelling, punctuation, and sentence structure.
+                    If you’re using an in-house style guide or APA, MLA, or Chicago style, I’ll make sure your project adheres to
+                    those guidelines.
+                    </p>
+                  </div>
+                </div>
+                <div v-bind:class="{'hidden': openTab !== 3, 'block': openTab === 3}">
+                  <div class="flex vertical items-center justify-center">
+                    <h3>Proofreading</h3>
+                    <p>Proofreading is the last edit before a project is published—this is where I'll check your work for any typos,
+                      extra spaces, or formatting issues. When your project is ready to spread its wings and fly, proofreading clears the runway.</p><br/>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
-        <h3>Line Editing</h3>
+        <div class="text-content">
+          <p>You can purchase any editing services individually, or get a discount when bundling all three.</p><br/>
 
-        <p>
-        While line editing, I focus on content, style, and language use. Line editing helps identify overused phrases,
-        inconsistencies in style, and other issues to ensure your project is readable and accessible.
-        </p>
+          <p>At the end of the editing process, you’ll receive an edited copy of your document, along with a summary
+            explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
 
-        <h3>Copy Editing</h3>
+          <p>The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
+            saves time, money, and embarrassment. Contact me to get started!</p><br/>
 
-        <p>
-        Copy editing emphasizes technical considerations like grammar, spelling, punctuation, and sentence structure.
-        If you’re using an in-house style guide or APA, MLA, or Chicago style, I’ll make sure your project adheres to
-        those guidelines.
-        </p>
+            <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
 
-        <h3>Proofreading</h3>
+          <p class="quote white-bg fade-reveal"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
+            quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
+            amazing find"<br/><strong>—Mish S., Cookbook Author.</strong></i></p>
+        </div>
 
-        <p>Proofreading is the last edit before a project is published—this is where I'll check your work for any typos,
-          extra spaces, or formatting issues. When your project is ready to spread its wings and fly, proofreading clears the runway.</p><br/>
-
-        <p>You can purchase any editing services individually, or get a discount when bundling all three.</p><br/>
-
-        <p>At the end of the editing process, you’ll receive an edited copy of your document, along with a summary
-          explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
-
-        <p>The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
-          saves time, money, and embarrassment. Contact me to get started!</p><br/>
-
-          <router-link class="primary-button fade-reveal" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
-
-        <p class="quote white-bg fade-reveal"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
-          quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
-          amazing find"<br/><strong>—Mish S., Cookbook Author.</strong></i></p>
       </div>
   
 
   </div>
 </template>
+
+<script>
+export default {
+  name: "home",
+  data() {
+    return {
+      openTab: 1
+    }
+  },
+  methods: {
+    toggleTabs: function (tabNumber) {
+      this.openTab = tabNumber
+    }
+  }
+}
+</script>
