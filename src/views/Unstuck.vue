@@ -19,7 +19,7 @@
 
           <p class="split-lines">
           The Accountability Program consists of a series of meetings where we:</p> 
-          <ul class="list-disc ml-5 split-lines">
+          <ul class="list-disc ml-5 split-lines fade-reveal">
             <li>Set realistic, achievable goals</li>
             <li>Build research-driven writing habits</li>
             <li>Analyze and overcome challenges, and</li>
