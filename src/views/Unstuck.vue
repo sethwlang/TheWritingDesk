@@ -7,7 +7,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1>Accountability Program</h1>
+          <h1 class="handwriting">Accountability Program</h1>
           <p class="split-lines">
           If you’re like a lot of writers, finding (or making) time to write without external accountability feels
           impossible—it’s too easy to put off the writing until a someday that never comes. However, the American
@@ -30,8 +30,8 @@
 
       </div>
     </div>
-    <section>
-      <div class="text-content">
+   
+      <div class="text-content paddington">
         <p>
         You also get worksheets for each meeting, which means you’ll finish this program with progress on your project
         and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
@@ -45,19 +45,21 @@
 
         <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
       </div>
-    </section>
-    <p class="quote fade-reveal"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions
+    
+    <p class="quote"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions
       knowing that I am not the only one engaged in them, that someone else also cares and is there for support, should
       I need it. I started a daily writing streak that is now 40 days and going strong, and I went from 31K words to
       over 63K words.”<strong>—Milena Velez, Chapin, SC. YA and Children’s Author.</strong></i></p>
     
     <div class="materials-pack">
-      <h2 class="text-center">Accountability Materials Pack</h2>
+      <h2 class="text-center handwriting">Accountability Materials Pack</h2>
       <p class="">If the full accountability program isn’t a good fit right now, you can still access many of the benefits!</p><p>The
         Accountability Materials Pack includes worksheets and resources that you can use to create your own writing
         goals and track your progress.</p>
 
-      <a class="primary-button" href="#"><span>Get The Accountability Materials Pack</span></a>
+<a class="primary-button" href="#"><span>Get the Accountability Materials Pack</span></a>
+
+      
     </div>
   </div>
 </template>

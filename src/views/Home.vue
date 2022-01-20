@@ -16,10 +16,10 @@
           <p class="split-lines">If any of that sounds familiar, you’re in the right place!</p>
         </div>
       </div>
-      <div class="image" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.jpg')+')'}"></div>
+      <div class="image fade-reveal" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.jpg')+')'}"></div>
     </div>
 
-    <div class="flex flex-wrap writing-services fade-reveal">
+    <div class="flex flex-wrap writing-services">
       <h1 class="handwriting">What I Do</h1>
       <div class="w-full services-panel tab-panel">
         <ul class="flex mb-0 list-none flex-wrap flex-row">
@@ -51,7 +51,7 @@
                   Your search for a copywriter is at an end! I specialize in writing for education, finance, and technology businesses.
                   </p>
                 </div>
-                <router-link class="primary-button fade-reveal" to="/write">
+                <router-link class="primary-button" to="/write">
                   <span>Learn More</span>
                 </router-link>
               </div>
@@ -81,14 +81,14 @@
       </div>
     </div>
     <div class="form-and-testimonials">
-      <div id="signup" class="fade-reveal">
+      <div id="signup">
         <script async data-uid="4c8af9b4fc" type="application/javascript"
                 src="https://expert-painter-8086.ck.page/4c8af9b4fc/index.js"></script>
       </div>
       <div class="testimonials">
         <div id="testimonies">
           <div>
-            <p class="quote white-bg fade-reveal">
+            <p class="quote white-bg">
               “Bailey has been a key part of refining our website copy, creating several key product announcements, and
               creating concise user-help guides.”
               <strong>
@@ -97,7 +97,7 @@
             </p>
           </div>
           <div>
-            <p class="quote white-bg fade-reveal">
+            <p class="quote white-bg">
               “Bailey is the consummate professional. She provided clear, concise, and informative feedback to my work. When
               you are writing a large and meandering novel such as mine, it takes a keen and sensitive eye to catch all the
               discrepancies and an avid lover of words to really grasp the heart of your intention. Bailey did all this and
@@ -106,7 +106,7 @@
             </p>
           </div>
           <div>
-            <p class="quote white-bg fade-reveal">
+            <p class="quote white-bg">
               “Bailey is easy to work with, detail-oriented, and she will take your writing project, or any project, as
               seriously as you do. I have no idea why I thought writing has to be a
               solitary experience we muddle through on our own, when it is only enhanced by working with someone who is

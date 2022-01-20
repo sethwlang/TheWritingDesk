@@ -67,4 +67,13 @@
             transform:scale(1.06);
         }
     }
+    .handwriting {
+        font-family: 'Klee One', cursive!important;
+        span, span:before, span:after {
+            font-family: 'Klee One', cursive!important;
+        }
+        span.char {
+            padding:4px 1px;
+        }
+    }
 }

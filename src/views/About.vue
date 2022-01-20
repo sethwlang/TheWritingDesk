@@ -7,7 +7,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1>Hi! I’m Bailey Lang</h1>
+          <h1 class="handwriting">Hi! I’m Bailey Lang</h1>
           <p class="split-lines">Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
             in rhetoric and writing. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/" target="_blank">written a book</a>, left my corporate job, and
             started a PhD program in rhetoric and writing studies.</p>
@@ -26,35 +26,33 @@
         </div>
       </div>
     </div>
-    <section class="insights">
+    <section class="insights bg-primary-light">
       <ul class="list-disc ml-5">
         <li>
-          Is it time to work with a writer for your email campaign, proposals, or a book? Check out my <router-link to="/write">writing offerings</router-link>—I’m excited to help you out! 
+          Is it time to work with a writer for your email campaign, proposals, or a book? Check out my <router-link class="link" to="/write">writing offerings</router-link>—I’m excited to help you out! 
         </li>
         <li>Are you looking for expert edits on your book, short story, or marketing materials? 
-          You’ll find everything you need in my <router-link to="/edit">editing packages</router-link>.
+          You’ll find everything you need in my <router-link class="link" to="/edit">editing packages</router-link>.
         </li>
         <li>Do you need help setting and achieving manageable writing goals?
-          My <router-link to="/unstuck">Accountability Program</router-link> is designed with you in mind.
+          My <router-link class="link" to="/unstuck">Accountability Program</router-link> is designed with you in mind.
         </li>
       </ul>
+      <VueSlickCarousel v-bind="settings" class="carousel">
+        <div v-for="slide in slides" :key="slide.quote">
+          <p class="quote white-bg" v-html="slide.quote"></p>
+        </div>
+      </VueSlickCarousel>
+      
     </section>
-   
-    <VueSlickCarousel v-bind="settings" class="carousel">
-    <div v-for="slide in slides" :key="slide.quote">
-      <p class="quote white-bg" v-html="slide.quote"></p>
-    </div>
-    </VueSlickCarousel>
-    <div class="flex columns">
-      <div class="content">
-        <p>I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </p>
+    <section>
+  <div class="flex vertical center content">
+        <div>
+          <h4 class="handwriting ml-auto mr-auto text-center mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </h4>
+          <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
+        </div>
       </div>
-      <div>
-        <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
-      </div>
-    </div>
-
-
+    </section>
   </div>
 </template>
 

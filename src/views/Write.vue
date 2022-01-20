@@ -39,7 +39,7 @@
 
         <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
 
-        <p class="quote white-bg fade-reveal"><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
+        <p class="quote white-bg "><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
           subject matter are key points that keep us wanting to work with her.<br>
           <strong>—Sara Blackstock, East Hartford, CT. Virtual Reality Training Software Company. </strong></i></p>
           
@@ -47,7 +47,7 @@
 
   </section>
 <section class="flex columns">
-    <div class="flex center fade-reveal">
+    <div class="flex center">
       <img src="@/assets/images/writing2.jpg"/>
     </div>
     <div>
@@ -72,7 +72,7 @@
       </div>
     </div>
     </section>
-     <p class="quote white-bg fade-reveal"><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to other areas of my company.
+     <p class="quote white-bg "><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to other areas of my company.
            She is truly a team player in every sense and the quality of her work never disappoints.” <strong>—Raya Reaves, Finance Coach and Founder of City Girl Savings.</strong></i></p>
   </div>
 </template>

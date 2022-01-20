@@ -19,6 +19,13 @@
             margin:60px auto 32px;
         }
     }
+    .paddington {
+        padding-top: 10vh;
+        padding-bottom: 2vh;
+        @media (max-width:991px) {
+            padding-top: 0vh;
+        }
+    }
 }
 
 .materials-pack {
@@ -70,4 +77,5 @@
         }
 
     }
+    
 }

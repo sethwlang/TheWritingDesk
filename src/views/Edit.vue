@@ -7,7 +7,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1>Editing Services</h1>
+          <h1 class="handwriting">Editing Services</h1>
           <p class="split-lines">When you’re ready to take your writing from draft to done,
             I’ll be here to help you develop your best ideas—and avoid going to print with any pesky typos still hanging around.</p>
             <p class="split-lines">Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
@@ -18,13 +18,15 @@
 
     <section class="bg-primary-light">
       <div class="text-content">
-        <h2>Developmental Editing</h2>
+        <h2 class="handwriting">Developmental Editing</h2>
         <p>You’ve completed a draft of your book. Now what?</p>
         <p>Now it’s time to think about developmental editing. </p>
         <p>Developmental editing provides insight into big-picture items like pacing, dialogue, and structure for finished manuscripts.</p> 
         <p>When working with me on develpmental edits, you'll get a professional editorial perspective on your manuscript, along with specific, actionable feedback.</p>
 
         <p>You’ve put an incredible amount of work into finishing your draft, and it’s ready for some expert insight.</p> 
+        <p class="quote white-bg"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with Bailey again.”
+        <strong>—Rey, Science Fiction Author.</strong></i></p>
         <p> I bring more than a decade of writing and editing experience to the table. I provide developmental edits for
           writers working on:</p>
           <ul class="list-disc ml-5">
@@ -45,17 +47,16 @@
 
         <a href="https://calendly.com/the-writing-desk/15min" class="primary-button" ><span>Contact Bailey</span></a>
 
-        <p class="quote white-bg fade-reveal"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with Bailey again.”
-        <strong>—Rey, Science Fiction Author.</strong></i></p>
+        
       </div>
     </section>
 
 
       
     <section class="flex columns editing-proofreading">
-      <div><img class="fade-reveal" src="../assets/images/writing3.jpg"/></div>
+      <div><img class="" src="../assets/images/writing3.jpg"/></div>
       <div class="content">
-        <h2>Line Editing, Copy Editing,<br> and Proofreading</h2>
+        <h2 class="handwriting">Line Editing, Copy Editing,<br> and Proofreading</h2>
         <p>
         Developmental editing helps you identify big-picture items for revision, but doesn’t focus on style,
         technical considerations, or typos. However, your work also deserves the TLC of line editing, copy editing, and
@@ -99,7 +100,7 @@
               <div class="tab-content tab-space">
                 <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                   <div class="flex vertical items-center justify-center bg-twd-blue-secondary-light">
-                    <h3>Line Editing</h3>
+                
                     <p>
                     While line editing, I focus on content, style, and language use. Line editing helps identify overused phrases,
                     inconsistencies in style, and other issues to ensure your project is readable and accessible.
@@ -108,7 +109,7 @@
                 </div>
                 <div v-bind:class="{'hidden': openTab !== 2, 'block': openTab === 2}">
                   <div class="flex vertical items-center justify-center">
-                    <h3>Copy Editing</h3>
+                   
                     <p>
                     Copy editing emphasizes technical considerations like grammar, spelling, punctuation, and sentence structure.
                     If you’re using an in-house style guide or APA, MLA, or Chicago style, I’ll make sure your project adheres to
@@ -118,7 +119,7 @@
                 </div>
                 <div v-bind:class="{'hidden': openTab !== 3, 'block': openTab === 3}">
                   <div class="flex vertical items-center justify-center">
-                    <h3>Proofreading</h3>
+                   
                     <p>Proofreading is the last edit before a project is published—this is where I'll check your work for any typos,
                       extra spaces, or formatting issues. When your project is ready to spread its wings and fly, proofreading clears the runway.</p><br/>
                   </div>
@@ -139,7 +140,7 @@
 
             <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
 
-          <p class="quote white-bg fade-reveal"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
+          <p class="quote white-bg"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
             quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
             amazing find"<br/><strong>—Mish S., Cookbook Author.</strong></i></p>
         </div>

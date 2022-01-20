@@ -37,12 +37,12 @@
       </router-link>
     </div>
     <div class="nav-links" :class="{mobilemenu: mobileMenu, active: mobileMenuActive}">
-      <router-link to="/" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Home</router-link>
-      <router-link to="/write" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Writing</router-link>
-      <router-link to="/edit" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Editing</router-link>
-      <router-link to="/unstuck" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Accountability</router-link>
-      <router-link to="/about" class="mr-5 text-2xl" @click.native="closeMobileMenu();">About</router-link>
-      <router-link to="/contact" class="mr-5 text-2xl" @click.native="closeMobileMenu();">Contact</router-link>
+      <router-link to="/" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Home</router-link>
+      <router-link to="/write" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Writing</router-link>
+      <router-link to="/edit" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Editing</router-link>
+      <router-link to="/unstuck" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Accountability</router-link>
+      <router-link to="/about" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">About</router-link>
+      <router-link to="/contact" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Contact</router-link>
     </div>
     <div class="mobile-menu-toggle" v-if="mobileMenu" :class="{active: mobileMenuActive}">
       <a @click="toggleMobileMenu();">
@@ -172,6 +172,15 @@ export default {
         }
       }
     }
+    .handwriting {
+            font-family: 'Klee One', cursive!important;
+            span, span:before, span:after {
+                font-family: 'Klee One', cursive!important;
+            }
+            span.char {
+                padding:4px 1px;
+            }
+        }
 
   }
 </style>

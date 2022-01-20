@@ -127,4 +127,13 @@
             }
         }
     }
+    .link{
+        text-decoration:none!important;
+        color:darken($primary-dark, 20%);
+        font-weight:500;
+        @include smooth;
+        &:hover {
+            filter:brightness(1.1);
+        }
+    }
 }
