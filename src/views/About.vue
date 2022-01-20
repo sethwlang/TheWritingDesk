@@ -12,7 +12,7 @@
             in rhetoric and writing. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/" target="_blank">written a book</a>, left my corporate job, and
             started a PhD program in rhetoric and writing studies.</p>
 
-          <p class="split-lines">By the time I finished my dissertation, I realized helping other writers—ndergraduate students, academics, novelists, 
+          <p class="split-lines">By the time I finished my dissertation, I realized helping other writers—undergraduate students, academics, novelists, 
             and businesses—is what I'm meant to do.</p>
 
           <p class="split-lines"><b>Now, I help writers and businesses tell stories that matter.</b></p>

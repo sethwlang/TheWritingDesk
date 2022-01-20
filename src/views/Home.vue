@@ -4,12 +4,12 @@
       <div class="company-description">
         <div class="text-content">
           <h1 class="handwriting">Welcome to<br> The Writing Desk!</h1>
-          <p class="split-lines"> I’m Bailey Lang, founder of The Writing Desk. I write copy businesses of all sizes, and provide one-on-one
+          <p class="split-lines"> I’m Bailey Lang, founder of The Writing Desk. I write copy for businesses of all sizes, and provide one-on-one
             editing services and accountability for my fellow writers.</p>
           <h4 class="split-lines">The Writing Desk exists to help you make a difference with your writing.</h4>
           <p class="split-lines">I’m excited you’re here! If you’re here, it’s probably because you’re struggling to find the right words for
             something that matters to you. I’d love to help.</p>
-          <p class="split-lines">Maybe you’re a small business hoping to land new business that will propel you to the next stage of growth,
+          <p class="split-lines">Maybe you’re hoping to land new business that will propel you to the next stage of growth,
             or you know your website copy needs refreshed.
             Maybe you’ve written the story you always wanted to share with the world, and you’re not sure what comes
             next.</p>

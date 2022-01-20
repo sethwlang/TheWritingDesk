@@ -39,11 +39,11 @@
         </p>
 
         <p>
-        You’ve waited long enough to finish your book. It’s time to take the next step. Contact me to learn more
+        You’ve waited long enough to finish your book. It’s time to take the next step. <a href="https://calendly.com/the-writing-desk/accountability-program-consultation"   target="_blank">Contact me</a> to learn more
         about the program and set up an initial free consultation!
         </p>
 
-        <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link>
+         <a href="https://calendly.com/the-writing-desk/accountability-program-consultation" class="primary-button" ><span>Contact Bailey</span></a>
       </div>
     
     <p class="quote"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions
@@ -57,8 +57,8 @@
         Accountability Materials Pack includes worksheets and resources that you can use to create your own writing
         goals and track your progress.</p>
 
-<a class="primary-button" href="#"><span>Get the Accountability Materials Pack</span></a>
-
+<script src="https://gumroad.com/js/gumroad.js" type="application/javascript"></script>
+<a class="primary-button" href="https://thewritingdesk.gumroad.com/l/szrdl"><span>Get the Accountability Materials Pack</span></a>
       
     </div>
   </div>

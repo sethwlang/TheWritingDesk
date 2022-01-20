@@ -27,13 +27,13 @@
           opened, and content that speaks directly to your audience. I’d love to work with you on developing marketing
           collateral, email campaigns, website copy, press releases, and more.</p>
 
-        <p>I’m a learner by nature, and my background in both academia and corporate marketing helps me quickly get up to speed.
+        <p>I’m a learner by nature, and my background in both academia and corporate marketing helps me get up to speed quickly.
            I’ll slip into your brand voice and bring all my writing knowledge to
           every project.</p>
 
         <p>Before you know it, I’ll feel like another member of the team.</p>
 
-        <p>It’s easy to get started! <router-link to="contact">Contact Me</router-link> with a short description of your project and any questions.</p>
+        <p>It’s easy to get started! <router-link to="contact">Contact me</router-link> with a short description of your project and any questions.</p>
 
         <p>Your business matters—and so does your copy. Let’s get started.</p>
 
@@ -57,7 +57,7 @@
         <p>Publishing an article, white paper, or eBook can be a great way to drive interest in your business or tell a story you’re passionate
           about. Writing itself, however, can be a bit more challenging. That’s where I come in.</p>
 
-        <p style="width:570px;">Whether you have a draft, an outline, or a list of ideas on a sticky note, I can help you get a finshied piece out the door.</p>
+        <p style="width:570px;">Whether you have a draft, an outline, or a list of ideas on a sticky note, I can help you get a finished piece out the door.</p>
 
         <p style="width:624px;">You'll benefit from my background in academic research, writing lead magnet eBooks, and beyond. You also
           get the support that comes from my experience with research and managing large writing projects. Ghostwriting is a

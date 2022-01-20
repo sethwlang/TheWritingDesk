@@ -67,8 +67,7 @@
         context—as well as how, when, and why to break the rules.
         </p>
         <p>
-        I offer the following editing services for manuscripts, website copy, marketing collateral, and any other
-        writing projects you’re working on:
+        Read on to learn about line editing, copy editing, and proofreading services for website copy, marketing collateral, books, and any other writing projects.
         </p>
 
       </div>
@@ -130,7 +129,7 @@
         </div>
 
         <div class="text-content">
-          <p>You can purchase any editing services individually, or get a discount when bundling all three.</p><br/>
+          <p>You can purchase any editing service individually, or get a discount when bundling all three.</p><br/>
 
           <p>At the end of the editing process, you’ll receive an edited copy of your document, along with a summary
             explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
