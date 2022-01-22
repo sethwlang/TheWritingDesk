@@ -7,7 +7,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting">Hi! I’m Bailey Lang</h1>
+          <h1 class="handwriting split-chars">Hi! I’m Bailey Lang</h1>
           <p class="split-lines">Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
             in rhetoric and writing. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/" target="_blank">written a book</a>, left my corporate job, and
             started a PhD program in rhetoric and writing studies.</p>

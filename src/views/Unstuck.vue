@@ -7,7 +7,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting">Accountability Program</h1>
+          <h1 class="handwriting split-chars">Accountability Program</h1>
           <p class="split-lines">
           If you’re like a lot of writers, finding (or making) time to write without external accountability feels
           impossible—it’s too easy to put off the writing until a someday that never comes. However, the American
@@ -31,7 +31,7 @@
       </div>
     </div>
    
-      <div class="text-content paddington">
+      <div class="text-content paddington split-lines">
         <p>
         You also get worksheets for each meeting, which means you’ll finish this program with progress on your project
         and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
@@ -58,7 +58,7 @@
         goals and track your progress.</p>
 
 <script src="https://gumroad.com/js/gumroad.js" type="application/javascript"></script>
-<a class="primary-button" href="https://thewritingdesk.gumroad.com/l/szrdl"><span>Get the Accountability Materials Pack</span></a>
+<a class="primary-button" href="https://thewritingdesk.gumroad.com/l/szrdl" data-gumroad-single-product="true"><span>Get the Accountability Materials Pack</span></a>
       
     </div>
   </div>

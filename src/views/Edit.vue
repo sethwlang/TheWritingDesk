@@ -7,7 +7,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting">Editing Services</h1>
+          <h1 class="handwriting split-chars">Editing Services</h1>
           <p class="split-lines">When you’re ready to take your writing from draft to done,
             I’ll be here to help you develop your best ideas—and avoid going to print with any pesky typos still hanging around.</p>
             <p class="split-lines">Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
@@ -42,10 +42,10 @@
         <li>A summary document with my central observations and recommendations</li>
         </ul>
         <p>We’ll also meet twice—once at the start of the project and once after I’ve provided my comments—so I can answer all your questions.</p>
-        <p>I have a limited number of slots available for developmental editing, so don’t wait! <a href="https://calendly.com/the-writing-desk/15min"  target="_blank">Contact me</a> to
-          schedule a free 15-minute consultation.</p><br/>
+        <p>I have a limited number of slots available for developmental editing, so don’t wait! <a href="https://calendly.com/the-writing-desk/developmental-editing-consultation"  target="_blank">Contact me</a> to
+          schedule a free 30-minute consultation.</p><br/>
 
-        <a href="https://calendly.com/the-writing-desk/15min" class="primary-button" ><span>Contact Bailey</span></a>
+        <a href="https://calendly.com/the-writing-desk/developmental-editing-consultation" class="primary-button" ><span>Contact Bailey</span></a>
 
         
       </div>
@@ -135,9 +135,9 @@
             explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
 
           <p>The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
-            saves time, money, and embarrassment. Contact me to get started!</p><br/>
+            saves time, money, and embarrassment. <a href="https://calendly.com/the-writing-desk/editing-consultation"  target="_blank">Contact me</a> me to get started!</p><br/>
 
-            <router-link class="primary-button" to="/contact"><span>Contact Bailey</span></router-link><br/><br/>
+            <a href="https://calendly.com/the-writing-desk/editing-consultation" class="primary-button" ><span>Contact Bailey</span></a><br/><br/>
 
           <p class="quote white-bg"><i>"I couldn't be more pleased to work with Bailey! She's an amazing editor—really knows her stuff and also so
             quick and efficient. I loved that she was very responsive and answered all my questions quickly. Bailey is an
