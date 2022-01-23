@@ -27,7 +27,7 @@ $isDev = $host === 'localhost';#todo update when we have a proper staging site
 if(isset($data->ref)){
     if(
         ($data->ref == 'refs/heads/dev' && $isDev)
-        || ($data->ref == 'refs/heads/master' && !$isDev)
+        || ($data->ref == 'refs/heads/main' && !$isDev)
     ){
         #do a git pull to update files
         `git -C $gitDir pull`;
