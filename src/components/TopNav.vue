@@ -42,7 +42,6 @@
       <router-link to="/edit" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Editing</router-link>
       <router-link to="/unstuck" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Accountability</router-link>
       <router-link to="/about" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">About</router-link>
-      <router-link to="/contact" class="mr-5 text-2xl handwriting" @click.native="closeMobileMenu();">Contact</router-link>
     </div>
     <div class="mobile-menu-toggle" v-if="mobileMenu" :class="{active: mobileMenuActive}">
       <a @click="toggleMobileMenu();">

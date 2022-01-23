@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "ansi-regex": ">=5.0.1",
+    "axios": "^0.25.0",
     "core-js": "^3.20.1",
     "follow-redirects": ">=1.14.7",
     "glob-parent": ">=5.1.2",
@@ -20,7 +21,9 @@
     "postcss": ">=8.2.13",
     "prefetch-image": "^1.1.1",
     "splitting": "^1.0.6",
+    "vee-validate": "^3.4.14",
     "vue": "^2.6.11",
+    "vue-axios": "^3.4.0",
     "vue-router": "^3.2.0",
     "vue-slick-carousel": "^1.0.6"
   },
