@@ -4,7 +4,9 @@ import App from './App.vue'
 import $ from "jquery";
 import './assets/css/tailwind.css'
 import router from './router'
-
+import VeeValidate from 'vee-validate'
+import axios from 'axios'
+import VueAxios from 'vue-axios'
 import "./scss/main.scss";
 
 // Loading Screen
@@ -25,7 +27,7 @@ import {revealSplitTexts, fadeInReveal} from './js/scroll-triggers.js';
 
 //Init Vue
 Vue.config.productionTip = false
-Vue.use(VueRouter)
+Vue.use(VueRouter, VeeValidate, VueAxios, axios)
 new Vue({
   router,
   render: h => h(App)
