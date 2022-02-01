@@ -39,11 +39,11 @@
         </p>
 
         <p>
-        You’ve waited long enough to finish your book. It’s time to take the next step. <a href="https://calendly.com/the-writing-desk/accountability-program-consultation"   target="_blank">Contact me</a> to learn more
+        You’ve waited long enough to finish your book. It’s time to take the next step. <a href="https://calendly.com/the-writing-desk/free-consultation"   target="_blank">Contact me</a> to learn more
         about the program and set up an initial free consultation!
         </p>
 
-         <a href="https://calendly.com/the-writing-desk/accountability-program-consultation" class="primary-button" ><span>Contact Bailey</span></a>
+         <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
       </div>
     
     <p class="quote"><i>“Almost immediately, I was excited about my writing again. It felt different approaching my writing sessions
