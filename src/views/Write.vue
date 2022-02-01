@@ -33,11 +33,11 @@
 
         <p>Before you know it, I’ll feel like another member of the team.</p>
 
-        <p>It’s easy to get started! <a href=" https://calendly.com/the-writing-desk/copywriting-consultation" >Contact me</a> with a short description of your project and any questions.</p>
+        <p>It’s easy to get started! <a href="https://calendly.com/the-writing-desk/free-consultation" >Contact me</a> with a short description of your project and any questions.</p>
 
         <p>Your business matters—and so does your copy. Let’s get started.</p>
 
-        <a href=" https://calendly.com/the-writing-desk/copywriting-consultation" class="primary-button" ><span>Contact Bailey</span></a>
+        <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
 
         <p class="quote white-bg "><i>“Bailey's flexibility has proven the most valuable for us, but her speed and willingness to dive into unknown
           subject matter are key points that keep us wanting to work with her.<br>
@@ -68,7 +68,7 @@
 
         <p>I have a limited number of ghostwriting slots, so don’t wait!</p>
 
-        <a href="https://calendly.com/the-writing-desk/ghostwriting-consultation" class="primary-button" ><span>Contact Bailey</span></a>
+        <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
       </div>
     </div>
     </section>
