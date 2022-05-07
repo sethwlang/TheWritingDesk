@@ -18,7 +18,7 @@
           <p class="split-lines">That’s why I created the Accountability Program.</p>
 
           <p class="split-lines">
-          The Accountability Program consists of a series of meetings where we:</p> 
+          The Accountability Program consists of 6 bi-weekly meetings across 3 months where we:</p> 
           <ul class="list-disc ml-5 split-lines fade-reveal">
             <li>Set realistic, achievable goals</li>
             <li>Build research-driven writing habits</li>
@@ -34,13 +34,14 @@
       <div class="text-content paddington split-lines">
         <p>
         You also get worksheets for each meeting, which means you’ll finish this program with progress on your project
-        and improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
+        <span class="italic">and</span> improved insights into your own writing process: what works, what doesn’t, and how to keep yourself on
         track.
         </p>
 
         <p>
-        You’ve waited long enough to finish your book. It’s time to take the next step. <a href="https://calendly.com/the-writing-desk/free-consultation"   target="_blank">Contact me</a> to learn more
-        about the program and set up an initial free consultation!
+        You’ve waited long enough to finish your book. It’s time to take the next step.</p>
+        <p>I have a limited number of Accountability Program spots open for the July-September Session! <a href="https://calendly.com/the-writing-desk/free-consultation"   target="_blank">Contact me</a> to learn more
+        today about the program and set up an initial free consultation!
         </p>
 
          <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>

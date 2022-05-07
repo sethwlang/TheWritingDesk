@@ -19,12 +19,18 @@
     <section class="bg-primary-light">
       <div class="text-content">
         <h2 class="handwriting">Developmental Editing</h2>
-        <p>You’ve completed a draft of your book. Now what?</p>
-        <p>Now it’s time to think about developmental editing. </p>
-        <p>Developmental editing provides insight into big-picture items like pacing, dialogue, and structure for finished manuscripts.</p> 
-        <p>When working with me on develpmental edits, you'll get a professional editorial perspective on your manuscript, along with specific, actionable feedback.</p>
+        <p>Developmental editing takes two forms: ongoing coaching and feedback as you work on a draft, or an in-depth review of your completed manuscript.</p>
+ 
+        <p>When working with me on developmental edits, you’ll get a professional editorial perspective on your manuscript along with specific, actionable feedback.</p>
+ 
+        <p>Developmental editing provides insight into big-picture items like pacing, dialogue, and structure.</p>
+ 
+        <p>If you have a draft in progress, we’ll meet regularly to discuss your writing, assess your writing habits, and figure out how to overcome any roadblocks. 
+          I’ll read your work as you go and make suggestions.</p>
+ 
+        <p>If you have a completed manuscript, we’ll meet twice: once at the start of the project and once after I’ve provided my comments. 
+          You’ll receive an in-depth assessment of your writing, including in-line comments and specific recommendations for your revision process.</p>
 
-        <p>You’ve put an incredible amount of work into finishing your draft, and it’s ready for some expert insight.</p> 
         <p class="quote white-bg"><i>“I cannot express how happy I am with the end result. I would not hesitate to work with Bailey again.”
         <strong>—Rey, Science Fiction Author.</strong></i></p>
         <p> I bring more than a decade of writing and editing experience to the table. I provide developmental edits for
@@ -36,12 +42,7 @@
             </ul>
 
         <p>Developmental editing is an investment in your growth as a writer and in the worth of your writing.</p>
-        <p> You’ll receive two documents from me:</p>
-        <ul class="list-disc ml-5">
-        <li>A copy of your manuscript with my in-line comments</li>
-        <li>A summary document with my central observations and recommendations</li>
-        </ul>
-        <p>We’ll also meet twice—once at the start of the project and once after I’ve provided my comments—so I can answer all your questions.</p>
+    
         <p>I have a limited number of slots available for developmental editing, so don’t wait! <a href="https://calendly.com/the-writing-desk/free-consultation"  target="_blank">Contact me</a> to
           schedule a free 30-minute consultation.</p><br/>
 
@@ -135,7 +136,7 @@
             explaining what changes I made, why I made them, and any patterns I noticed.</p><br/>
 
           <p>The cost of putting poorly edited work out into the world is astronomical—investing in edits ahead of time
-            saves time, money, and embarrassment. <a href="https://calendly.com/the-writing-desk/free-consultation"  target="_blank">Contact me</a> me to get started!</p><br/>
+            saves time, money, and embarrassment. <a href="https://calendly.com/the-writing-desk/free-consultation"  target="_blank">Contact me</a> to get started!</p><br/>
 
             <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a><br/><br/>
 
