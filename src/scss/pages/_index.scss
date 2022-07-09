@@ -85,7 +85,7 @@
                 width:100%;
             }
         }
-        .formkit-header {
+       /*.formkit-header {
             min-width:362px;
             h2 {
                 color:#000!important;
@@ -100,9 +100,9 @@
                     padding:4px 1px;
                 }*/
                 
-            }
-        }
-        form {
+            //}
+        //}
+        /*form {
             margin-right:0;
             margin-left:auto;
             @media (max-width:991px) {
@@ -118,14 +118,15 @@
                     filter:brightness(1.1);
                 }
             }
-        }
+        }*/
         #signup {
+            padding-left: 150px;
             @media (max-width:991px) {
                 width:calc(100% - 32px);
                 margin-left:auto;
                 margin-right:auto;
             }
-            h2 {
+            /*h2 {
                 white-space:nowrap;
                 font-size:46px;
                 @media (max-width:991px) {
@@ -133,8 +134,8 @@
                     font-size:28px;
                     white-space:normal;
                 }
-            }
-            .formkit-content {
+            }*/
+            /*.formkit-content {
                 p {
                     max-width:100%;
                     width:100%;
@@ -181,7 +182,7 @@
                         filter:brightness(1.1);
                     }
                 }
-            }
+            }*/
         }
     }
     .testimonials {
