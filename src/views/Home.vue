@@ -82,8 +82,7 @@
     </div>
     <div class="form-and-testimonials">
       <div id="signup">
-        <script async data-uid="4c8af9b4fc" type="application/javascript"
-                src="https://expert-painter-8086.ck.page/4c8af9b4fc/index.js"></script>
+          <script async data-uid="ec9694c29c" type="application/javascript" src="https://expert-painter-8086.ck.page/ec9694c29c/index.js"></script>
       </div>
       <div class="testimonials">
         <div id="testimonies">
