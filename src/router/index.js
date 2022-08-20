@@ -37,6 +37,21 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
+  },
+  {
+    path: '/disclaimer',
+    name: 'Disclaimer',
+    component: () => import(/* webpackChunkName: "about" */ '../views/footer/Disclaimer.vue')
+  },
+  {
+    path: '/privacy',
+    name: 'Privacy Policy',
+    component: () => import(/* webpackChunkName: "about" */ '../views/footer/Privacy.vue')
+  },
+  {
+    path: '/terms',
+    name: 'Terms of Use',
+    component: () => import(/* webpackChunkName: "about" */ '../views/footer/Terms.vue')
   }
 ]
 
