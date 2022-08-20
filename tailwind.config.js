@@ -32,6 +32,7 @@ module.exports = {
         'h2': {fontSize: theme('fontSize.2xl'), paddingTop:theme('pt.12'), paddingBottom:theme('pb.12')},
         'h3': {fontSize: theme('fontSize.xl')},
         'p':{fontSize: theme('fontSize.lg')},
+        'strong':{fontSize: theme('weight.800')},
       })
     })
   ],
