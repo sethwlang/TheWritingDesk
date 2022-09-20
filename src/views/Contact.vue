@@ -12,11 +12,7 @@
       </p>
     </div>
     <div>
-      <img
-        src="@/assets/images/Contact2.jpg"
-        width="60%"
-        class="ml-auto mr-auto"
-      />
+    
       <ValidationObserver v-slot="{ invalid }">
       <form class="mt-12 ml-auto mr-auto">
         <div>
