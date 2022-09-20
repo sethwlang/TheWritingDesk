@@ -21,37 +21,37 @@ const routes = [
   {
     path: '/write',
     name: 'Write',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Write.vue')
+    component: () => import(/* webpackChunkName: "write" */ '../views/Write.vue')
   },
   {
     path: '/edit',
     name: 'Edit',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Edit.vue')
+    component: () => import(/* webpackChunkName: "edit" */ '../views/Edit.vue')
   },
   {
     path: '/unstuck',
     name: 'Unstuck',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Unstuck.vue')
+    component: () => import(/* webpackChunkName: "unstuck" */ '../views/Unstuck.vue')
   },
   {
     path: '/contact',
     name: 'Contact',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
+    component: () => import(/* webpackChunkName: "contact" */ '../views/Contact.vue')
   },
   {
     path: '/disclaimer',
     name: 'Disclaimer',
-    component: () => import(/* webpackChunkName: "about" */ '../views/footer/Disclaimer.vue')
+    component: () => import(/* webpackChunkName: "disclaimer" */ '../views/footer/Disclaimer.vue')
   },
   {
     path: '/privacy',
     name: 'Privacy Policy',
-    component: () => import(/* webpackChunkName: "about" */ '../views/footer/Privacy.vue')
+    component: () => import(/* webpackChunkName: "privacy" */ '../views/footer/Privacy.vue')
   },
   {
     path: '/terms',
     name: 'Terms of Use',
-    component: () => import(/* webpackChunkName: "about" */ '../views/footer/Terms.vue')
+    component: () => import(/* webpackChunkName: "terms" */ '../views/footer/Terms.vue')
   }
 ]
 
