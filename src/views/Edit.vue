@@ -3,15 +3,15 @@
     <div class="flex columns header">
       <div class="image">
         <!--<img src="@/assets/images/writing.jpg"/>-->
-        <img class="fade-reveal" src="../assets/images/writing.jpg" />
+        <img   src="../assets/images/writing.jpg" />
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting split-chars">Editing Services</h1>
-          <p class="split-lines">When you’re ready to take your writing from draft to done,
+          <h1 class="handwriting">Editing Services</h1>
+          <p >When you’re ready to take your writing from draft to done,
             I’ll be here to help you develop your best ideas—and avoid going to print with any pesky typos still hanging around.</p>
-            <p class="split-lines">Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
-            <p class="split-lines">Read on to learn about everything from developmental editing to proofreading.</p> 
+            <p  >Whether you’re working with the first draft of a book or putting the final touches in place for a marketing campaign, I’ve got an editing service to match.</p>
+            <p  >Read on to learn about everything from developmental editing to proofreading.</p> 
         </div>
       </div>
     </div>

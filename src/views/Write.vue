@@ -3,16 +3,16 @@
     <div>
 
       <div class="flex columns header">
-        <div class="image fade-reveal">
+        <div class="image  ">
           <img src="../assets/images/typing.jpg"/>
         </div>
         <div class="flex vertical center content">
           <div class="text-content">
-            <h1 class="handwriting split-chars">Writing Services</h1>
-            <p class="split-lines">I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p>
-            <p class="split-lines">I specialize in copywriting for education, finance, and technology organizations, including universities, workforce training 
+            <h1 class="handwriting  ">Writing Services</h1>
+            <p  >I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p>
+            <p  >I specialize in copywriting for education, finance, and technology organizations, including universities, workforce training 
               companies, wealth management firms, personal finance coaches, and software development companies.</p>
-            <p class="split-lines">Whether you need clear, compelling copy, a persuasive proposal, or assistance writing an article or book, I can’t wait to jump in.</p>
+            <p  >Whether you need clear, compelling copy, a persuasive proposal, or assistance writing an article or book, I can’t wait to jump in.</p>
             
           </div>
         </div>

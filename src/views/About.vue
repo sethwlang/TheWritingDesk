@@ -3,25 +3,25 @@
 
     <div class="flex columns header">
       <div class="image">
-        <img class="fade-reveal" src="../assets/images/AboutMe.jpg" />
+        <img   src="../assets/images/AboutMe.jpg" />
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting split-chars">Hi! I’m Bailey Lang</h1>
-          <p class="split-lines">Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
+          <h1 class="handwriting  ">Hi! I’m Bailey Lang</h1>
+          <p  >Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
             in rhetoric and writing. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/" target="_blank">written a book</a>, left my corporate job, and
             started a PhD program in rhetoric and writing studies.</p>
 
-          <p class="split-lines">By the time I finished my dissertation, I realized helping other writers—undergraduate students, academics, novelists, 
+          <p  >By the time I finished my dissertation, I realized helping other writers—undergraduate students, academics, novelists, 
             and businesses—is what I'm meant to do.</p>
 
-          <p class="split-lines"><b>Now, I help writers and businesses tell stories that matter.</b></p>
+          <p  ><b>Now, I help writers and businesses tell stories that matter.</b></p>
 
-          <p class="split-lines">Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
+          <p  >Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
             Whether you’re trying to launch new website copy or finish your book, finding the right words can be a challenge.</p>
 
-          <p class="split-lines" style="width:574px;max-width:100%;">Finding the right support doesn’t have to be!</p>
-          <p class="split-lines">Here at The Writing Desk, I offer services that will
+          <p   style="width:574px;max-width:100%;">Finding the right support doesn’t have to be!</p>
+          <p  >Here at The Writing Desk, I offer services that will
             help you take your writing from vague idea to finished product.</p>
         </div>
       </div>
