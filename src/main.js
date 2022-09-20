@@ -46,13 +46,6 @@ $(document).ready(function() {
       }
       prevScrollPosition = currentScrollPosition;
     }
-
-    setTimeout(function(){
-      //smoothScroll();
-      splitText();
-      //circleText();
-    }, 100);
-
     setTimeout(function(){
       cursorElement();
       cursorCheck();
