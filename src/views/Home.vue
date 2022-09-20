@@ -3,7 +3,7 @@
     <div class="flex columns bg-twd-blue-secondary-light header">
       <div class="company-description">
         <div class="text-content">
-          <h1 class="handwriting">Welcome to<br> The Writing Desk!</h1>
+          <h1 class="handwriting mt-10">Welcome to<br> The Writing Desk!</h1>
           <p > I’m Bailey Lang, founder of The Writing Desk. I write copy for businesses of all sizes, and provide one-on-one
             editing services and accountability for my fellow writers.</p>
           <h4 >The Writing Desk exists to help you make a difference with your writing.</h4>
@@ -16,7 +16,7 @@
           <p >If any of that sounds familiar, you’re in the right place!</p>
         </div>
       </div>
-      <div class="image" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.jpg')+')'}"></div>
+      <div class="image" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.webp')+')'}"></div>
     </div>
 
     <div class="flex flex-wrap writing-services">
