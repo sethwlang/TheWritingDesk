@@ -2,8 +2,12 @@
   <div class="edit">
     <div class="flex columns header">
       <div class="image">
-        <!--<img src="@/assets/images/writing.jpg"/>-->
-        <img   src="../assets/images/writing.jpg" />
+        <picture>
+          <source type="image/webp" srcset="../assets/images/writing.webp">
+          <source type="image/jpeg" srcset="../assets/images/writing.jpg">
+            <img   src="../assets/images/writing.jpg" />
+        </picture>
+       
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
@@ -55,7 +59,13 @@
 
       
     <section class="flex columns editing-proofreading">
-      <div><img class="" src="../assets/images/writing3.jpg"/></div>
+      <div>
+        <picture>
+          <source type="image/webp" srcset="../assets/images/writing3.webp">
+          <source type="image/jpeg" srcset="../assets/images/writing3.jpg">
+          <img class="" src="../assets/images/writing3.jpg"/>
+        </picture>
+      </div>
       <div class="content">
         <h2 class="handwriting">Line Editing, Copy Editing,<br> and Proofreading</h2>
         <p>

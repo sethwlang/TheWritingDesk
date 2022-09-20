@@ -3,7 +3,11 @@
 
     <div class="flex columns header">
       <div class="image">
-        <img src="../assets/images/coffeeshop.jpg"/>
+        <picture>
+          <source type="image/webp" srcset="../assets/images/coffeeshop.webp">
+          <source type="image/jpeg" srcset="../assets/images/coffeeshop.jpg">
+            <img   src="../assets/images/coffeeshop.jpg" />
+        </picture>
       </div>
       <div class="flex vertical center content">
         <div class="text-content">

@@ -4,7 +4,11 @@
 
       <div class="flex columns header">
         <div class="image  ">
-          <img src="../assets/images/typing.jpg"/>
+          <picture>
+          <source type="image/webp" srcset="../assets/images/typing.webp">
+          <source type="image/jpeg" srcset="../assets/images/typing.jpg">
+            <img   src="../assets/images/typing.jpg" />
+        </picture>
         </div>
         <div class="flex vertical center content">
           <div class="text-content">
@@ -48,7 +52,11 @@
   </section>
 <section class="flex columns">
     <div class="flex center">
-      <img src="@/assets/images/writing2.jpg"/>
+      <picture >
+          <source type="image/webp" srcset="../assets/images/writing2.webp">
+          <source type="image/jpeg" srcset="../assets/images/writing2.jpg">
+            <img   src="../assets/images/writing2.jpg" />
+        </picture>
     </div>
     <div>
       <div class="text-content">
