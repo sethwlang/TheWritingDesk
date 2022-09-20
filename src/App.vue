@@ -1,6 +1,5 @@
 <template>
   <div id="app" class="flex flex-col justify-between">
-    <LoadingScreen/>
     <TopNav class="h-50"/>
     <router-view class="mb-auto h-auto"/>
     <Footer class="h-16"/>
@@ -33,12 +32,10 @@
 <script>
 import TopNav from "./components/TopNav";
 import Footer from "./components/Footer";
-import LoadingScreen from "./components/LoadingScreen";
 
 export default {
   name: 'App',
   components: {
-    LoadingScreen,
     TopNav,
     Footer
   }

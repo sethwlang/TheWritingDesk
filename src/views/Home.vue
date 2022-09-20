@@ -3,20 +3,20 @@
     <div class="flex columns bg-twd-blue-secondary-light header">
       <div class="company-description">
         <div class="text-content">
-          <h1 class="handwriting split-chars">Welcome to<br> The Writing Desk!</h1>
-          <p class="split-lines"> I’m Bailey Lang, founder of The Writing Desk. I write copy for businesses of all sizes, and provide one-on-one
+          <h1 class="handwriting">Welcome to<br> The Writing Desk!</h1>
+          <p > I’m Bailey Lang, founder of The Writing Desk. I write copy for businesses of all sizes, and provide one-on-one
             editing services and accountability for my fellow writers.</p>
-          <h4 class="split-lines">The Writing Desk exists to help you make a difference with your writing.</h4>
-          <p class="split-lines">I’m excited you’re here! If you’re here, it’s probably because you’re struggling to find the right words for
+          <h4 >The Writing Desk exists to help you make a difference with your writing.</h4>
+          <p >I’m excited you’re here! If you’re here, it’s probably because you’re struggling to find the right words for
             something that matters to you. I’d love to help.</p>
-          <p class="split-lines">Maybe you’re hoping to land new business that will propel you to the next stage of growth,
+          <p >Maybe you’re hoping to land new business that will propel you to the next stage of growth,
             or you know your website copy needs refreshed.
             Maybe you’ve written the story you always wanted to share with the world, and you’re not sure what comes
             next.</p>
-          <p class="split-lines">If any of that sounds familiar, you’re in the right place!</p>
+          <p >If any of that sounds familiar, you’re in the right place!</p>
         </div>
       </div>
-      <div class="image fade-reveal" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.jpg')+')'}"></div>
+      <div class="image" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.jpg')+')'}"></div>
     </div>
 
     <div class="flex flex-wrap writing-services">
