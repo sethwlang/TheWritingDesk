@@ -62,7 +62,7 @@
         Accountability Materials Pack includes worksheets and resources that you can use to create your own writing
         goals and track your progress.</p>
 
-<script src="https://gumroad.com/js/gumroad.js" type="application/javascript"></script>
+<script src="https://gumroad.com/js/gumroad.js" type="application/javascript" defer></script>
 <a class="primary-button" href="https://thewritingdesk.gumroad.com/l/szrdl" data-gumroad-single-product="true"><span>Get the Accountability Materials Pack</span></a>
       
     </div>
