@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex items-center justify-between flex-wrap">
+  <nav class="flex items-center justify-between flex-wrap" :class="{ hide: scrollPosition > 136, scrolled: scrollPosition > 136  }">
     <div class="flex items-center flex-shrink-0 text-white mr-6 logo">
       <router-link to="/" >
         <svg class="logo standard-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300"
@@ -62,13 +62,16 @@ export default {
   data() { return {
     mobileMenu:false,
     mobileMenuActive:false,
+    scrollPosition:0,
   }},
   mounted() {
     window.addEventListener('load', () => {
         this.determineMobileMenu();
     })
+    window.addEventListener('scroll', this.handleScroll)
     this.windowWidth = window.document.body.clientWidth;
     console.log('window width is '+this.windowWidth+'px');
+
   },
   methods: {
     onResize() {
@@ -94,8 +97,15 @@ export default {
     closeMobileMenu() {
       console.log('close mobilemenu triggered');
       this.mobileMenuActive = false;
+    },
+    handleScroll(){
+      
+      return this.scrollPosition  = window.pageYOffset || document.documentElement.scrollTop;
+
     }
-  }
+  },
+  
+ 
 }
 </script>
 

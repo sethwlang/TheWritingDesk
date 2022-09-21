@@ -6,7 +6,7 @@ import router from './router'
 import "./scss/main.scss";
 
 // Cursor
-import {cursorElement, cursorCheck} from './js/cursor-element.js';
+//import {cursorElement, cursorCheck} from './js/cursor-element.js';
 //Viewport Type/Size Detection
 import {viewportSize, viewportType } from './js/viewport.js';
 
@@ -23,7 +23,7 @@ new Vue({
 // One Time Functions
 //////////////////////////////////////////
 
-$(document).ready(onLoadFunction);
+/*$(document).ready(onLoadFunction);
 
 $(document).ready(function() {
 
@@ -53,7 +53,7 @@ $(document).ready(function() {
 
   });
 
-});
+});*/
 
 
 
@@ -61,7 +61,7 @@ $(document).ready(function() {
 // Functions On Every Page and AJAX Page
 //////////////////////////////////////////
 
-function onLoadFunction() {
+/*function onLoadFunction() {
 
   $('nav a').click(function(){
     $(this).addClass('active').siblings().removeClass('active');
@@ -77,13 +77,13 @@ function onLoadFunction() {
       }, 200);
   });
 
-}
+}*/
 
 //////////////////////////////////////////
 // Resize Functions
 //////////////////////////////////////////
 
-$(window).resize(function() {
+/*$(window).resize(function() {
   var fireResizeFunctions;
   clearTimeout(fireResizeFunctions);
   fireResizeFunctions = setTimeout(resizeFunctions, 140);
@@ -97,4 +97,4 @@ $(window).resize(function() {
       $('nav').removeClass('resizing');
     }, 400);
   }
-});
+});*/
