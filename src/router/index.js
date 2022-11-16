@@ -34,11 +34,6 @@ const routes = [
     component: () => import(/* webpackChunkName: "unstuck" */ '../views/Unstuck.vue')
   },
   {
-    path: '/contact',
-    name: 'Contact',
-    component: () => import(/* webpackChunkName: "contact" */ '../views/Contact.vue')
-  },
-  {
     path: '/disclaimer',
     name: 'Disclaimer',
     component: () => import(/* webpackChunkName: "disclaimer" */ '../views/footer/Disclaimer.vue')
