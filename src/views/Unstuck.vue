@@ -11,7 +11,7 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting  ">Accountability Program</h1>
+          <h1 class="handwriting  ">Get Unstuck Coaching Program</h1>
           <p  >
           If you’re like a lot of writers, finding (or making) time to write without external accountability feels
           impossible—it’s too easy to put off the writing until a someday that never comes. However, the American

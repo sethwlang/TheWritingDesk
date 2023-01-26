@@ -13,11 +13,8 @@
         <div class="flex vertical center content">
           <div class="text-content">
             <h1 class="handwriting  ">Writing Services</h1>
-            <p  >I founded The Writing Desk to help businesses and writers make an impact, and my writing services will help you do just that.</p>
-            <p  >I specialize in copywriting for education, finance, and technology organizations, including universities, workforce training 
-              companies, wealth management firms, personal finance coaches, and software development companies.</p>
-            <p  >Whether you need clear, compelling copy, a persuasive proposal, or assistance writing an article or book, I can’t wait to jump in.</p>
-            
+            <p  >You have a story to tell—and I’m here to help you tell it well. </p>
+            <p  >I specialize in copywriting and ghostwriting for start-ups and established businesses in education, finance, and technology. </p>
           </div>
         </div>
       </div>
@@ -27,17 +24,16 @@
       <div class="text-content">
         <h2 class="handwriting">Copywriting</h2>
 
-        <p>You already know that good writing is essential to your business—you need copy that converts, emails that get
-          opened, and content that speaks directly to your audience. I’d love to work with you on developing marketing
-          collateral, email campaigns, website copy, press releases, and more.</p>
+        <p>You already know good writing is essential to your business: you need copy that converts, emails that 
+          people want to open, and content that speaks directly to your audience. I’d love to work with you on articles, 
+          blog posts, newsletters, press releases, and more.</p>
 
-        <p>I’m a learner by nature, and my background in both academia and corporate marketing helps me get up to speed quickly.
-           I’ll slip into your brand voice and bring all my writing knowledge to
-          every project.</p>
+        <p>Working with a writer should make your life easier, which is why I’ll bring all my writing knowledge to bear 
+          on every one of your projects.</p>
 
-        <p>Before you know it, I’ll feel like another member of the team.</p>
+        <p>I’m a learner by nature, and my experience helps me get up to speed and into your brand voice, fast.</p>
 
-        <p>It’s easy to get started! <a href="https://calendly.com/the-writing-desk/free-consultation" >Contact me</a> with a short description of your project and any questions.</p>
+        <p><a href="https://calendly.com/the-writing-desk/free-consultation" >Contact me</a> with a short description of your project and we’ll chat.</p>
 
         <p>Your business matters—and so does your copy. Let’s get started.</p>
 
@@ -62,18 +58,20 @@
       <div class="text-content">
         <h2 class="handwriting">Ghostwriting</h2>
 
-        <p>Publishing an article, white paper, or eBook can be a great way to drive interest in your business or tell a story you’re passionate
-          about. Writing itself, however, can be a bit more challenging. That’s where I come in.</p>
+        <p>Publishing an article, white paper, or book can be a great way to tell a story you’re passionate about and
+           connect with your audience on a deeper level. </p>
 
-        <p style="width:570px;">Whether you have a draft, an outline, or a list of ideas on a sticky note, I can help you get a finished piece out the door.</p>
+        <p style="width:570px;">Writing itself, however, can be a bit more challenging. That’s where I come in.</p>
 
-        <p style="width:624px;">You'll benefit from my background in academic research, writing lead magnet eBooks, and beyond. You also
-          get the support that comes from my experience with research and managing large writing projects. Ghostwriting is a
-          collaborative process, and you can have as much or as little engagement with the writing process as you want.</p>
+        <p style="width:624px;">Whether you have a draft, an outline, or a list of ideas on a sticky note, 
+          I’ll help you get a finished piece out the door.</p>
 
-        <p>Investing in a ghostwriting project means investing in your ideas and the writing expertise needed to bring them to life.
-          If you’re interested in talking more about ghostwriting, set up a free 30-minute consultation to discuss your project!.</p>
-
+        <p>Unsure where to even start with a book project? No worries! You also get the support that comes 
+          from my experience conducting research and managing large projects. </p>
+<p>Ghostwriting is a collaborative process, and you can have as much or as little engagement with the 
+  writing process as you want.</p>
+  <p>Investing in ghostwriting means investing in your ideas and the writing expertise needed to bring them to life. </p>
+  <p>If you’re interested in talking more about ghostwriting, set up a <a href="https://calendly.com/the-writing-desk/free-consultation">free 30-minute consultation</a> to discuss your project! </p>
         <p>I have a limited number of ghostwriting slots, so don’t wait!</p>
 
         <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
@@ -82,5 +80,28 @@
     </section>
      <p class="quote white-bg "><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to other areas of my company.
            She is truly a team player in every sense and the quality of her work never disappoints.” <strong>—Raya Reaves, Finance Coach and Founder of City Girl Savings.</strong></i></p>
+
+           <div class="uppercase flex justify-between w-2/3 ml-auto mr-auto  pb-5">
+            <div class="flex-row">
+              <div><a href="https://citygirlsavings.com/">City Girl Savings</a></div>
+              <div><a href="https://bradleyclark.com/">Clark Asset Management</a></div>
+              <div><a href="https://lp.enrollmentfuel.com/home">enrollmentFUEL</a></div>
+              <div><a href="https://www.instructionalsolutions.com/">Instructional Solutions</a></div>
+              <div><a href="https://www.nsu.edu/">Norfolk State University</a></div>
+            </div>
+            <div class="flex-row">
+              <div><a href="https://ondiscourse.com/">ON_Discourse</a></div>
+              <div><a href="https://primedatacenters.com/">Prime Data Centers</a></div>
+              <div><a href="https://smartmap.pensionmark.com/">SMARTMap</a></div>
+              <div><a href="https://www.spelman.edu/">Spelman College</a></div>
+            </div>
+            <div class="flex-row">
+              <div><a href="https://sphinxcybersecurity.com/">Sphinx Cybersecurity</a></div>
+              <div><a href="https://stride.services/">Stride</a></div>
+              <div><a href="https://www.tranetechnologies.com/en/index.html">Trane Technologies</a></div>
+              <div><a href="https://vrsim.com/">VRSim</a></div>
+              <div><a href="https://www.yosdconsulting.com/">YOSD Consulting</a></div>
+            </div>
+           </div>
   </div>
 </template>

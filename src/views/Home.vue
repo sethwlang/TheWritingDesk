@@ -4,23 +4,18 @@
       <div class="company-description">
         <div class="text-content">
           <h1 class="handwriting mt-10">Welcome to<br> The Writing Desk!</h1>
-          <p > I’m Bailey Lang, founder of The Writing Desk. I write copy for businesses of all sizes, and provide one-on-one
-            editing services and accountability for my fellow writers.</p>
-          <h4 >The Writing Desk exists to help you make a difference with your writing.</h4>
-          <p >I’m excited you’re here! If you’re here, it’s probably because you’re struggling to find the right words for
-            something that matters to you. I’d love to help.</p>
-          <p >Maybe you’re hoping to land new business that will propel you to the next stage of growth,
-            or you know your website copy needs refreshed.
-            Maybe you’ve written the story you always wanted to share with the world, and you’re not sure what comes
-            next.</p>
-          <p >If any of that sounds familiar, you’re in the right place!</p>
+          <p >I’m Bailey Lang: writer, editor, coach, and founder of The Writing Desk. </p>
+          <p>If you’re in education, finance, or technology and looking for copywriting, ghostwriting, or editing, your search has come to an end. </p>
+          <p>If you’re an author looking for actionable editing support or help setting—and reaching—your writing goals, you’re in the right place! </p>
+          <h4 >The Writing Desk exists to help you tell stories that matter.</h4>
+          <p >I’m excited you’re here! Let’s talk about what I can do for you.</p>
         </div>
       </div>
       <div class="image" :style="{backgroundImage:'url('+require('@/assets/images/LandingPage.webp')+')'}"></div>
     </div>
 
     <div class="flex flex-wrap writing-services">
-      <h1 class="handwriting">What I Do</h1>
+      <h1 class="handwriting">The Writing Desk Services</h1>
       <div class="w-full services-panel tab-panel">
         <ul class="flex mb-0 list-none flex-wrap flex-row">
           <li class="-mb-px last:mr-0 text-center">
@@ -38,7 +33,7 @@
           <li class="-mb-px last:mr-0 text-center">
             <a class="text-xl font-bold px-5 py-3 block leading-normal" v-on:click="toggleTabs(3)"
                v-bind:class="{'active': openTab === 3}">
-              Accountability
+              Coaching
             </a>
           </li>
         </ul>
@@ -48,7 +43,7 @@
               <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                 <div class="flex vertical items-center justify-center bg-twd-blue-secondary-light">
                   <p>
-                  Your search for a copywriter is at an end! I specialize in writing for education, finance, and technology businesses.
+                    Struggling to find the right words? I specialize in copywriting and ghostwriting for businesses in education, finance, and technology.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/write">
@@ -58,7 +53,7 @@
               <div v-bind:class="{'hidden': openTab !== 2, 'block': openTab === 2}">
                 <div class="flex vertical items-center justify-center">
                   <p>
-                  It's time to take your writing to the next level! I provide developmental editing, copy editing, and more.
+                    It’s time to take your writing to the next level! Whether you need developmental editing, copyediting, or proofreading, I’ve got you covered.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/edit">
@@ -68,7 +63,7 @@
               <div v-bind:class="{'hidden': openTab !== 3, 'block': openTab === 3}">
                 <div class="flex vertical items-center justify-center">
                   <p>
-                  If you need additional support in setting—and reaching—your writing goals, look no further! My accountability program is for you.
+                    If you’re a writer who needs additional support figuring out how to make real progress on your writing goals, look no further! My one-on-one coaching program is for you.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/unstuck">
