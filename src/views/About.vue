@@ -12,12 +12,12 @@
       <div class="flex vertical center content">
         <div class="text-content">
           <h1 class="handwriting  ">Hi! I’m Bailey Lang</h1>
-          <p  >s comedian, writer, and musician Steve Martin said, “Some people have a way with words, and other 
+          <p  >As comedian, writer, and musician Steve Martin said, “Some people have a way with words, and other 
             people…not have way.” </p>
 
           <p  >I have a way of helping people find their way with words. </p>
 
-          <p  >If you feel like you’re one of the “not have way” types—or if you need some help figuring 
+          <p  >If you feel like you’re one of the “not have way” types—or need some help figuring 
             out a way—you’ve come to the right place. </p>
 
           
@@ -35,12 +35,12 @@
         </li>
         <li>Do you have existing materials that need a little TLC? Whether you’re looking for edits on a technical document or a novel, I can help. <router-link class="link" to="/edit">Check out my editing packages for businesses and writers</router-link>.
         </li>
-        <li>Are you struggling to progress on your book? You might be interested in my <router-link class="link" to="/unstuck">one-on-one coaching program</router-link>!
+        <li>Do you need help making progress on your book? You might be interested in my <router-link class="link" to="/unstuck">one-on-one coaching program</router-link>!
         </li>
       </ul>
-      <p>I started my career as a marketing analyst, but quickly fell in love with rhetoric and writing studies while 
-        working on a master’s degree. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/">written a book</a> and left my corporate job for a PhD program.</p>
-        <p>By the time I finished my dissertation, I realized helping other writers is what I’m meant to do.</p>
+      <p>I started my career as a marketing analyst but quickly fell in love with rhetoric and writing studies while 
+        working on a master’s degree. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/">written a book</a> and left my corporate job for a Ph.D. program.</p>
+        <p>By the time I finished my dissertation, I had realized helping other writers is what I’m meant to do.</p>
         <p><b>Now, I help businesses and writers tell stories that matter. </b></p>
         <p>That said, I’ll be the first one to admit it: Writing is hard!</p>
         <p>You’ve probably already experienced the terror of a blank page, a blinking cursor, and a looming deadline. </p>
@@ -56,6 +56,7 @@
     <section>
   <div class="flex vertical center content">
         <div>
+          <h4 class="handwriting ml-auto mr-auto text-center mb-10">In addition to working with businesses and helping writers one-on-one, I give 10% of The Writing Desk’s profits to local and national organizations supporting literacy, writing education, and writers from marginalized groups.</h4>
           <h4 class="handwriting ml-auto mr-auto text-center mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </h4>
           <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
         </div>
@@ -74,23 +75,23 @@ export default {
     return {
       slides: [
         {
-          quote: '“Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, YA and Children’s Author. Accountability Program.</strong>'
+          quote: '“Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, YA and Children’s Author—Coaching Program.</strong>'
         },
         {
-          quote: '“Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT. Copywriting.</strong>'
+          quote: '“Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT—Copywriting.</strong>'
         },
         {
           quote: '“Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum' +
-              '      White Press, LLC. Copy editing.</strong>'
+              '      White Press, LLC—Copy editing.</strong>'
         },
         {
-          quote: '“Bailey was friendly and easy to work with. It was a joy!”<strong>—Crystal B., Romance Author. Proofreading.</strong>'
+          quote: '“Bailey was friendly and easy to work with. It was a joy!”<strong>—Crystal B., Romance Author—Proofreading.</strong>'
         },
         {
-          quote:'Her writing skills are excellent. Additionally, she is warm, catches on quickly, and clearly cares about her work and our clients. She communicated clearly with our team and met all deadlines. I highly recommend her!”<strong>—Mary Cullen, Founder of Instructional Solutions. Writing, Editing, and Coaching. </strong>'
+          quote:'Her writing skills are excellent. Additionally, she is warm, catches on quickly, and clearly cares about her work and our clients. She communicated clearly with our team and met all deadlines. I highly recommend her!”<strong>—Mary Cullen, Founder of Instructional Solutions—Writing, Editing, and Coaching. </strong>'
         },
         {
-          quote: '"I cannot express how happy I am with the end result."<strong>—Rey, Science Fiction Author. Developmental editing.</strong>'
+          quote: '"I cannot express how happy I am with the end result."<strong>—Rey, Science Fiction Author—Developmental editing.</strong>'
         }
       ],
        settings: {

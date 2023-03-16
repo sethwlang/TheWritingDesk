@@ -43,7 +43,7 @@
               <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                 <div class="flex vertical items-center justify-center bg-twd-blue-secondary-light">
                   <p>
-                    Struggling to find the right words? I specialize in copywriting and ghostwriting for businesses in education, finance, and technology.
+                    Are you struggling to find the right words? I specialize in copywriting and ghostwriting for education, finance, and technology businesses.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/write">
@@ -86,7 +86,7 @@
               “Bailey has been a key part of refining our website copy, creating several key product announcements, and
               creating concise user-help guides.”
               <strong>
-              — Sara Blackstock - East Hartford, CT. Virtual Reality Training Software Company. 
+              — Sara Blackstock. East Hartford, CT. Virtual Reality Training Software Company. 
               </strong>
             </p>
           </div>
@@ -105,7 +105,7 @@
               seriously as you do. I have no idea why I thought writing has to be a
               solitary experience we muddle through on our own, when it is only enhanced by working with someone who is
               trained to help you and who has also been there and gets it.” 
-              <strong>—Milena Velez, Chapin, SC. YA and Children’s Author.</strong>
+              <strong>—Milena Velez. Chapin, SC. YA and Children’s Author.</strong>
             </p>
           </div>
         </div>
