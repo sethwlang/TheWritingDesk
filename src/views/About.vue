@@ -38,6 +38,7 @@
         <li>Do you need help making progress on your book? You might be interested in my <router-link class="link" to="/unstuck">one-on-one coaching program</router-link>!
         </li>
       </ul>
+      <div class="text-content">
       <p>I started my career as a marketing analyst but quickly fell in love with rhetoric and writing studies while 
         working on a master’s degree. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/">written a book</a> and left my corporate job for a Ph.D. program.</p>
         <p>By the time I finished my dissertation, I had realized helping other writers is what I’m meant to do.</p>
@@ -46,18 +47,20 @@
         <p>You’ve probably already experienced the terror of a blank page, a blinking cursor, and a looming deadline. </p>
         <p>Whether you’re launching a new website or trying to finish a book, getting words (much less the right words) onto the page can be a challenge. </p>
         <p>Finding the right support doesn’t have to be. Here’s what it’s like to work with me!</p>
+      </div>
       <VueSlickCarousel v-bind="settings" class="carousel">
         <div v-for="slide in slides" :key="slide.quote">
           <p class="quote white-bg" v-html="slide.quote"></p>
         </div>
       </VueSlickCarousel>
+    
       
     </section>
     <section>
   <div class="flex vertical center content">
         <div>
-          <h4 class="handwriting ml-auto mr-auto text-center mb-10">In addition to working with businesses and helping writers one-on-one, I give 10% of The Writing Desk’s profits to local and national organizations supporting literacy, writing education, and writers from marginalized groups.</h4>
-          <h4 class="handwriting ml-auto mr-auto text-center mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </h4>
+          <h5 class="handwriting ml-auto mr-auto text-center mb-10">In addition to working with businesses and helping writers one-on-one, I give 10% of The Writing Desk’s profits to local and national organizations supporting literacy, writing education, and writers from marginalized groups.</h5>
+          <h5 class="handwriting ml-auto mr-auto text-center mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </h5>
           <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
         </div>
       </div>

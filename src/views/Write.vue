@@ -76,12 +76,14 @@
 
         <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
       </div>
+      
     </div>
+    
     </section>
-     <p class="quote white-bg "><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to other areas of my company.
+    <p class="quote white-bg "><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to other areas of my company.
            She is truly a team player in every sense and the quality of her work never disappoints.” <strong>—Raya Reaves, Finance Coach and Founder of City Girl Savings.</strong></i></p>
 
-           <div class="uppercase flex justify-between w-2/3 ml-auto mr-auto  pb-5">
+           <div class="uppercase flex justify-between w-2/3 ml-auto mr-auto  pb-5 hidden">
             <div class="flex-row">
               <div><a href="https://citygirlsavings.com/">City Girl Savings</a></div>
               <div><a href="https://bradleyclark.com/">Clark Asset Management</a></div>

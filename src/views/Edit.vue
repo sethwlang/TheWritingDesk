@@ -59,7 +59,7 @@
 
         <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
 
-        <div>
+        <div class="hidden">
           <h3 class="handwriting">Client Projects</h3>
         <VueSlickCarousel v-bind="settings" class="carousel">
         <div v-for="project in projects" :key="project.id">
@@ -77,7 +77,7 @@
 
       
     <section class="flex columns editing-proofreading">
-      <div>
+      <div class="content mt-5">
         <picture>
           <source type="image/webp" srcset="../assets/images/writing3.webp">
           <source type="image/jpeg" srcset="../assets/images/writing3.jpg">
@@ -85,7 +85,7 @@
         </picture>
       </div>
       <div class="content">
-        <h2 class="handwriting">Copyediting and Proofreading</h2>
+        <h2 class="handwriting mt-0">Copyediting and Proofreading</h2>
         <p>
         Developmental editing helps you identify big-picture items for revision, but doesn’t focus on style,
         technical considerations, or typos. However, your work also deserves close attention at the sentence level!</p>
@@ -111,7 +111,7 @@
               time saves time, money, and embarrassment.</p>
               <p><a href="https://calendly.com/the-writing-desk/free-consultation"  target="_blank">Contact me</a> 
                 to get started!</p><br/>
-                <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a><br/><br/>
+                <a href="https://calendly.com/the-writing-desk/free-consultation" class="primary-button" ><span>Contact Bailey</span></a>
       </div>
     </section>
       <div><div>
