@@ -6,6 +6,7 @@
   }
 }
 
+
 section {
   padding:80px;
   @media (max-width:1368px) {
@@ -23,15 +24,15 @@ nav {
   + * {
     //padding-top:calc(136px * 2);
     padding-top:136px;
-    padding-bottom:136px;
+
     @media (max-width:991px) {
       padding-top:72px;
-      padding-bottom:72px;
+     
     }
   }
 
-  + .edit, + .write {
-    padding-bottom:0;
+  + .home {
+    padding-bottom:20px;
   }
 }
 

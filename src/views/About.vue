@@ -12,47 +12,55 @@
       <div class="flex vertical center content">
         <div class="text-content">
           <h1 class="handwriting  ">Hi! I’m Bailey Lang</h1>
-          <p  >Once, I thought I would be a marketing analyst forever, but that all changed when I started a master’s degree
-            in rhetoric and writing. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/" target="_blank">written a book</a>, left my corporate job, and
-            started a PhD program in rhetoric and writing studies.</p>
+          <p  >As comedian, writer, and musician Steve Martin said, “Some people have a way with words, and other 
+            people…not have way.” </p>
 
-          <p  >By the time I finished my dissertation, I realized helping other writers—undergraduate students, academics, novelists, 
-            and businesses—is what I'm meant to do.</p>
+          <p  >I have a way of helping people find their way with words. </p>
 
-          <p  ><b>Now, I help writers and businesses tell stories that matter.</b></p>
+          <p  >If you feel like you’re one of the “not have way” types—or need some help figuring 
+            out a way—you’ve come to the right place. </p>
 
-          <p  >Writing is hard. We’ve all experienced the terror of a blank page, a blinking cursor, and a looming deadline.
-            Whether you’re trying to launch new website copy or finish your book, finding the right words can be a challenge.</p>
+          
 
           <p   style="width:574px;max-width:100%;">Finding the right support doesn’t have to be!</p>
-          <p  >Here at The Writing Desk, I offer services that will
-            help you take your writing from vague idea to finished product.</p>
+          <p  >Here at The Writing Desk, you’ll find everything you need to get from draft to done. </p>
         </div>
       </div>
     </div>
     <section class="insights bg-primary-light">
       <ul class="list-disc ml-5">
         <li>
-          Is it time to work with a writer for your email campaign, proposals, or a book? Check out my <router-link class="link" to="/write">writing offerings</router-link>—I’m excited to help you out! 
+          Are you an education, finance, or technology company in need of writing or editing support? 
+          I’ve got your back—<router-link class="link" to="/write">head here to learn more about copywriting and ghostwriting opportunities</router-link>. 
         </li>
-        <li>Are you looking for expert edits on your book, short story, or marketing materials? 
-          You’ll find everything you need in my <router-link class="link" to="/edit">editing packages</router-link>.
+        <li>Do you have existing materials that need a little TLC? Whether you’re looking for edits on a technical document or a novel, I can help. <router-link class="link" to="/edit">Check out my editing packages for businesses and writers</router-link>.
         </li>
-        <li>Do you need help setting and achieving manageable writing goals?
-          My <router-link class="link" to="/unstuck">Accountability Program</router-link> is designed with you in mind.
+        <li>Do you need help making progress on your book? You might be interested in my <router-link class="link" to="/unstuck">one-on-one coaching program</router-link>!
         </li>
       </ul>
+      <div class="text-content">
+      <p>I started my career as a marketing analyst but quickly fell in love with rhetoric and writing studies while 
+        working on a master’s degree. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/">written a book</a> and left my corporate job for a Ph.D. program.</p>
+        <p>By the time I finished my dissertation, I had realized helping other writers is what I’m meant to do.</p>
+        <p><b>Now, I help businesses and writers tell stories that matter. </b></p>
+        <p>That said, I’ll be the first one to admit it: Writing is hard!</p>
+        <p>You’ve probably already experienced the terror of a blank page, a blinking cursor, and a looming deadline. </p>
+        <p>Whether you’re launching a new website or trying to finish a book, getting words (much less the right words) onto the page can be a challenge. </p>
+        <p>Finding the right support doesn’t have to be. Here’s what it’s like to work with me!</p>
+      </div>
       <VueSlickCarousel v-bind="settings" class="carousel">
         <div v-for="slide in slides" :key="slide.quote">
           <p class="quote white-bg" v-html="slide.quote"></p>
         </div>
       </VueSlickCarousel>
+    
       
     </section>
     <section>
   <div class="flex vertical center content">
         <div>
-          <h4 class="handwriting ml-auto mr-auto text-center mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </h4>
+          <p class="text-content">In addition to working with businesses and helping writers one-on-one, I give 10% of The Writing Desk’s profits to local and national organizations supporting literacy, writing education, and writers from marginalized groups.</p>
+          <p class="text-content mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </p>
           <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
         </div>
       </div>
@@ -70,20 +78,23 @@ export default {
     return {
       slides: [
         {
-          quote: '“Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, YA and Children’s Author. Accountability Program.</strong>'
+          quote: '“Bailey provided me with invaluable tips and tricks that I now use with every session.”<strong>—Milena Velez, SC, YA and Children’s Author—Coaching Program.</strong>'
         },
         {
-          quote: '“Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT. Copywriting.</strong>'
+          quote: '“Bailey is fast, professional, and talented.”<strong>—Sara Blackstock, East Hartford, CT—Copywriting.</strong>'
         },
         {
           quote: '“Great editor—timely work, understood what I’m doing, and made helpful suggestions. Highly recommended!”<strong>—Plum' +
-              '      White Press, LLC. Copy editing.</strong>'
+              '      White Press, LLC—Copy editing.</strong>'
         },
         {
-          quote: '“Bailey was friendly and easy to work with. It was a joy!”<strong>—Crystal B., Romance Author. Proofreading.</strong>'
+          quote: '“Bailey was friendly and easy to work with. It was a joy!”<strong>—Crystal B., Romance Author—Proofreading.</strong>'
         },
         {
-          quote: '"I cannot express how happy I am with the end result."<strong>—Rey, Science Fiction Author. Developmental editing.</strong>'
+          quote:'Her writing skills are excellent. Additionally, she is warm, catches on quickly, and clearly cares about her work and our clients. She communicated clearly with our team and met all deadlines. I highly recommend her!”<strong>—Mary Cullen, Founder of Instructional Solutions—Writing, Editing, and Coaching. </strong>'
+        },
+        {
+          quote: '"I cannot express how happy I am with the end result."<strong>—Rey, Science Fiction Author—Developmental editing.</strong>'
         }
       ],
        settings: {

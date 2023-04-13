@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer font-extrabold flex items-center justify-center">
+    <footer class="footer font-extrabold flex flex-wrap items-center justify-center">
         <span style="font-weight:500; margin-right:12px;">© Copyright 2022</span>The Writing Desk, LLC <span style="font-weight:500; margin-right:12px; margin-left:5px;">  | <router-link to="/disclaimer">Disclaimer</router-link> | <router-link to="/terms">Terms of Use</router-link> | <router-link to="/privacy">Privacy Policy</router-link></span>
     </footer>
 </template>
