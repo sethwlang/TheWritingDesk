@@ -94,15 +94,12 @@
         context—as well as how, when, and why to break the rules.
         </p>
        <p>When your project is ready to spread its wings and fly, copyediting and proofreading clear the runway.</p>
-       <p>Your website copy, marketing collateral, books, and other writing projects will benefit from copyediting and proofreading alike.
-        <ul>
-          <li>Copyediting</li>
-          <li>Proofreading</li>
-        </ul>
-       </p>
+       <p>Your website copy, marketing collateral, books, and other writing projects will benefit from copyediting and proofreading alike.</p>
+       <h5>Copyediting</h5>
        <p>Copyediting emphasizes technical considerations like grammar, spelling, punctuation, and sentence structure. 
         I also focus on content, style, and language use. If you’re using an in-house style guide or APA, MLA, or 
         Chicago style, I’ll ensure your project adheres to those guidelines.</p>
+        <h5>Proofreading</h5>
         <p>Proofreading is the last edit before a project is published—this is where I'll check your work for any 
           lingering typos or other small issues. </p>
           <p>At the end of the editing process, you’ll receive an edited copy of your document, along with a summary 

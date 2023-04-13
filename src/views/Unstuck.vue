@@ -49,21 +49,21 @@
 
     <section class="bg-primary-light content ">
       <div class="text-content">
-      <h4>That’s why I created Get Unstuck.</h4>
+        <h4>That’s why I created Get Unstuck.</h4>
 
-      <p>Get Unstuck is a 5-month coaching program focused on the strategies that will help you write consistently. During
+        <p>Get Unstuck is a 5-month coaching program focused on the strategies that will help you write consistently. During
         your 10 one-on-one
         coaching sessions, you’ll learn how to build, experiment with, customize, implement,
         and sustain effective writing habits. </p>
-      <p>By the time the program is done, you’ll have the tools you need to build a consistent writing practice that
+        <p>By the time the program is done, you’ll have the tools you need to build a consistent writing practice that
         aligns with your energy, your life, and your schedule. </p>
-      <p>Here’s how it works:</p>
+        <p>Here’s how it works:</p>
 
-      <p>Each month, you’ll get 2 one-on-one coaching sessions with a highly trained writing educator (that’s me!).
+        <p>Each month, you’ll get 2 one-on-one coaching sessions with a highly trained writing educator (that’s me!).
         We’ll dive into your writing habits, smash through the roadblocks between you and the page, and develop new,
         customized approaches to writing. </p>
-      <div class="flex flex-row">
-        <div>
+    
+       
           <p>You’ll learn:</p>
           <ul class="list-disc m-5">
             <li>New writing habits that are based on cutting-edge research: We’ll work together to create a new writing
@@ -78,14 +78,7 @@
               to
               your schedule or goals.</li>
           </ul>
-        </div>
-        <div></div>
-      </div>
-      <div class="flex flex-row">
-        <div>
         
-        </div>
-        <div>
           <p>Bonuses</p>
           <p>In addition to one-on-one coaching, you’ll get resources you can return to again and again, including:</p>
           <ul class="list-disc ml-5">
@@ -98,8 +91,7 @@
               me
               between sessions, and I’ll provide ongoing guidance.</li>
           </ul>
-        </div>
-      </div>
+      
     </div>
     </section>
     <section class="content">
@@ -108,7 +100,7 @@
         <p class="quote white-bg quote-unstuck">
           <i>I wondered if this program would work with my current writing habits, and also was concerned about
             adding one more thing to be accountable about, on top of a full-time job and full-time parenting</i><br>
-          <b><i>Almost immediately, I was excited about my writing again.</i></b><br>
+          <b class="pt-2 pb-2"><i>Almost immediately, I was excited about my writing again.</i></b><br>
           <i>It felt different approaching my writing sessions knowing that I am not the only one engaged in them, that
             someone else also cares and is there for support.
             I started a daily writing streak that is now 40 days and going strong, and I went from 31K words to over 63K
@@ -138,28 +130,17 @@
             href="https://calendly.com/the-writing-desk/free-consultation" target="_blank">set up a meeting</a> or email
           me
           at bailey@usethewritingdesk.com. </p>
-      </div>
-      <div class="materials-pack">
-      <h2 class="text-center handwriting">Get Unstuck Coaching Program</h2>
-      <p class="">If the full accountability program isn’t a good fit right now, you can still access many of the
-        benefits!</p>
-      <p>The
-        Accountability Materials Pack includes worksheets and resources that you can use to create your own writing
-        goals and track your progress.</p>
-
-      <script src="https://gumroad.com/js/gumroad.js" type="application/javascript" defer></script>
-      <a class="primary-button" href="https://thewritingdesk.gumroad.com/l/szrdl"
-        data-gumroad-single-product="true"><span>Get the Get Unstuck Coaching Program</span></a>
-
-    </div>
-
-    <div>
-      <p class="text-xs ml-auto mr-auto">Disclaimer: There is no guarantee that the Get Unstuck coaching program will produce any specific
+          <br>
+          <br>
+          <p class="text-xs">Disclaimer: There is no guarantee that the Get Unstuck coaching program will produce any specific
         level of success in your writing practices or provide a specific outcome. Numerous factors contribute to
         determining
       your experience and results and, as with any class, training experience, or coaching relationship, your results
       are
       determined by how you apply the material. </p>
+      </div>
+    <div>
+      
 
   </div>
     </section>
