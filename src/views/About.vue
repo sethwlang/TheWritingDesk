@@ -20,9 +20,6 @@
           <p  >If you feel like you’re one of the “not have way” types—or need some help figuring 
             out a way—you’ve come to the right place. </p>
 
-          
-
-          <p   style="width:574px;max-width:100%;">Finding the right support doesn’t have to be!</p>
           <p  >Here at The Writing Desk, you’ll find everything you need to get from draft to done. </p>
         </div>
       </div>
