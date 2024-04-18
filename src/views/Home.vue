@@ -5,8 +5,8 @@
         <div class="text-content">
           <h1 class="handwriting mt-10">Welcome to<br> The Writing Desk!</h1>
           <p >I’m Bailey Lang: writer, editor, coach, and founder of The Writing Desk. </p>
-          <p>If you’re in education, finance, or technology and looking for copywriting, ghostwriting, or editing, your search has come to an end. </p>
-          <p>If you’re an author looking for actionable editing support or help setting—and reaching—your writing goals, you’re in the right place! </p>
+          <p>I work with businesses to develop high-impact thought leadership and marketing materials, including blog posts, books and ebooks, and more.</p>
+          <p>I help writers build, test, and customize sustainable, enjoyable writing practices that will help you get from draft to done. </p>
           <h4 >The Writing Desk exists to help you tell stories that matter.</h4>
           <p >I’m excited you’re here! Let’s talk about what I can do for you.</p>
         </div>
@@ -44,6 +44,7 @@
                 <div class="flex vertical items-center justify-center bg-twd-blue-secondary-light">
                   <p>
                     Are you struggling to find the right words? I specialize in copywriting and ghostwriting for education, finance, and technology businesses.
+                    Are you wrestling with your content strategy? I can help with that, too! 
                   </p>
                 </div>
                 <router-link class="primary-button" to="/write">
@@ -63,7 +64,8 @@
               <div v-bind:class="{'hidden': openTab !== 3, 'block': openTab === 3}">
                 <div class="flex vertical items-center justify-center">
                   <p>
-                    If you’re a writer who needs additional support figuring out how to make real progress on your writing goals, look no further! My one-on-one coaching program is for you.
+                    If you’re a writer who needs additional support in making real progress on your writing goals, look no further! 
+                    I offer a live writing group, writing strategy audits, and one-on-one coaching
                   </p>
                 </div>
                 <router-link class="primary-button" to="/unstuck">
@@ -77,7 +79,7 @@
     </div>
     <div class="form-and-testimonials">
       <div id="signup">
-        <script async data-uid="2734e4e08a" type="application/javascript" src="https://expert-painter-8086.ck.page/2734e4e08a/index.js" defer></script>
+        <script async data-uid="12d0a0d491" type="application/javascript" src="https://usethewritingdesk.ck.page/12d0a0d491/index.js" defer></script>
       </div>
       <div class="testimonials">
         <div id="testimonies">
@@ -101,11 +103,9 @@
           </div>
           <div>
             <p class="quote white-bg">
-              “Bailey is easy to work with, detail-oriented, and she will take your writing project, or any project, as
-              seriously as you do. I have no idea why I thought writing has to be a
-              solitary experience we muddle through on our own, when it is only enhanced by working with someone who is
-              trained to help you and who has also been there and gets it.” 
-              <strong>—Milena Velez. Chapin, SC. YA and Children’s Author.</strong>
+              “Making sure our copy fit our brand was important to our university. We needed to trust that whoever was writing our content understood who we were. 
+              Bailey was on target from the start! Bailey is friendly, attentive, and understands our needs. She is such a joy to work with.” 
+              <strong>—Jennifer Walker. Director of Marketing, Southern Wesleyan University</strong>
             </p>
           </div>
         </div>

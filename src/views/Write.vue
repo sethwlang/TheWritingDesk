@@ -66,7 +66,7 @@
         <p style="width:624px;">Whether you have a draft, an outline, or a list of ideas on a sticky note, 
           I’ll help you get a finished piece out the door.</p>
 
-        <p>Need help figuring  out where to even start with a book project? No worries! You also get the support that comes 
+        <p>Need help figuring  out where to even start a book project? No worries! You'll also get the support that comes 
           from my experience conducting research and managing large projects. </p>
 <p>Ghostwriting is a collaborative process; you can have as much or as little engagement with the 
   writing process as you want.</p>
@@ -82,6 +82,39 @@
     </section>
     <p class="quote white-bg "><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to other areas of my company.
            She is truly a team player in every sense and the quality of her work never disappoints.” <strong>—Raya Reaves, Finance Coach and Founder of City Girl Savings.</strong></i></p>
+    
+    <section class="bg-primary-light content">
+      <div class="text-content">
+        <h2 class="handwriting">Executive Content Strategy Session</h2>
+        <p>Developing a content strategy for your business can be intimidating. Posting on social media is no longer enough—you need to be savvy, 
+        thoughtful, and strategic about what content you create and where you share it.</p>
+<p>Where do you even start?</p>
+<p>Right here, with an Executive Content Strategy Session. During our 90-minute meeting, we'll:</p>
+<ul class="list-disc ml-5">
+            <li class="indent-1">Do a comprehensive deep dive into your goals, expertise, and content needs</li>
+            <li>Brainstorm and pinpoint relevant topic ideas based on your unique experiences and perspective</li>
+            <li>Explore the most effective strategies for developing high-impact thought leadership</li>
+            <li>Develop a content creation game plan that uses your existing strengths and resources</li>
+            <li>Identify the right outlets and strategies for sharing your message</li>
+            </ul>
+<p>You'll leave the call with a content strategy, clear stepping stones, and success metrics. Your investment includes:</p>
+
+<ul class="list-disc ml-5">
+            <li class="indent-1">One 90-minute content strategy meeting</li>
+            <li>A post-session strategy roadmap</li>
+            <li>Three months of check-ins, follow-ups, and strategic guidance</li>
+            </ul>
+<p>Investment: $600</p>
+<p><a href="https://usethewritingdesk.ck.page/products/executive-content-strategy-session">Schedule your Executive Content Strategy Session today!</a></p>
+</div>
+    </section>
+    <p class="big-quote white-bg "><i>“Before my Content Strategy Session, I was grappling with the daunting task of contributing content to multiple channels for my business development. This overwhelming prospect left me feeling unmotivated.
+       While I recognized the importance of content and considered myself a proficient writer, the lack of structure, guidance, and flowing ideas made implementation nearly impossible.<br>
+       <br>
+Our conversation enabled me to effortlessly generate ideas and establish a structured approach to implementation, unlocking a level of creativity I didn't realize I possessed. It turned an overwhelming, vague, and necessary marketing strategy into a sustainable and lucrative part of my business routine. Bailey's expertise is clear, and I'm looking forward to hiring her for future writing projects.
+<br><br>
+Bailey is a game-changer for businesses in need of content marketing but struggling with unmotivated or sporadic implementation. Her commitment to deeply understanding my business and its content needs led to an incredibly valuable, two-way conversation and a clear path forward. Bailey is the expert you need.
+ <strong>—Bree Benn. CEO, Adapt Digital AdaptDigital.io</strong></i></p>
 
            <div class="uppercase flex justify-between w-2/3 ml-auto mr-auto  pb-5 hidden">
             <div class="flex-row">

@@ -9,7 +9,8 @@ module.exports = {
         'twd-blue': {
           'primary': '#c8e7ed',
           'secondary-light': '#eef8fa',
-          'secondary-dark': '#a2d6e0'
+          'secondary-dark': '#a2d6e0',
+          'dark':'#21626D'
         },
         'twd-grey': {
           'primary-light': '#6c6c6c',
