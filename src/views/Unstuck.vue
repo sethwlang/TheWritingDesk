@@ -11,96 +11,34 @@
       </div>
       <div class="flex vertical center content">
         <div class="text-content">
-          <h1 class="handwriting  ">Get Unstuck Coaching Program</h1>
-          <p>Do you feel like it’s impossible to find time to write, or to build sustainable writing habits that you
-            actually
-            enjoy?</p>
-
-          <p>Are you ready to learn how to write consistently, instead of waiting (and waiting…and waiting) for
-            inspiration to
-            strike?</p>
-
-          <h4>Then the Get Unstuck Coaching Program is for you.</h4>
-
-          <p>You have an amazing idea for a book. It’s a story you know you want to tell—a story you know will make a
-            difference for your readers.</p>
-
-          <p>Maybe you’ve tried to write. You bought the cute notebook, the perfect pens. You set writing goals.
-            You envisioned the finished book on the shelf at your favorite local bookstore. </p>
-
-          <p>Then you tried to put your writing plan into action…and it all fell apart. </p>
-
+          <h1 class="handwriting  ">Coaching Programs</h1>
+          <p>Do you feel like…</p>
           <ul class="list-disc ml-5">
-            <li>Your life is busy—something always seems like it should take priority over your writing. </li>
-            <li>Distractions are constant—social media is right there, your phone is going off, and your kid wants a
-              snack. </li>
-            <li>The blank page is intimidating—the path from “Once upon a time” to “The end” is winding and murky.
-              You wonder: Are you really up for the challenge?</li>
+            <li class="indent-1"> You never have time to write?</li>
+            <li> You’re stuck waiting for inspiration to strike instead of sitting down and writing?</li>
+            <li>You can’t figure out how to build sustainable, enjoyable writing habits?</li>
+            <li>You need more support (and accountability) to get writing done?</li>
           </ul>
-          <p>You want your writing life to feel easy. Joyful. Spacious. Consistent.
-            You want to be able to tell your story and get your book out into the world.</p>
+          <p>Struggling to get words on the page is common—but it’s also a source of shame and frustration for many
+            writers. You’re not alone!</p>
 
-          <p>You want your writing process to feel less like pulling teeth and more like a dance with your imagination.
-          </p>
+          <p>In fact, you’re in precisely the right place.</p>
+
+          <p>Writing is hard. Sometimes, you need someone in your corner. That’s where I come in. As a writing coach, I
+            help authors like you:</p>
+          <ul class="list-disc ml-5">
+            <li class="indent-1"> Find time to write in a way that feels expansive, joyful, and easy</li>
+            <li> Show up to write again and again, even when the Muse is elusive</li>
+            <li>Build and customize writing habits, practices, and rituals that are creatively energizing</li>
+            <li> Get your manuscript from draft to done</li>
+          </ul>
+          <p>Writers I work with make real progress on their books—and feel good about writing again!</p>
+
         </div>
-
-      </div>
-    </div>
-
-    <section class="bg-primary-light content ">
-      <div class="text-content">
-        <h4>That’s why I created Get Unstuck.</h4>
-
-        <p>Get Unstuck is a 5-month coaching program focused on the strategies that will help you write consistently. During
-        your 10 one-on-one
-        coaching sessions, you’ll learn how to build, experiment with, customize, implement,
-        and sustain effective writing habits. </p>
-        <p>By the time the program is done, you’ll have the tools you need to build a consistent writing practice that
-        aligns with your energy, your life, and your schedule. </p>
-        <p>Here’s how it works:</p>
-
-        <p>Each month, you’ll get 2 one-on-one coaching sessions with a highly trained writing educator (that’s me!).
-        We’ll dive into your writing habits, smash through the roadblocks between you and the page, and develop new,
-        customized approaches to writing. </p>
-    
-       
-          <p>You’ll learn:</p>
-          <ul class="list-disc m-5">
-            <li>New writing habits that are based on cutting-edge research: We’ll work together to create a new writing
-              life.
-            </li>
-            <li>How to assess your existing writing process: Figure out what works, what doesn't, and what to do about it.
-            </li>
-            <li>Strategies for finding time to write: You don’t need as much time as you might think!</li>
-            <li>Methods for goal-setting that feel spacious and energizing</li>
-            <li>How to analyze and adjust your new habits: Life happens! You’ll know how to tweak your habits to fit
-              changes
-              to
-              your schedule or goals.</li>
-          </ul>
-        
-          <p>Bonuses</p>
-          <p>In addition to one-on-one coaching, you’ll get resources you can return to again and again, including:</p>
-          <ul class="list-disc ml-5">
-            <li>The Get Unstuck workbook. We’ll both contribute to the workbook, creating a detailed record of your
-              reflections,
-              my suggestions, and your progress.</li>
-            <li>Progress trackers. As you set goals, you’ll use progress trackers to help you see your progress over time.
-            </li>
-            <li>Access to me between sessions. We’ll meet live, but writing questions can pop up anytime. You can contact
-              me
-              between sessions, and I’ll provide ongoing guidance.</li>
-          </ul>
-      
-    </div>
-    </section>
-    <section class="content">
-      <div class="text-content">
-        <h4>Does the Get Unstuck Program Work?</h4>
         <p class="quote white-bg quote-unstuck">
           <i>I wondered if this program would work with my current writing habits, and also was concerned about
-            adding one more thing to be accountable about, on top of a full-time job and full-time parenting</i><br>
-          <b class="pt-2 pb-2"><i>Almost immediately, I was excited about my writing again.</i></b><br>
+            adding one more thing to be accountable about, on top of a full-time job and full-time parenting.</i><br><br>
+          <b class="pt-2 pb-2"><i>Almost immediately, I was excited about my writing again.</i></b><br><br>
           <i>It felt different approaching my writing sessions knowing that I am not the only one engaged in them, that
             someone else also cares and is there for support.
             I started a daily writing streak that is now 40 days and going strong, and I went from 31K words to over 63K
@@ -110,38 +48,308 @@
           </strong>
 
         </p>
-        <h4>The Investment</h4>
-        <p>Conventional wisdom tells me I need to repeat the information above four or five times before I tell you what
-          the
-          program costs,
-          but who has the time to spend an hour scrolling? Let’s get down to brass tacks. </p>
 
-        <p>The Get Unstuck coaching program costs $2,700. You can pay in full or through six monthly payments of $450.
-        </p>
-
-        <p>If you’re ready to get started, the first step is to <a
-            href="https://calendly.com/the-writing-desk/free-consultation" target="_blank">schedule an initial meeting</a>
-          with me. During this free 30-minute call,
-          I’ll answer your questions. Then we’ll decide on a payment plan, set up your coaching schedule, and ensure you
-          have all the materials
-          you need to get started. </p>
-
-        <p>If you have questions about Get Unstuck, let me know! You can <a
-            href="https://calendly.com/the-writing-desk/free-consultation" target="_blank">set up a meeting</a> or email
-          me
-          at bailey@usethewritingdesk.com. </p>
-          <br>
-          <br>
-          <p class="text-xs">Disclaimer: There is no guarantee that the Get Unstuck coaching program will produce any specific
-        level of success in your writing practices or provide a specific outcome. Numerous factors contribute to
-        determining
-      your experience and results and, as with any class, training experience, or coaching relationship, your results
-      are
-      determined by how you apply the material. </p>
       </div>
-    <div>
-      
 
-  </div>
+
+    </div>
+    <h2 class="handwriting text-center  pt-24 rounded-md my-0">Coaching Packages</h2>
+    <section id="twd" class="content mt-0 pt-0 ">
+      <div>
+        
+
+        <!--https://flowbite.com/blocks/marketing/pricing/-->
+        <section id="twd" class="dark:bg-gray-900 pt-0">
+          <div class=" dark:bg-gray-800">
+            <div
+              class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10  border-4 border-twd-blue-primary">
+              <div class="bg-twd-blue-secondary-light px-6 py-8 lg:flex-shrink-1 lg:p-12 dark:bg-gray-900">
+                <h3 class="text-2xl text-left leading-8 font-extrabold text-twd-grey-primary-dark sm:text-3xl sm:leading-9">
+                  Writing Power Hour
+                </h3>
+                <p class="mt-6 text-left font-ttnorms leading-8 text-twd-grey-primary-dark text-lg dark:text-gray-400">Finding time
+                  to write has never been easier. When you join the Writing Power Hour,
+                  you’ll have access to two 60-minute live co-writing sessions every month. Get together
+                  with a group of your fellow creatives to set writing goals, discuss challenges, and celebrate your
+                  wins.
+                  The Writing Power Hour provides a supportive, focused environment for focusing on your writing habits
+                  and
+                  craft.
+                </p>
+                <div class="mt-8">
+                  <div class="flex items-center">
+                    <h4
+                      class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-twd-grey-primary-dark dark:bg-transparent">
+                      The Writing Power Hour includes:
+                    </h4>
+                    <div class="flex-1 border-t-2 border-gray-200 dark:border-gray-700"></div>
+                  </div>
+                  <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Two live co-writing sessions per month (January-November)
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Access to a members-only newsletter to ask questions, connect with editors and agents, and find
+                        publishing
+                        opportunities
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Custom resources and worksheets
+                      </p>
+                    </li>
+
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 ">
+                <p
+                  class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
+                  The Writing Power Hour is coming soon! Sign up for the waitlist and be the first to know when it
+                  launches.
+                </p>
+                <div
+                  class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
+                  <span class="font-brown">$20</span><span
+                    class="text-xl leading-7 font-medium text-gray-500 font-ttnorms">/month</span>
+                </div>
+                <div class="lg:mt-6">
+                  <div class="rounded-md shadow">
+                    <a href="https://usethewritingdesk.ck.page/power-hour-waitlist" target="_blank"
+                      class="flex items-center justify-center px-5 py-3 leading-6 font-medium rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-twd-blue-secondary-light text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
+                      Sign Up!
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--https://tailwindflex.com/@task_master/pricing-for-subscription-card-->
+          <div class=" dark:bg-gray-800">
+            <div
+              class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 border-4 border-twd-blue-primary">
+              <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 bg-twd-blue-secondary-light ">
+                <h3
+                  class="text-2xl text-left leading-8 font-extrabold text-twd-grey-primary-dark sm:text-3xl sm:leading-9 dark:text-gray-100">
+                  Writing Strategy Audit
+                </h3>
+                <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">The Writing
+                  Strategy Audit is a 90-minute deep dive into your writing practices. If you’re preparing to start an
+                  ambitious new project or feeling stuck on an existing book, the Writing Strategy Audit will help you
+                  gain clarity and determine your next steps.
+                  <br><br>
+                  During the call, we’ll use the Writing Strategy Audit workbook to explore your schedule and writing
+                  habits, uncover what’s working (and what’s not), set goals, and create a roadmap for implementing
+                  research-backed writing practices that fit your schedule and ensure you get more writing done.
+                </p>
+                <div class="mt-8">
+                  <div class="flex items-center">
+                    <h4
+                      class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-twd-grey-primary-dark dark:bg-transparent">
+                      The Writing Strategy Audit includes:
+                    </h4>
+                    <div class="flex-1 border-t-2 border-gray-200 dark:border-gray-700"></div>
+                  </div>
+                  <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        One 90-minute strategic coaching session
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        The Writing Strategy Audit workbook
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Follow-up notes from Bailey
+                      </p>
+                    </li>
+
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 dark:bg-gray-900">
+                <p
+                  class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
+                  
+                </p>
+                <div
+                  class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
+                  <span class="font-brown">$450 </span>
+                </div>
+                <div class="lg:mt-6">
+                  <div class="rounded-md shadow">
+                    <a href="https://usethewritingdesk.ck.page/products/writing-strategy-audit" target="_blank"
+                      class="flex items-center justify-center px-5 py-3 leading-6 font-medium bg-twd-blue-secondary-light  rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-white text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
+                      Schedule your Writing Strategy Audit!
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=" dark:bg-gray-800">
+            <div
+              class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 border-4 border-twd-blue-primary">
+              <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 bg-twd-blue-secondary-light ">
+                <h3
+                  class="text-2xl text-left leading-8 font-extrabold text-twd-grey-primary-dark sm:text-3xl sm:leading-9 dark:text-gray-100">
+                  Get Unstuck Coaching
+                </h3>
+                <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">Are you
+                  struggling to maintain a consistent writing practice? Do you know you write best with consistent
+                  support and external accountability? Get Unstuck Coaching is for you.
+                  <br><br>
+                  The one-on-one Get Unstuck Coaching program is designed to help you build and sustain a consistent
+                  writing practice and provide the scaffolding you need to stay on track.
+                  <br><br>
+                  You and I will meet to set goals, analyze and customize your writing habits, and track your progress.
+                </p>
+                <div class="mt-8">
+                  <div class="flex items-center">
+                    <h4
+                      class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-twd-grey-primary-dark dark:bg-transparent">
+                      Your investment includes:
+                    </h4>
+                    <div class="flex-1 border-t-2 border-gray-200 dark:border-gray-700"></div>
+                  </div>
+                  <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        One deep-dive, 75-minute session for goal-setting and planning
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Five 30-minute coaching sessions (must be used within six months of purchase)
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Worksheets, progress trackers, and other resources
+                      </p>
+                    </li>
+
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 bg-white">
+                <p
+                  class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
+                  If you have questions about coaching, let me know! Email me at <a
+                    href="mailto:bailey@usethewritingdesk.com">bailey@usethewritingdesk.com</a>
+                </p>
+                <div
+                  class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
+                  <span class="font-brown">$900 </span>
+                </div>
+                <div class="lg:mt-6">
+                  <div class="rounded-md shadow">
+                    <a href="https://usethewritingdesk.ck.page/products/get-unstuck-coaching" target="_blank"
+                      class="flex items-center justify-center px-5 py-3 leading-6 font-medium bg-twd-blue-secondary-light  rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-white  text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
+                      Get ready to Get Unstuck!
+                    </a>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <span class="text-xs content">Disclaimer: There is no guarantee that coaching will produce any specific
+          level of success in your writing practices or provide a specific outcome. Numerous factors contribute to
+          determining
+          your experience and results and, as with any class, training experience, or coaching relationship, your
+          results
+          are
+          determined by how you apply the material. </span>
+        </section>
+
+
+       
+
+
+      </div>
     </section>
-</div></template>
+  </div>
+</template>

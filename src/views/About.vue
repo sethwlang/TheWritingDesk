@@ -24,21 +24,21 @@
         </div>
       </div>
     </div>
-    <section class="insights bg-primary-light">
+    <section id="twd" class="insights bg-primary-light">
       <ul class="list-disc ml-5">
         <li>
-          Are you an education, finance, or technology company in need of writing or editing support? 
+          Are you in need of writing support? 
           I’ve got your back—<router-link class="link" to="/write">head here to learn more about copywriting and ghostwriting opportunities</router-link>. 
         </li>
         <li>Do you have existing materials that need a little TLC? Whether you’re looking for edits on a technical document or a novel, I can help. <router-link class="link" to="/edit">Check out my editing packages for businesses and writers</router-link>.
         </li>
-        <li>Do you need help making progress on your book? You might be interested in my <router-link class="link" to="/unstuck">one-on-one coaching program</router-link>!
+        <li>Do you need help making progress on your book? You might be interested in my <router-link class="link" to="/unstuck">coaching packages</router-link>!
         </li>
       </ul>
       <div class="text-content">
       <p>I started my career as a marketing analyst but quickly fell in love with rhetoric and writing studies while 
         working on a master’s degree. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/">written a book</a> and left my corporate job for a Ph.D. program.</p>
-        <p>By the time I finished my dissertation, I had realized helping other writers is what I’m meant to do.</p>
+        <p>By the time I finished my dissertation, I healized that helping other writers is what I was meant to do.</p>
         <p><b>Now, I help businesses and writers tell stories that matter. </b></p>
         <p>That said, I’ll be the first one to admit it: Writing is hard!</p>
         <p>You’ve probably already experienced the terror of a blank page, a blinking cursor, and a looming deadline. </p>
@@ -53,12 +53,13 @@
     
       
     </section>
-    <section>
+    <section id="twd">
   <div class="flex vertical center content">
         <div>
           <p class="text-content">In addition to working with businesses and helping writers one-on-one, I give 10% of The Writing Desk’s profits to local and national organizations supporting literacy, writing education, and writers from marginalized groups.</p>
-          <p class="text-content mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get a copy of Get Unstuck, my guide to beating writer’s block once and for all. </p>
-          <script async data-uid="12d0a0d491" src="https://expert-painter-8086.ck.page/12d0a0d491/index.js" type="application/javascript"></script>
+          <p class="text-content mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get writing tips and author interviews delivered right to your inbox.</p>
+          <h3 class="text-center">Get the Newsletter!</h3>
+          <script async data-uid="972b5da60a" src="https://usethewritingdesk.ck.page/972b5da60a/index.js" type="application/javascript"></script>
         </div>
       </div>
     </section>
@@ -92,6 +93,9 @@ export default {
         },
         {
           quote: '"I cannot express how happy I am with the end result."<strong>—Rey, Science Fiction Author—Developmental editing.</strong>'
+        },
+        {
+          quote: '"Bailey\'s editing and proofreading tightened up our messaging across the board. She is incredibly thorough and accurate." <strong>—Laralee Harkleroad, Associate Vice President of Marketing and Learning, enrollmentFUEL—Editing and Proofreading.</strong '
         }
       ],
        settings: {
