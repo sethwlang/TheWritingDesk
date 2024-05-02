@@ -1320,7 +1320,7 @@ nav + * {
 }
 
 section {
-  padding: 80px;
+  padding: 60px;
 }
 
 @media (max-width: 480px) {

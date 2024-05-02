@@ -50,370 +50,304 @@
         </p>
 
       </div>
-     
-    
+
+
     </div>
-    <h2 class="handwriting text-center bg-twd-blue-primary py-10 rounded-md my-0">Coaching Packages</h2> 
-    <section class="content mt-0">
+    <h2 class="handwriting text-center  pt-24 rounded-md my-0">Coaching Packages</h2>
+    <section class="content mt-0 pt-0 ">
       <div>
-        <!--<h5>Writing Power Hour</h5>
-        <p>Finding time to write has never been easier. When you join the Writing Power Hour,
-          you’ll have access to two 60-minute live co-writing sessions every month. Get together
-          with a group of your fellow creatives to set writing goals, discuss challenges, and celebrate your wins.
-          The Writing Power Hour provides a supportive, focused environment for focusing on your writing habits and
-          craft.</p>
-
-        <p>The Writing Power Hour includes:</p>
-        <ul class="list-disc ml-5">
-          <li class="indent-1">Two live co-writing sessions per month (January-November)</li>
-          <li>Access to a members-only newsletter to ask questions, connect with editors and agents, and find publishing
-            opportunities</li>
-          <li>Custom resources and worksheets</li>
-        </ul>
-
-
-
-
-        <p>Investment: $20/month or $240/year </p>
-
-        <p>The Writing Power Hour is coming soon! <a href="https://usethewritingdesk.ck.page/power-hour-waitlist">Sign
-            up for the waitlist</a> and be the first to know when it launches. </p>
-
-        <h5>Writing Strategy Audit</h5>
-        <p>The Writing Strategy Audit is a 90-minute deep dive into your writing practices. If you’re preparing to start
-          an ambitious new
-          project or feeling stuck on an existing book, the Writing Strategy Audit will help you gain clarity and
-          determine your next steps.</p>
-
-        <p>During the call, we’ll use the Writing Strategy Audit workbook to explore your schedule and writing habits,
-          uncover what’s working (and what’s not), set goals, and create a roadmap for implementing research-backed
-          writing practices
-          that fit your schedule and ensure you get more writing done.</p>
-
-        <p>The Writing Strategy Audit includes:</p>
-        <ul class="list-disc ml-5">
-          <li class="indent-1">One 90-minute strategic coaching session</li>
-          <li>The Writing Strategy Audit workbook</li>
-          <li>Follow-up notes from Bailey</li>
-        </ul>
-
-
-
-
-        <p>Investment: $450 </p>
-
-        <p><a href="https://usethewritingdesk.ck.page/products/writing-strategy-audit">Schedule your Writing Strategy
-            Audit!</a></p>
-
-        <h5>Get Unstuck Coaching</h5>
-        <p>Are you struggling to maintain a consistent writing practice? Do you know you write best
-          with consistent support and external accountability? Get Unstuck Coaching is for you.</p>
-
-        <p>The one-on-one Get Unstuck Coaching program is designed to help you build and
-          sustain a consistent writing practice and provide the scaffolding you need to stay on track. </p>
-
-        <p>You and I will meet to set goals, analyze and customize your writing habits, and track your progress.</p>
-
-        <p>Your investment includes:</p>
-        <ul class="list-disc ml-5">
-          <li class="indent-1">One deep-dive, 75-minute session for goal-setting and planning</li>
-          <li>Five 30-minute coaching sessions (must be used within six months of purchase)</li>
-          <li>Worksheets, progress trackers, and other resources</li>
-        </ul>
-
-
-
-
-        <p>Investment: $300/month for three months ($900 total)</p>
-
-        <p><a href="https://usethewritingdesk.ck.page/products/get-unstuck-coaching">Get ready to Get Unstuck!</a></p>
-
-
-
-
-
-
-
-
-        <p>If you have questions about coaching, let me know! Email
-          me
-          at bailey@usethewritingdesk.com. </p>-->
+        
 
         <!--https://flowbite.com/blocks/marketing/pricing/-->
-        <section class="bg-white dark:bg-gray-900">
+        <section class="dark:bg-gray-900 pt-0">
           <div class=" dark:bg-gray-800">
-    <div
-        class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 shadow-teal border-4 border-teal-400">
-        <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 dark:bg-gray-900">
-            <h3
-                class="text-2xl text-left leading-8 font-extrabold text-gray-900 sm:text-3xl sm:leading-9 dark:text-gray-100">
-                Writing Power Hour
-            </h3>
-            <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">Finding time to write has never been easier. When you join the Writing Power Hour,
-          you’ll have access to two 60-minute live co-writing sessions every month. Get together
-          with a group of your fellow creatives to set writing goals, discuss challenges, and celebrate your wins.
-          The Writing Power Hour provides a supportive, focused environment for focusing on your writing habits and
-          craft.
-            </p>
-            <div class="mt-8">
-                <div class="flex items-center">
+            <div
+              class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10  border-4 border-twd-blue-primary">
+              <div class="bg-twd-blue-secondary-light px-6 py-8 lg:flex-shrink-1 lg:p-12 dark:bg-gray-900">
+                <h3 class="text-2xl text-left leading-8 font-extrabold text-twd-grey-primary-dark sm:text-3xl sm:leading-9">
+                  Writing Power Hour
+                </h3>
+                <p class="mt-6 text-left font-ttnorms leading-8 text-twd-grey-primary-dark text-lg dark:text-gray-400">Finding time
+                  to write has never been easier. When you join the Writing Power Hour,
+                  you’ll have access to two 60-minute live co-writing sessions every month. Get together
+                  with a group of your fellow creatives to set writing goals, discuss challenges, and celebrate your
+                  wins.
+                  The Writing Power Hour provides a supportive, focused environment for focusing on your writing habits
+                  and
+                  craft.
+                </p>
+                <div class="mt-8">
+                  <div class="flex items-center">
                     <h4
-                        class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-teal-600 dark:text-teal-300 dark:bg-transparent">
-                        The Writing Power Hour includes:
+                      class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-twd-grey-primary-dark dark:bg-transparent">
+                      The Writing Power Hour includes:
                     </h4>
                     <div class="flex-1 border-t-2 border-gray-200 dark:border-gray-700"></div>
+                  </div>
+                  <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Two live co-writing sessions per month (January-November)
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Access to a members-only newsletter to ask questions, connect with editors and agents, and find
+                        publishing
+                        opportunities
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Custom resources and worksheets
+                      </p>
+                    </li>
+
+                  </ul>
                 </div>
-                <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          Two live co-writing sessions per month (January-November)
-                        </p>
-                    </li>
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          Access to a members-only newsletter to ask questions, connect with editors and agents, and find publishing
-            opportunities
-                        </p>
-                    </li>
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          Custom resources and worksheets
-                        </p>
-                    </li>
-                  
-                </ul>
-            </div>
-        </div>
-        <div
-            class="py-8 px-6 text-center bg-gray-50 lg:flex lg:flex-col lg:justify-center lg:p-12 dark:bg-gray-900">
-            <p
-                class="text-xl leading-6 font-medium text-gray-900 lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
-                The Writing Power Hour is coming soon! Sign up for the waitlist and be the first to know when it launches. 
-            </p>
-            <div
-                class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-gray-900 dark:text-gray-100">
-                <span class="font-brown">$19</span><span class="text-xl leading-7 font-medium text-gray-500 font-ttnorms">/month</span>
-            </div>
-            <div class="lg:mt-6">
-              <div class="rounded-md shadow">
-            <a href="https://usethewritingdesk.ck.page/power-hour-waitlist"
-                        class="flex items-center justify-center px-5 py-3 leading-6 font-medium rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out shadow-teal border-2 border-teal-400 bg-white hover:bg-teal-400 hover:shadow-teal-hover text-teal-400 hover:text-white text-lg relative z-20 dark:bg-teal-400 dark:text-white dark:hover:bg-teal-500 dark:hover:text-white">
-                        Sign Up!
+              </div>
+              <div
+                class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 ">
+                <p
+                  class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
+                  The Writing Power Hour is coming soon! Sign up for the waitlist and be the first to know when it
+                  launches.
+                </p>
+                <div
+                  class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
+                  <span class="font-brown">$19</span><span
+                    class="text-xl leading-7 font-medium text-gray-500 font-ttnorms">/month</span>
+                </div>
+                <div class="lg:mt-6">
+                  <div class="rounded-md shadow">
+                    <a href="https://usethewritingdesk.ck.page/power-hour-waitlist"
+                      class="flex items-center justify-center px-5 py-3 leading-6 font-medium rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-twd-blue-secondary-light text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
+                      Sign Up!
                     </a>
                   </div>
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
           </div>
           <!--https://tailwindflex.com/@task_master/pricing-for-subscription-card-->
           <div class=" dark:bg-gray-800">
-    <div
-        class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 shadow-teal border-4 border-teal-400">
-        <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 dark:bg-gray-900">
-            <h3
-                class="text-2xl text-left leading-8 font-extrabold text-gray-900 sm:text-3xl sm:leading-9 dark:text-gray-100">
-                Writing Strategy Audit
-            </h3>
-            <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">The Writing Strategy Audit is a 90-minute deep dive into your writing practices. If you’re preparing to start an ambitious new project or feeling stuck on an existing book, the Writing Strategy Audit will help you gain clarity and determine your next steps.
-<br><br>
-During the call, we’ll use the Writing Strategy Audit workbook to explore your schedule and writing habits, uncover what’s working (and what’s not), set goals, and create a roadmap for implementing research-backed writing practices that fit your schedule and ensure you get more writing done.
-            </p>
-            <div class="mt-8">
-                <div class="flex items-center">
+            <div
+              class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 border-4 border-twd-blue-primary">
+              <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 bg-twd-blue-secondary-light ">
+                <h3
+                  class="text-2xl text-left leading-8 font-extrabold text-twd-grey-primary-dark sm:text-3xl sm:leading-9 dark:text-gray-100">
+                  Writing Strategy Audit
+                </h3>
+                <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">The Writing
+                  Strategy Audit is a 90-minute deep dive into your writing practices. If you’re preparing to start an
+                  ambitious new project or feeling stuck on an existing book, the Writing Strategy Audit will help you
+                  gain clarity and determine your next steps.
+                  <br><br>
+                  During the call, we’ll use the Writing Strategy Audit workbook to explore your schedule and writing
+                  habits, uncover what’s working (and what’s not), set goals, and create a roadmap for implementing
+                  research-backed writing practices that fit your schedule and ensure you get more writing done.
+                </p>
+                <div class="mt-8">
+                  <div class="flex items-center">
                     <h4
-                        class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-teal-600 dark:text-teal-300 dark:bg-transparent">
-                        The Writing Strategy Audit includes:
+                      class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-twd-grey-primary-dark dark:bg-transparent">
+                      The Writing Strategy Audit includes:
                     </h4>
                     <div class="flex-1 border-t-2 border-gray-200 dark:border-gray-700"></div>
+                  </div>
+                  <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        One 90-minute strategic coaching session
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        The Writing Strategy Audit workbook
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Follow-up notes from Bailey
+                      </p>
+                    </li>
+
+                  </ul>
                 </div>
-                <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          One 90-minute strategic coaching session
-                        </p>
-                    </li>
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          The Writing Strategy Audit workbook
-                        </p>
-                    </li>
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          Follow-up notes from Bailey
-                        </p>
-                    </li>
-                  
-                </ul>
-            </div>
-        </div>
-        <div
-            class="py-8 px-6 text-center bg-gray-50 lg:flex lg:flex-col lg:justify-center lg:p-12 dark:bg-gray-900">
-            <p
-                class="text-xl leading-6 font-medium text-gray-900 lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
-                A single
-                payment for your entire team
-            </p>
-            <div
-                class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-gray-900 dark:text-gray-100">
-                <span class="font-brown">$450 </span>
-            </div>
-            <div class="lg:mt-6">
-              <div class="rounded-md shadow">
-            <a href="https://usethewritingdesk.ck.page/products/writing-strategy-audit"
-                        class="flex items-center justify-center px-5 py-3 leading-6 font-medium rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out shadow-teal border-2 border-teal-400 bg-white hover:bg-teal-400 hover:shadow-teal-hover text-teal-400 hover:text-white text-lg relative z-20 dark:bg-teal-400 dark:text-white dark:hover:bg-teal-500 dark:hover:text-white">
-                        Schedule your Writing Strategy Audit!
+              </div>
+              <div
+                class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 dark:bg-gray-900">
+                <p
+                  class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
+                  A single
+                  payment for your entire team
+                </p>
+                <div
+                  class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
+                  <span class="font-brown">$450 </span>
+                </div>
+                <div class="lg:mt-6">
+                  <div class="rounded-md shadow">
+                    <a href="https://usethewritingdesk.ck.page/products/writing-strategy-audit"
+                      class="flex items-center justify-center px-5 py-3 leading-6 font-medium bg-twd-blue-secondary-light  rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-white text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
+                      Schedule your Writing Strategy Audit!
                     </a>
-                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
           </div>
           <div class=" dark:bg-gray-800">
-    <div
-        class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 shadow-teal border-4 border-teal-400">
-        <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 dark:bg-gray-900">
-            <h3
-                class="text-2xl text-left leading-8 font-extrabold text-gray-900 sm:text-3xl sm:leading-9 dark:text-gray-100">
-                Get Unstuck Coaching
-            </h3>
-            <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">Are you struggling to maintain a consistent writing practice? Do you know you write best with consistent support and external accountability? Get Unstuck Coaching is for you.
-<br><br>
-The one-on-one Get Unstuck Coaching program is designed to help you build and sustain a consistent writing practice and provide the scaffolding you need to stay on track.
-<br><br>
-You and I will meet to set goals, analyze and customize your writing habits, and track your progress.</p>
-            <div class="mt-8">
-                <div class="flex items-center">
+            <div
+              class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10 border-4 border-twd-blue-primary">
+              <div class="bg-white px-6 py-8 lg:flex-shrink-1 lg:p-12 bg-twd-blue-secondary-light ">
+                <h3
+                  class="text-2xl text-left leading-8 font-extrabold text-twd-grey-primary-dark sm:text-3xl sm:leading-9 dark:text-gray-100">
+                  Get Unstuck Coaching
+                </h3>
+                <p class="mt-6 text-left font-ttnorms leading-8 text-gray-500 text-lg dark:text-gray-400">Are you
+                  struggling to maintain a consistent writing practice? Do you know you write best with consistent
+                  support and external accountability? Get Unstuck Coaching is for you.
+                  <br><br>
+                  The one-on-one Get Unstuck Coaching program is designed to help you build and sustain a consistent
+                  writing practice and provide the scaffolding you need to stay on track.
+                  <br><br>
+                  You and I will meet to set goals, analyze and customize your writing habits, and track your progress.
+                </p>
+                <div class="mt-8">
+                  <div class="flex items-center">
                     <h4
-                        class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-teal-600 dark:text-teal-300 dark:bg-transparent">
-                        Your investment includes:
+                      class="flex-shrink-0 pr-4 bg-white text-sm leading-5 tracking-wider font-semibold uppercase text-twd-grey-primary-dark dark:bg-transparent">
+                      Your investment includes:
                     </h4>
                     <div class="flex-1 border-t-2 border-gray-200 dark:border-gray-700"></div>
-                </div>
-                <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
+                  </div>
+                  <ul class="pl-0 mt-8 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 space-y-5 lg:space-y-0">
                     <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          One deep-dive, 75-minute session for goal-setting and planning
-                        </p>
-                    </li>
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          Five 30-minute coaching sessions (must be used within six months of purchase)
-                        </p>
-                    </li>
-                    <li class="flex items-start lg:col-span-1">
-                        <div class="flex-shrink-0"><svg class="h-5 w-5 text-teal-400 dark:text-teal-300"
-                                fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd">
-                                </path>
-                            </svg>
-                        </div>
-                        <p class="ml-3 text-lg leading-5 text-gray-700 font-ttnorms text-left dark:text-gray-300">
-                          FWorksheets, progress trackers, and other resources
-                        </p>
-                    </li>
-                  
-                </ul>
-            </div>
-        </div>
-        <div
-            class="py-8 px-6 text-center bg-gray-50 lg:flex lg:flex-col lg:justify-center lg:p-12 dark:bg-gray-900">
-            <p
-                class="text-xl leading-6 font-medium text-gray-900 lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
-                If you have questions about coaching, let me know! Email me at <a href="mailto:bailey@usethewritingdesk.com">bailey@usethewritingdesk.com</a> 
-            </p>
-            <div
-                class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-gray-900 dark:text-gray-100">
-                <span class="font-brown">$900 </span>
-            </div>
-            <div class="lg:mt-6">
-              <div class="rounded-md shadow">
-            <a href="https://usethewritingdesk.ck.page/products/get-unstuck-coaching"
-                        class="flex items-center justify-center px-5 py-3 leading-6 font-medium rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out shadow-teal border-2 border-teal-400 bg-white hover:bg-teal-400 hover:shadow-teal-hover text-teal-400 hover:text-white text-lg relative z-20 dark:bg-teal-400 dark:text-white dark:hover:bg-teal-500 dark:hover:text-white">
-                        Get ready to Get Unstuck!
-                    </a>
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
                       </div>
-                    
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        One deep-dive, 75-minute session for goal-setting and planning
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Five 30-minute coaching sessions (must be used within six months of purchase)
+                      </p>
+                    </li>
+                    <li class="flex items-start lg:col-span-1">
+                      <div class="flex-shrink-0"><svg class="h-5 w-5 text-twd-blue-secondary-dark"
+                          fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd"
+                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                            clip-rule="evenodd">
+                          </path>
+                        </svg>
+                      </div>
+                      <p class="ml-3 mt-0 text-lg leading-5 text-twd-grey-primary-dark font-ttnorms text-left dark:text-gray-300">
+                        Worksheets, progress trackers, and other resources
+                      </p>
+                    </li>
+
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 bg-white">
+                <p
+                  class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
+                  If you have questions about coaching, let me know! Email me at <a
+                    href="mailto:bailey@usethewritingdesk.com">bailey@usethewritingdesk.com</a>
+                </p>
+                <div
+                  class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
+                  <span class="font-brown">$900 </span>
+                </div>
+                <div class="lg:mt-6">
+                  <div class="rounded-md shadow">
+                    <a href="https://usethewritingdesk.ck.page/products/get-unstuck-coaching"
+                      class="flex items-center justify-center px-5 py-3 leading-6 font-medium bg-twd-blue-secondary-light  rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-white  text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
+                      Get ready to Get Unstuck!
+                    </a>
+                  </div>
+
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
           </div>
-        </section>
-      
-        <br>
-        <br>
-        <p class="text-xs">Disclaimer: There is no guarantee that coaching will produce any specific
+          <span class="text-xs content">Disclaimer: There is no guarantee that coaching will produce any specific
           level of success in your writing practices or provide a specific outcome. Numerous factors contribute to
           determining
           your experience and results and, as with any class, training experience, or coaching relationship, your
           results
           are
-          determined by how you apply the material. </p>
+          determined by how you apply the material. </span>
+        </section>
+
+
+       
 
 
       </div>
