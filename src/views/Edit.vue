@@ -21,7 +21,7 @@
       </div>
     </div>
 
-    <section class="bg-primary-light">
+    <section id="twd" class="bg-primary-light">
       <div class="text-content">
         <h2 class="handwriting">Developmental Editing</h2>
         <p>Developmental editing takes two forms: ongoing coaching and feedback as you work on a draft, or an in-depth
@@ -76,7 +76,7 @@
 
 
       
-    <section class="flex columns editing-proofreading">
+    <section id="twd" class="flex columns editing-proofreading">
       <div class="content mt-5">
         <picture>
           <source type="image/webp" srcset="../assets/images/writing3.webp">

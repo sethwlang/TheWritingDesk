@@ -21,7 +21,7 @@
       </div>
     </div>
 
-    <section class="bg-primary-light content">
+    <section id="twd" class="bg-primary-light content">
       <div class="text-content">
         <h2 class="handwriting">Copywriting</h2>
 
@@ -50,7 +50,7 @@
       </div>
 
     </section>
-    <section class="flex columns">
+    <section id="twd" class="flex columns">
       <div class="flex center">
         <picture>
           <source type="image/webp" srcset="../assets/images/writing2.webp">
@@ -89,13 +89,13 @@
       </div>
 
     </section>
-    <section class="bg-primary-light ">
+    <section id="twd" class="bg-primary-light ">
     <p class="quote white-bg "><i>“Bailey delivers her work efficiently and proactively, allowing me to shift focus to
         other areas of my company.
         She is truly a team player in every sense and the quality of her work never disappoints.” <strong>—Raya Reaves,
           Finance Coach and Founder of City Girl Savings.</strong></i></p>
         </section>
-    <section class="content">
+    <section id="twd" class="content">
       <div class="text-content">
         <h2 class="handwriting">Executive Content Strategy Session</h2>
         <p>Developing a content strategy for your business can be intimidating. Posting on social media is no longer

@@ -24,7 +24,7 @@
         </div>
       </div>
     </div>
-    <section class="insights bg-primary-light">
+    <section id="twd" class="insights bg-primary-light">
       <ul class="list-disc ml-5">
         <li>
           Are you in need of writing support? 
@@ -53,11 +53,12 @@
     
       
     </section>
-    <section>
+    <section id="twd">
   <div class="flex vertical center content">
         <div>
           <p class="text-content">In addition to working with businesses and helping writers one-on-one, I give 10% of The Writing Desk’s profits to local and national organizations supporting literacy, writing education, and writers from marginalized groups.</p>
           <p class="text-content mb-20">I’d love to stay in touch and learn about your projects. Sign up for my free newsletter, Word to the Wise, and get writing tips and author interviews delivered right to your inbox.</p>
+          <h3 class="text-center">Get the Newsletter!</h3>
           <script async data-uid="972b5da60a" src="https://usethewritingdesk.ck.page/972b5da60a/index.js" type="application/javascript"></script>
         </div>
       </div>

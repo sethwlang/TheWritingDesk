@@ -6,7 +6,7 @@
           <h1 class="handwriting mt-10">Welcome to<br> The Writing Desk!</h1>
           <p >I’m Bailey Lang: writer, editor, coach, and founder of The Writing Desk. </p>
           <p>I work with businesses to develop high-impact thought leadership and marketing materials, including blog posts, books and ebooks, and more.</p>
-          <p>I help writers build, test, and customize sustainable, enjoyable writing practices that will help you get from draft to done. </p>
+          <p>I help writers build, test, and customize sustainable, enjoyable writing practices that will get you from draft to done. </p>
           <h4 >The Writing Desk exists to help you tell stories that matter.</h4>
           <p >I’m excited you’re here! Let’s talk about what I can do for you.</p>
         </div>
@@ -65,7 +65,7 @@
                 <div class="flex vertical items-center justify-center">
                   <p>
                     If you’re a writer who needs additional support in making real progress on your writing goals, look no further! 
-                    I offer a live writing group, writing strategy audits, and one-on-one coaching
+                    I offer a live writing group, writing strategy audits, and one-on-one coaching.
                   </p>
                 </div>
                 <router-link class="primary-button" to="/unstuck">

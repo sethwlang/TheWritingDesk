@@ -37,8 +37,8 @@
         </div>
         <p class="quote white-bg quote-unstuck">
           <i>I wondered if this program would work with my current writing habits, and also was concerned about
-            adding one more thing to be accountable about, on top of a full-time job and full-time parenting</i><br>
-          <b class="pt-2 pb-2"><i>Almost immediately, I was excited about my writing again.</i></b><br>
+            adding one more thing to be accountable about, on top of a full-time job and full-time parenting.</i><br><br>
+          <b class="pt-2 pb-2"><i>Almost immediately, I was excited about my writing again.</i></b><br><br>
           <i>It felt different approaching my writing sessions knowing that I am not the only one engaged in them, that
             someone else also cares and is there for support.
             I started a daily writing streak that is now 40 days and going strong, and I went from 31K words to over 63K
@@ -54,12 +54,12 @@
 
     </div>
     <h2 class="handwriting text-center  pt-24 rounded-md my-0">Coaching Packages</h2>
-    <section class="content mt-0 pt-0 ">
+    <section id="twd" class="content mt-0 pt-0 ">
       <div>
         
 
         <!--https://flowbite.com/blocks/marketing/pricing/-->
-        <section class="dark:bg-gray-900 pt-0">
+        <section id="twd" class="dark:bg-gray-900 pt-0">
           <div class=" dark:bg-gray-800">
             <div
               class="max-w-lg mx-auto rounded-lg overflow-hidden lg:max-w-none lg:flex my-10  border-4 border-twd-blue-primary">
@@ -139,12 +139,12 @@
                 </p>
                 <div
                   class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
-                  <span class="font-brown">$19</span><span
+                  <span class="font-brown">$20</span><span
                     class="text-xl leading-7 font-medium text-gray-500 font-ttnorms">/month</span>
                 </div>
                 <div class="lg:mt-6">
                   <div class="rounded-md shadow">
-                    <a href="https://usethewritingdesk.ck.page/power-hour-waitlist"
+                    <a href="https://usethewritingdesk.ck.page/power-hour-waitlist" target="_blank"
                       class="flex items-center justify-center px-5 py-3 leading-6 font-medium rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-twd-blue-secondary-light text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
                       Sign Up!
                     </a>
@@ -227,8 +227,7 @@
                 class="py-8 px-6 text-center  lg:flex lg:flex-col lg:justify-center lg:p-12 dark:bg-gray-900">
                 <p
                   class="text-xl leading-6 font-medium text-twd-grey-primary-dark lg:max-w-xs lg:mx-auto mb-0 lg:mb-6 dark:text-gray-100">
-                  A single
-                  payment for your entire team
+                  
                 </p>
                 <div
                   class="my-10 lg:my-6 flex items-baseline justify-center text-5xl leading-none font-extrabold text-twd-grey-primary-dark dark:text-gray-100">
@@ -236,7 +235,7 @@
                 </div>
                 <div class="lg:mt-6">
                   <div class="rounded-md shadow">
-                    <a href="https://usethewritingdesk.ck.page/products/writing-strategy-audit"
+                    <a href="https://usethewritingdesk.ck.page/products/writing-strategy-audit" target="_blank"
                       class="flex items-center justify-center px-5 py-3 leading-6 font-medium bg-twd-blue-secondary-light  rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-white text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
                       Schedule your Writing Strategy Audit!
                     </a>
@@ -327,7 +326,7 @@
                 </div>
                 <div class="lg:mt-6">
                   <div class="rounded-md shadow">
-                    <a href="https://usethewritingdesk.ck.page/products/get-unstuck-coaching"
+                    <a href="https://usethewritingdesk.ck.page/products/get-unstuck-coaching" target="_blank"
                       class="flex items-center justify-center px-5 py-3 leading-6 font-medium bg-twd-blue-secondary-light  rounded-md focus:outline-none focus:ring transition duration-200 ease-in-out border-2 border-twd-blue-primary hover:border-twd-blue-secondary-dark bg-white  text-twd-grey-primary-dark hover:text-twd-grey-secondary text-lg relative z-20 dark:text-white dark:hover:text-twd-grey-secondary">
                       Get ready to Get Unstuck!
                     </a>
