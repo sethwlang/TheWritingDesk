@@ -38,7 +38,7 @@
       <div class="text-content">
       <p>I started my career as a marketing analyst but quickly fell in love with rhetoric and writing studies while 
         working on a master’s degree. Before I knew it, I’d <a href="https://www.nebraskapress.unl.edu/potomac-books/9781612347660/">written a book</a> and left my corporate job for a Ph.D. program.</p>
-        <p>By the time I finished my dissertation, I healized that helping other writers is what I was meant to do.</p>
+        <p>By the time I finished my dissertation, I realized that helping other writers is what I was meant to do.</p>
         <p><b>Now, I help businesses and writers tell stories that matter. </b></p>
         <p>That said, I’ll be the first one to admit it: Writing is hard!</p>
         <p>You’ve probably already experienced the terror of a blank page, a blinking cursor, and a looming deadline. </p>
